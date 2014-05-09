@@ -1,0 +1,123 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Kitesong"
+    android:background="#dfdfdf">
+
+    <RelativeLayout android:id="@+id/head"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:background="#2b3038">
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:text="@string/title"
+                  android:textSize="30sp"
+                  android:gravity="center"
+                  android:textColor="#fff"
+                  android:typeface="monospace"
+                  />
+    </RelativeLayout>
+   
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@id/head"
+                    android:gravity="center_horizontal"
+                    android:id="@+id/login_frame">
+        
+        <TextView android:id="@+id/login_tip"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/login_tip"
+                  android:textColor="#000"
+                  android:textSize="25sp"
+                  android:padding="10dp"
+                  android:layout_marginTop="40dp"
+                  android:gravity="center"/>
+        
+        <LinearLayout
+            android:layout_width="465dp"
+            android:layout_height="150dp"
+            android:layout_below="@id/login_tip"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="#fff"
+            >
+            <LinearLayout android:layout_width="match_parent"
+                		  android:layout_height="match_parent"
+                		  android:background="@drawable/rounded_table_compact_border"
+                		  android:orientation="vertical" >
+                		  
+                <EditText android:id="@+id/username"
+                          android:layout_width="match_parent"
+                          android:layout_height="50dp"
+                          android:inputType="textNoSuggestions"
+                          android:background="@null"
+                          android:padding="10dp"
+                          android:gravity="center_vertical"
+                          android:hint="@string/username_hint"/>
+                <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+                
+                <EditText android:id="@+id/password"
+                          android:layout_width="match_parent"
+                          android:layout_height="50dp"
+                          android:inputType="textPassword"
+                          android:background="@null"
+                          android:padding="10dp"
+                          android:gravity="center_vertical"
+                          android:hint="@string/password_hint"/>
+                <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+                
+                <Button android:id="@+id/login"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="@string/login_btn_text"
+                        android:gravity="center"
+                        android:textSize="20sp"
+                        android:textColor="#000"
+                        android:background="@drawable/login_btn_selector"
+                        android:contentDescription="@string/app_name"/>
+            </LinearLayout>
+		</LinearLayout>
+        <!--  <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="11.0dip" /> -->
+   
+   		<LinearLayout android:layout_width="match_parent"
+   		              android:layout_height="45dp"
+   		              android:gravity="center"
+   		              android:layout_alignParentBottom="true"
+   		              android:layout_marginBottom="40dp"
+   		              android:background="@drawable/more_login_method_btn_selector"
+   		              android:layout_marginLeft="15dp"
+   		              android:layout_marginRight="15dp"
+   		              android:focusable="true"
+   		              android:clickable="true">
+   		 <!--    <Button android:layout_width="300dp"
+   		            android:layout_height="match_parent"
+   		            android:background="@drawable/rounded_table_compact_border"
+   		            android:drawableEnd="@drawable/entrance_button_more2"
+   		            android:contentDescription="@string/app_name"
+   		            android:text="@string/more_login_method"
+   		            android:gravity="center"
+   		            android:textSize="16sp"
+   		            /> -->
+   		    
+   		    <ImageView android:layout_width="wrap_content"
+   		               android:layout_height="wrap_content"
+   		               android:src="@drawable/entrance_button_more2"
+   		               android:contentDescription="@string/app_name"/>
+   		    
+   		    <TextView android:layout_width="wrap_content"
+   		        	  android:layout_height="wrap_content"
+   		        	  android:text="@string/more_login_method"
+   		        	  android:textSize="16sp"
+   		        	  android:layout_marginLeft="10dp"
+   		        	  android:textColor="#000"
+   		        	  android:typeface="monospace"
+   		        	  />
+   		</LinearLayout>
+   		
+   		
+   
+    </RelativeLayout>
+    
+</RelativeLayout>
