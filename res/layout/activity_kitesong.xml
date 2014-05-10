@@ -90,7 +90,8 @@
    		              android:layout_marginLeft="15dp"
    		              android:layout_marginRight="15dp"
    		              android:focusable="true"
-   		              android:clickable="true">
+   		              android:clickable="true"
+   		              android:id="@+id/more_entrance_btn">
    		 <!--    <Button android:layout_width="300dp"
    		            android:layout_height="match_parent"
    		            android:background="@drawable/rounded_table_compact_border"

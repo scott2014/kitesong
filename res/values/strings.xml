@@ -9,5 +9,13 @@
     <string name="username_hint">用户名或邮箱</string>
     <string name="password_hint">密码</string>
     <string name="more_login_method">更多登录方式</string>
+    <string name="title_activity_more_entrance">MoreEntrance</string>
+    <string name="renren">人人网</string>
+    <string name="sina_weibo">新浪微博</string>
+    <string name="qzone">QQ空间</string>
+    <string name="facebook">FaceBook</string>
+    <string name="twitter">Twitter</string>
+    <string name="gplus">Google+</string>
+    <string name="cancel_btn">取消</string>
 
 </resources>

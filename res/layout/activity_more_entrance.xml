@@ -1,0 +1,210 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:paddingLeft="16.0dip" 
+            android:paddingTop="20.0dip" 
+            android:paddingRight="16.0dip" 
+            android:paddingBottom="20.0dip"
+            >
+            
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical">
+    
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:gravity="center"
+                      android:orientation="horizontal"
+                      android:padding="10dp">
+        	<ImageView android:layout_width="30dp"
+        	           android:layout_height="match_parent"
+        	           android:layout_gravity="center_vertical"
+        	           android:src="@drawable/entrance_button_small_qzone"
+        	           android:contentDescription="@string/app_name"/>
+          	<TextView android:layout_width="match_parent"
+          	          android:layout_height="match_parent"
+          	          android:text="@string/qzone"
+          	          android:textSize="14.0sp" 
+          	          android:textStyle="bold" 
+          	          android:textColor="#ff353535" 
+          	          android:gravity="left|center" 
+          	          android:layout_gravity="left" 
+          	          android:layout_marginLeft="10.0dip" 
+          	          android:singleLine="false"/>
+        </LinearLayout>
+        
+        
+        <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        
+    </LinearLayout>
+    
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:gravity="center"
+                      android:orientation="horizontal"
+                      android:padding="10dp">
+        	<ImageView android:layout_width="30dp"
+        	           android:layout_height="match_parent"
+        	           android:layout_gravity="center_vertical"
+        	           android:src="@drawable/entrance_button_small_weibo"
+        	           android:contentDescription="@string/app_name"/>
+          	<TextView android:layout_width="match_parent"
+          	          android:layout_height="match_parent"
+          	          android:text="@string/sina_weibo"
+          	          android:textSize="14.0sp" 
+          	          android:textStyle="bold" 
+          	          android:textColor="#ff353535" 
+          	          android:gravity="left|center" 
+          	          android:layout_gravity="left" 
+          	          android:layout_marginLeft="10.0dip" 
+          	          android:singleLine="false"/>
+        </LinearLayout>
+        
+        
+        <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        
+    </LinearLayout>
+    
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:gravity="center"
+                      android:orientation="horizontal"
+                      android:padding="10dp">
+        	<ImageView android:layout_width="30dp"
+        	           android:layout_height="match_parent"
+        	           android:layout_gravity="center_vertical"
+        	           android:src="@drawable/entrance_button_small_renren"
+        	           android:contentDescription="@string/app_name"/>
+          	<TextView android:layout_width="match_parent"
+          	          android:layout_height="match_parent"
+          	          android:text="@string/renren"
+          	          android:textSize="14.0sp" 
+          	          android:textStyle="bold" 
+          	          android:textColor="#ff353535" 
+          	          android:gravity="left|center" 
+          	          android:layout_gravity="left" 
+          	          android:layout_marginLeft="10.0dip" 
+          	          android:singleLine="false"/>
+        </LinearLayout>
+        
+        
+        <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        
+    </LinearLayout>
+    
+     <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:gravity="center"
+                      android:orientation="horizontal"
+                      android:padding="10dp">
+        	<ImageView android:layout_width="30dp"
+        	           android:layout_height="match_parent"
+        	           android:layout_gravity="center_vertical"
+        	           android:src="@drawable/entrance_button_small_gplus"
+        	           android:contentDescription="@string/app_name"/>
+          	<TextView android:layout_width="match_parent"
+          	          android:layout_height="match_parent"
+          	          android:text="@string/gplus"
+          	          android:textSize="14.0sp" 
+          	          android:textStyle="bold" 
+          	          android:textColor="#ff353535" 
+          	          android:gravity="left|center" 
+          	          android:layout_gravity="left" 
+          	          android:layout_marginLeft="10.0dip" 
+          	          android:singleLine="false"/>
+        </LinearLayout>
+        
+        
+        <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        
+    </LinearLayout>
+    
+      <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:gravity="center"
+                      android:orientation="horizontal"
+                      android:padding="10dp">
+        	<ImageView android:layout_width="30dp"
+        	           android:layout_height="match_parent"
+        	           android:layout_gravity="center_vertical"
+        	           android:src="@drawable/entrance_button_small_facebook"
+        	           android:contentDescription="@string/app_name"/>
+          	<TextView android:layout_width="match_parent"
+          	          android:layout_height="match_parent"
+          	          android:text="@string/facebook"
+          	          android:textSize="14.0sp" 
+          	          android:textStyle="bold" 
+          	          android:textColor="#ff353535" 
+          	          android:gravity="left|center" 
+          	          android:layout_gravity="left" 
+          	          android:layout_marginLeft="10.0dip" 
+          	          android:singleLine="false"/>
+        </LinearLayout>
+        
+        
+        <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        
+    </LinearLayout>
+    
+       <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:gravity="center"
+                      android:orientation="horizontal"
+                      android:padding="10dp">
+        	<ImageView android:layout_width="30dp"
+        	           android:layout_height="match_parent"
+        	           android:layout_gravity="center_vertical"
+        	           android:src="@drawable/entrance_button_small_twitter"
+        	           android:contentDescription="@string/app_name"/>
+          	<TextView android:layout_width="match_parent"
+          	          android:layout_height="match_parent"
+          	          android:text="@string/twitter"
+          	          android:textSize="14.0sp" 
+          	          android:textStyle="bold" 
+          	          android:textColor="#ff353535" 
+          	          android:gravity="left|center" 
+          	          android:layout_gravity="left" 
+          	          android:layout_marginLeft="10.0dip" 
+          	          android:singleLine="false"/>
+        </LinearLayout>
+        
+        
+        <View android:tag="divider" android:background="#ffededed" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        
+    </LinearLayout>
+    
+    <Button android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/cancel_btn"
+            android:gravity="center"
+            android:background="@null"
+            android:textSize="16sp"
+            android:textColor="#000"/>
+     
+    </LinearLayout>
+</ScrollView>

@@ -31,37 +31,55 @@ public final class R {
         public static final int entrance_button_more=0x7f020007;
         public static final int entrance_button_more2=0x7f020008;
         public static final int entrance_button_more_pressed=0x7f020009;
-        public static final int ic_launcher=0x7f02000a;
-        public static final int login_btn_normal_color=0x7f02000b;
-        public static final int login_btn_selector=0x7f02000c;
-        public static final int more_login_method_btn_selector=0x7f02000d;
-        public static final int rounded_table_compact_border=0x7f02000e;
-        public static final int thing_icon_more=0x7f02000f;
-        public static final int thing_icon_more_comment=0x7f020010;
+        public static final int entrance_button_small_facebook=0x7f02000a;
+        public static final int entrance_button_small_gplus=0x7f02000b;
+        public static final int entrance_button_small_qzone=0x7f02000c;
+        public static final int entrance_button_small_renren=0x7f02000d;
+        public static final int entrance_button_small_twitter=0x7f02000e;
+        public static final int entrance_button_small_vk=0x7f02000f;
+        public static final int entrance_button_small_weibo=0x7f020010;
+        public static final int ic_launcher=0x7f020011;
+        public static final int login_btn_normal_color=0x7f020012;
+        public static final int login_btn_selector=0x7f020013;
+        public static final int more_login_method_btn_selector=0x7f020014;
+        public static final int rounded_table_compact_border=0x7f020015;
+        public static final int thing_icon_more=0x7f020016;
+        public static final int thing_icon_more_comment=0x7f020017;
     }
     public static final class id {
-        public static final int action_settings=0x7f080006;
+        public static final int action_settings=0x7f080007;
         public static final int head=0x7f080000;
         public static final int login=0x7f080005;
         public static final int login_frame=0x7f080001;
         public static final int login_tip=0x7f080002;
+        public static final int more_entrance_btn=0x7f080006;
         public static final int password=0x7f080004;
         public static final int username=0x7f080003;
     }
     public static final class layout {
         public static final int activity_kitesong=0x7f030000;
+        public static final int activity_more_entrance=0x7f030001;
     }
     public static final class menu {
         public static final int kitesong=0x7f070000;
+        public static final int more_entrance=0x7f070001;
     }
     public static final class string {
         public static final int action_settings=0x7f050001;
         public static final int app_name=0x7f050000;
+        public static final int cancel_btn=0x7f05000f;
+        public static final int facebook=0x7f05000c;
+        public static final int gplus=0x7f05000e;
         public static final int login_btn_text=0x7f050004;
         public static final int login_tip=0x7f050003;
         public static final int more_login_method=0x7f050007;
         public static final int password_hint=0x7f050006;
+        public static final int qzone=0x7f05000b;
+        public static final int renren=0x7f050009;
+        public static final int sina_weibo=0x7f05000a;
         public static final int title=0x7f050002;
+        public static final int title_activity_more_entrance=0x7f050008;
+        public static final int twitter=0x7f05000d;
         public static final int username_hint=0x7f050005;
     }
     public static final class style {
@@ -91,5 +109,7 @@ public final class R {
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f060001;
+        public static final int Common_Transparent_Dialog_Style=0x7f060002;
+        public static final int More_Entrance_Dialog_Style=0x7f060003;
     }
 }
