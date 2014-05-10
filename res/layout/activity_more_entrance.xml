@@ -55,7 +55,10 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:padding="10dp" >
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/login_btn_selector" >
 
                     <ImageView
                         android:layout_width="30dp"
@@ -94,7 +97,10 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:padding="10dp" >
+                    android:padding="10dp" 
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/login_btn_selector" >
 
                     <ImageView
                         android:layout_width="30dp"
@@ -133,7 +139,10 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:padding="10dp" >
+                    android:padding="10dp" 
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/login_btn_selector" >
 
                     <ImageView
                         android:layout_width="30dp"
@@ -172,7 +181,10 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:padding="10dp" >
+                    android:padding="10dp" 
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/login_btn_selector" >
 
                     <ImageView
                         android:layout_width="30dp"
@@ -211,7 +223,10 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:padding="10dp" >
+                    android:padding="10dp" 
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/login_btn_selector" >
 
                     <ImageView
                         android:layout_width="30dp"
@@ -250,7 +265,10 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:padding="10dp" >
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/login_btn_selector" >
 
                     <ImageView
                         android:layout_width="30dp"
@@ -285,11 +303,15 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_marginTop="0dp"
-            android:background="@null"
+            android:background="@drawable/more_entrance_cancel_btn_selector"
             android:gravity="center"
             android:text="@string/cancel_btn"
             android:textColor="#000"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:clickable="true"
+            android:focusable="true"
+            android:id="@+id/cancel_btn"
+			/>
     </LinearLayout>
 
 </ScrollView>

@@ -41,13 +41,16 @@ public final class R {
         public static final int ic_launcher=0x7f020011;
         public static final int login_btn_normal_color=0x7f020012;
         public static final int login_btn_selector=0x7f020013;
-        public static final int more_login_method_btn_selector=0x7f020014;
-        public static final int rounded_table_compact_border=0x7f020015;
-        public static final int thing_icon_more=0x7f020016;
-        public static final int thing_icon_more_comment=0x7f020017;
+        public static final int more_entrance_cancel_btn_pressed=0x7f020014;
+        public static final int more_entrance_cancel_btn_selector=0x7f020015;
+        public static final int more_login_method_btn_selector=0x7f020016;
+        public static final int rounded_table_compact_border=0x7f020017;
+        public static final int thing_icon_more=0x7f020018;
+        public static final int thing_icon_more_comment=0x7f020019;
     }
     public static final class id {
-        public static final int action_settings=0x7f080007;
+        public static final int action_settings=0x7f080008;
+        public static final int cancel_btn=0x7f080007;
         public static final int head=0x7f080000;
         public static final int login=0x7f080005;
         public static final int login_frame=0x7f080001;
