@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/holoeverywhere addon slider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/nineoldandroids-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/holoeverywhere library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/holoeverywhere addon preferences.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
