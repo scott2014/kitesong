@@ -24,6 +24,7 @@ android {
     }
 }
 
+/*
 boolean officialBuild = rootProject.hasProperty('officialBuild')
 
 // Sign and attach apks
@@ -62,7 +63,8 @@ if (android.class.name.startsWith('com.android.build.gradle.LibraryExtension')) 
         classpath = project.files(
                 configurations.compile,
                 "${buildDir}/classes/release",
-                project.fileTree("${buildDir}/exploded-bundles") { include '*/classes.jar' },
+                project.fileTree("${buildDir}/exploded-bundles") { include '*//*
+classes.jar' },
                 new File(android.plugin.sdkDirectory, 'platforms/android-18/android.jar')
         )
     }
@@ -139,3 +141,4 @@ afterEvaluate { project ->
         }
     }
 }
+*/
