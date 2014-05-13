@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="horizontal">
+
+    <fragment
+        android:id="@id/leftView"
+        android:name="org.holoeverywhere.slider.SliderMenuFragment"
+        android:layout_width="@dimen/menu_width"
+        android:layout_height="match_parent" />
+
+    <FrameLayout
+        android:id="@id/contentView"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+</LinearLayout>
+<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/layout-w720dp/slider_default_layout.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/res/layout-w720dp/slider_default_layout.xml -->

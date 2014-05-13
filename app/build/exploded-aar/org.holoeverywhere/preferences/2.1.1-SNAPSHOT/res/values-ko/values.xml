@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values-ko/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"뒤로"</string>
+    <string name="next_button_label">"다음"</string>
+    <string name="skip_button_label">"건너뛰기"</string>
+
+</resources>

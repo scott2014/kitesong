@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"Vždy"</string>
+    <string name="activity_resolver_use_once">"Pouze jednou"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values-cs/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Zpět"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"kandidáti"</string>
+    <string name="capital_off">"O"</string>
+    <string name="capital_on">"I"</string>
+    <string name="chooseActivity">"Vyberte akci"</string>
+    <string name="loading">"Načítání..."</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values-cs/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"Další"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"Tuto činnost nemohou provádět žádné aplikace."</string>
+    <string name="number_picker_decrement_button">"Snížit"</string>
+    <string name="number_picker_increment_button">"Zvýšit"</string>
+    <string name="number_picker_increment_scroll_action">"Chcete-li hodnotu zvýšit, přijeďte prstem nahoru, chcete-li hodnotu snížit, přejeďte prstem dolů."</string>
+    <string name="number_picker_increment_scroll_mode">"</string>
+    <string name="ringtone_default">"Výchozí vyzváněcí tón"</string>
+    <string name="ringtone_picker_title">"Vyzváněcí tóny"</string>
+    <string name="ringtone_silent">"Žádné"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values-cs/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"Přeskočit"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"Dokončit akci pomocí aplikace"</string>
+
+</resources>

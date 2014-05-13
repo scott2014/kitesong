@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-az/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"Həmişə"</string>
+    <string name="activity_resolver_use_once">"Sadəcə bir dəfə"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values-az/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Geri"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-az/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"namizədlər"</string>
+    <string name="capital_off">"QAPALI"</string>
+    <string name="capital_on">"AÇIQ"</string>
+    <string name="chooseActivity">"Fəaliyyət seçin"</string>
+    <string name="loading">"Yüklənir…"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values-az/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"Növbəti"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-az/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"Heç bir tətbiq bu əməliyyatı apara bilmir."</string>
+    <string name="number_picker_decrement_button">"Azaldın"</string>
+    <string name="number_picker_increment_button">"Artır"</string>
+    <string name="number_picker_increment_scroll_action">"Artırmaq üçün yuxarı, azaltmaq üçün aşağı sürüşdürün."</string>
+    <string name="number_picker_increment_scroll_mode">"</string>
+    <string name="ringtone_default">"Defolt rinqton"</string>
+    <string name="ringtone_picker_title">"Zəng səsləri"</string>
+    <string name="ringtone_silent">"Heç biri"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values-az/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"Keç"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-az/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"Əməliyyatı tamamlayın:"</string>
+
+</resources>

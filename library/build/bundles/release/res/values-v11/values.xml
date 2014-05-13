@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/values-v11/dtp_styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/values-v11/rb_styles.xml -->
+    <eat-comment />
+
+    <style name="Holo.ListView.Base" parent="@android:Widget.Holo.ListView" />
+
+    <style name="Holo.Theme" parent="Holo.Base.Theme">
+        <item name="android:actionBarWidgetTheme">@style/Holo.Theme</item>
+    </style>
+
+    <style name="Holo.Theme.Dialog" parent="Holo.Base.Theme.Dialog">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="Holo.Theme.Dialog.Light" parent="Holo.Base.Theme.Dialog.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="Holo.Theme.Dialog.Light.NoFrame" parent="Holo.Base.Theme.Dialog.Light.NoFrame">
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+
+    <style name="Holo.Theme.Dialog.NoFrame" parent="Holo.Base.Theme.Dialog.NoFrame">
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+
+    <style name="Holo.Theme.Light" parent="Holo.Base.Theme.Light">
+        <item name="android:actionBarWidgetTheme">@style/Holo.Theme.Light</item>
+    </style>
+
+    <style name="Holo.Theme.Light.DarkActionBar" parent="Holo.Base.Theme.Light.DarkActionBar">
+        <item name="android:actionBarWidgetTheme">@style/Holo.Theme</item>
+    </style>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/values-v11/abc_themes_base.xml -->
+    <eat-comment />
+
+    <style name="Theme.Base" parent="android:Theme.Holo">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+
+    <style name="Theme.Base.Light" parent="android:Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/values-v11/abc_styles_base.xml -->
+    <eat-comment />
+
+    <style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.Holo.AutoCompleteTextView"></style>
+
+    <style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.Holo.ProgressBar"></style>
+
+    <style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.Holo.ProgressBar.Horizontal"></style>
+
+    <style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.Holo.Light.AutoCompleteTextView"></style>
+
+</resources>

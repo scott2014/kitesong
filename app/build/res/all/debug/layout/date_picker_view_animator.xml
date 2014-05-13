@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.holoeverywhere.widget.datetimepicker.date.AccessibleDateAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/animator"
+    android:layout_width="@dimen/date_picker_component_width"
+    android:layout_height="@dimen/date_time_picker_size"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center" /><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/layout/date_picker_view_animator.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/date_picker_view_animator.xml -->

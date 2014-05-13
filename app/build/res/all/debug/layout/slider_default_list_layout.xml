@@ -1,0 +1,6 @@
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/slider_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?sliderMenuPanelBackground" />
+<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/layout/slider_default_list_layout.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/res/layout/slider_default_list_layout.xml -->

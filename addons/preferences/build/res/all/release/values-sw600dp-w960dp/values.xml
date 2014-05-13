@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values-sw600dp-w960dp/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="preference_fragment_padding_side">48dp</dimen>
+    <dimen name="preference_screen_header_padding_side">48dp</dimen>
+
+</resources>

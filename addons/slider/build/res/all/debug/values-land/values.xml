@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-land/values.xml -->
+    <eat-comment />
+
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <bool name="abc_split_action_bar_is_narrow">false</bool>
+
+    <dimen name="abc_action_bar_default_height">40dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">4dip</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">4dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">12dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-2dp</dimen>
+    <dimen name="abc_action_bar_title_text_size">16dp</dimen>
+    <dimen name="date_time_picker_size">280dp</dimen>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/values-land/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="menu_width">300dp</dimen>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-land/values.xml -->
+    <eat-comment />
+
+    <dimen name="time_ampm_label_size">26sp</dimen>
+    <dimen name="time_label_size">46sp</dimen>
+
+    <integer name="date_year_view_num_columns">2</integer>
+
+</resources>

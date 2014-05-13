@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-in/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"Selalu"</string>
+    <string name="activity_resolver_use_once">"Hanya sekali"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-in/values.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Kembali"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-in/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"calon"</string>
+    <string name="capital_off">"MATI"</string>
+    <string name="capital_on">"AKTIF"</string>
+    <string name="chooseActivity">"Pilih tindakan"</string>
+    <string name="loading">"Memuat..."</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-in/values.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"Selanjutnya"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-in/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"Tidak ada apl yang dapat melakukan tindakan ini."</string>
+    <string name="number_picker_decrement_button">"Kurangi"</string>
+    <string name="number_picker_increment_button">"Tambah"</string>
+    <string name="number_picker_increment_scroll_action">"Geser ke atas untuk menambah dan ke bawah untuk mengurangi."</string>
+    <string name="number_picker_increment_scroll_mode">"</string>
+    <string name="ringtone_default">"Nada dering default"</string>
+    <string name="ringtone_picker_title">"Nada dering"</string>
+    <string name="ringtone_silent">"Tidak Ada"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-in/values.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"Lewati"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-in/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"Tindakan lengkap menggunakan"</string>
+
+</resources>

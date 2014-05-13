@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/holo_blue_light" android:state_pressed="true" />
+    <item android:color="@color/holo_blue_dark" android:state_selected="true" />
+</selector><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/color/am_pm_picker_holo_dark.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/color/am_pm_picker_holo_dark.xml -->

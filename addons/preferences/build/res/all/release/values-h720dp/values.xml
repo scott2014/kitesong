@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-h720dp/values.xml -->
+    <eat-comment />
+
+    <dimen name="alert_dialog_button_bar_height">54dip</dimen>
+
+</resources>

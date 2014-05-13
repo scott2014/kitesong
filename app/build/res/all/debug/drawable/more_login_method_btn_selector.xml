@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:state_focused="true" android:drawable="@drawable/rounded_table_compact_border"></item>
+	<item android:state_pressed="true" android:drawable="@drawable/rounded_table_compact_border"></item>
+	<item android:drawable="@drawable/entrance_button_graybox"></item>
+</selector>
+<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/res/drawable/more_login_method_btn_selector.xml -->

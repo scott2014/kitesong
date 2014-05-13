@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hr/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"Uvijek"</string>
+    <string name="activity_resolver_use_once">"Samo jednom"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hr/values.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Natrag"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hr/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"kandidati"</string>
+    <string name="capital_off">"Isklj."</string>
+    <string name="capital_on">"Uklj."</string>
+    <string name="chooseActivity">"Odaberi radnju"</string>
+    <string name="loading">"Učitavanje…"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hr/values.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"Dalje"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hr/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"Tu radnju ne može izvesti nijedna aplikacija."</string>
+    <string name="number_picker_decrement_button">"Smanjivanje"</string>
+    <string name="number_picker_increment_button">"Povećavanje"</string>
+    <string name="number_picker_increment_scroll_action">"Kliznite prema gore za povećavanje i prema dolje za smanjivanje."</string>
+    <string name="number_picker_increment_scroll_mode">"</string>
+    <string name="ringtone_default">"Zadana melodija zvona"</string>
+    <string name="ringtone_picker_title">"Melodije zvona"</string>
+    <string name="ringtone_silent">"Nijedan"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hr/values.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"Preskoči"</string>
+    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hr/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"Radnju dovrši pomoću stavke"</string>
+
+</resources>
