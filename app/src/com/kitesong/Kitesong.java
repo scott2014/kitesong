@@ -9,6 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
+import com.kitesong.controller.Home;
 import com.kitesong.controller.MoreEntrance;
 
 public class Kitesong extends Activity {
@@ -41,7 +42,8 @@ public class Kitesong extends Activity {
 
             @Override
             public void onClick(View v) {
-
+                Intent intent = new Intent(Kitesong.this, Home.class);
+                startActivity(intent);
             }
         });
 	}

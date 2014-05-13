@@ -7,6 +7,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentManager.OnBackStackChangedListener;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.ActionBar;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 
@@ -250,7 +251,11 @@ public class SliderMenu implements OnBackStackChangedListener, IMenuAdder<Slider
     }
 
     public void bind(Fragment listFragment, Context context) {
+        Log.i("listFragment",listFragment + "");
+        Log.i("Menu_View_Id",listFragment.getView().findViewById(MENU_VIEW_ID) + "");
         bind(listFragment.getView().findViewById(MENU_VIEW_ID), context);
+
+
     }
 
     private void bind(View view, Context context) {
