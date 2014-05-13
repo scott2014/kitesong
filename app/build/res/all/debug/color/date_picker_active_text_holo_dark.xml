@@ -6,4 +6,4 @@
     <item android:color="@color/holo_blue_dark" android:state_selected="true" />
     <item android:color="@color/dim_foreground_holo_dark" />
 
-</selector><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/color/date_picker_active_text_holo_dark.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/color/date_picker_active_text_holo_dark.xml -->
+</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/color/date_picker_active_text_holo_dark.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/color/date_picker_active_text_holo_dark.xml -->

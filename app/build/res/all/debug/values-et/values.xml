@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-et/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-et/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Alati"</string>
     <string name="activity_resolver_use_once">"Ainult üks kord"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-et/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-et/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Tagasi"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-et/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-et/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"kandidaadid"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"SEES"</string>
     <string name="chooseActivity">"Toimingu valimine"</string>
     <string name="loading">"Laadimine ..."</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-et/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-et/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Järgmine"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-et/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-et/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Ükski rakendus ei saa seda toimingut teostada."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Vaikehelin"</string>
     <string name="ringtone_picker_title">"Helinad"</string>
     <string name="ringtone_silent">"Puudub"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-et/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-et/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Jäta vahele"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-et/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-et/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Lõpetage toiming rakendusega"</string>

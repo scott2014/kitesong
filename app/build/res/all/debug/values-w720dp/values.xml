@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-w720dp/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-w720dp/values.xml -->
     <eat-comment />
 
     <bool name="abc_action_bar_expanded_action_views_exclusive">false</bool>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/res/values-w720dp/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/res/values-w720dp/values.xml -->
     <eat-comment />
 
     <dimen name="menu_width">300dp</dimen>

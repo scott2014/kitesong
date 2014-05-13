@@ -5,4 +5,4 @@
 	<item android:state_focused="true" android:drawable="@drawable/list_selector_background_transition_holo_light" android:state_pressed="true"></item>
 	<item android:state_focused="false" android:drawable="@drawable/list_selector_background_transition_holo_light" android:state_pressed="true"></item>
 	<item android:state_focused="true" android:drawable="@drawable/list_focused_holo"></item>
-</selector><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/drawable/list_selector_holo_light.xml -->
+</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/list_selector_holo_light.xml -->

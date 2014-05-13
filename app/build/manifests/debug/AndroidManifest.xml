@@ -1,4 +1,4 @@
-<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2001001" android:versionName="2.1.1-SNAPSHOT" package="com.kitesong">
+<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2001001" android:versionName="2.1.1-SNAPSHOT" package="com.kitesong">
 
     <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="19"/>
 

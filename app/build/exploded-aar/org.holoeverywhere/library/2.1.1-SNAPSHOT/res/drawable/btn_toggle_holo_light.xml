@@ -13,4 +13,4 @@
 	<item android:drawable="@drawable/btn_toggle_off_normal_holo_light" android:state_enabled="true"></item>
 	<item android:state_focused="true" android:drawable="@drawable/btn_toggle_off_disabled_focused_holo_light"></item>
 	<item android:drawable="@drawable/btn_toggle_off_disabled_holo_light"></item>
-</selector><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/drawable/btn_toggle_holo_light.xml -->
+</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/btn_toggle_holo_light.xml -->

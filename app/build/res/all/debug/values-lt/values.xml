@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Visada"</string>
     <string name="activity_resolver_use_once">"Tik kartą"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Atgal"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"kandidatai"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"ĮJ."</string>
     <string name="chooseActivity">"Pasirinkti veiksmą"</string>
     <string name="loading">"Įkeliama..."</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Kitas"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Jokios programos negali atlikti šio veiksmo."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Numatytasis skambėjimo tonas"</string>
     <string name="ringtone_picker_title">"Skambėjimo tonai"</string>
     <string name="ringtone_silent">"Nėra"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Praleisti"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lt/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Užbaigti veiksmą naudojant"</string>

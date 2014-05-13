@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="checkBoxPreferenceStyle" format="reference" />
@@ -33,11 +33,11 @@
     <attr name="timePreferenceStyle" format="reference" />
     <attr name="wrapSelectorWheel" format="boolean" />
     <attr name="yesNoPreferenceStyle" format="reference" />
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values/bools.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/bools.xml -->
     <eat-comment />
 
     <bool name="preferences_prefer_dual_pane">false</bool>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="DialogPreference">
@@ -130,7 +130,7 @@
         <attr name="android:summaryOff" />
         <attr name="android:summaryOn" />
     </declare-styleable>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="preference_breadcrumb_paddingLeft">0dp</dimen>
@@ -153,13 +153,13 @@
     <integer name="preference_screen_header_scrollbarStyle">0x02000000</integer>
     <integer name="preferences_left_pane_weight">4</integer>
     <integer name="preferences_right_pane_weight">6</integer>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_strings.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_strings.xml -->
     <eat-comment />
 
     <string name="back_button_label">Back</string>
     <string name="next_button_label">Next</string>
     <string name="skip_button_label">Skip</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_styles.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_styles.xml -->
     <eat-comment />
 
     <style name="Holo.Internal.Preference" parent="Holo.Theme">

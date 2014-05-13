@@ -90,4 +90,4 @@
         android:textSize="@dimen/time_ampm_label_size"
         android:textStyle="bold" />
 </RelativeLayout>
-<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/layout-land/time_header_label.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout-land/time_header_label.xml -->
+<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout-land/time_header_label.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout-land/time_header_label.xml -->

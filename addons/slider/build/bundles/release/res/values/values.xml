@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/values/rb_attrs.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="sliderMenuGroupIndicator" format="reference" />
@@ -9,30 +9,30 @@
     <attr name="sliderMenuTheme" format="reference" />
     <attr name="textAppearanceSliderItem" format="reference" />
     <attr name="textAppearanceSliderItemInverse" format="reference" />
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/values/colors.xml -->
     <eat-comment />
 
     <color name="slider_menu_panel_background_holo_dark">#DD222222</color>
     <color name="slider_menu_panel_background_holo_light">#DDDDDDDD</color>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/values/rb_attrs.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="SliderMenu">
         <attr name="textAppearanceSliderItem" />
         <attr name="textAppearanceSliderItemInverse" />
     </declare-styleable>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="menu_width">200dp</dimen>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/values/ids.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/values/ids.xml -->
     <eat-comment />
 
     <item name="contentView" type="id"/>
     <item name="leftView" type="id"/>
     <item name="rightView" type="id"/>
     <item name="slider" type="id"/>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/res/values/rb_styles.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/values/rb_styles.xml -->
     <eat-comment />
 
     <style name="Holo.Internal.SliderTheme" parent="Holo.Theme.Slider" />

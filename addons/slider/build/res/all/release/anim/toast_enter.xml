@@ -4,4 +4,4 @@
     android:fromAlpha="0.0"
     android:interpolator="@interpolator/decelerate_quad"
     android:toAlpha="1.0" />
-<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/anim/toast_enter.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/anim/toast_enter.xml -->
+<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/anim/toast_enter.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/anim/toast_enter.xml -->

@@ -3,4 +3,4 @@
     android:duration="@android:integer/config_mediumAnimTime"
     android:fromYDelta="0"
     android:interpolator="@android:anim/accelerate_interpolator"
-    android:toYDelta="50%p" /><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/anim/slide_out_bottom.xml -->
+    android:toYDelta="50%p" /><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/anim/slide_out_bottom.xml -->

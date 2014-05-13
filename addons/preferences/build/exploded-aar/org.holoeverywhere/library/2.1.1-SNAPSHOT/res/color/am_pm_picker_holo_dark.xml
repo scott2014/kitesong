@@ -3,4 +3,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="@color/holo_blue_light" android:state_pressed="true" />
     <item android:color="@color/holo_blue_dark" android:state_selected="true" />
-</selector><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/color/am_pm_picker_holo_dark.xml -->
+</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/color/am_pm_picker_holo_dark.xml -->

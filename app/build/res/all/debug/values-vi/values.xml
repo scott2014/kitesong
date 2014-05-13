@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Luôn chọn"</string>
     <string name="activity_resolver_use_once">"Chỉ một lần"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Quay lại"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"ứng viên"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"BẬT"</string>
     <string name="chooseActivity">"Chọn một tác vụ"</string>
     <string name="loading">"Đang tải…"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Tiếp theo"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Không ứng dụng nào có thể thực hiện tác vụ này."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Nhạc chuông mặc định"</string>
     <string name="ringtone_picker_title">"Nhạc chuông"</string>
     <string name="ringtone_silent">"Không"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Bỏ qua"</string>
-    <!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
+    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-vi/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Hoàn tất tác vụ đang sử dụng"</string>

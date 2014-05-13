@@ -8,4 +8,4 @@
 			<Button android:layout_margin="5dip" android:layout_width="150dip" android:text="@string/next_button_label" android:layout_height="wrap_content" android:id="@+id/next_button"></Button>
 		</LinearLayout>
 	</RelativeLayout>
-</LinearLayout><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/layout/preference_list_fragment.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/layout/preference_list_fragment.xml -->
+</LinearLayout><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/layout/preference_list_fragment.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/layout/preference_list_fragment.xml -->

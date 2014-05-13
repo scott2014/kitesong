@@ -2,4 +2,4 @@
     <item android:drawable="@drawable/ratingbar_full_empty_holo_dark" android:id="@+android:id/background"></item>
     <item android:drawable="@drawable/ratingbar_full_empty_holo_dark" android:id="@+android:id/secondaryProgress"></item>
     <item android:drawable="@drawable/ratingbar_full_filled_holo_dark" android:id="@+android:id/progress"></item>
-</layer-list><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/drawable/ratingbar_full_holo_dark.xml -->
+</layer-list><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/ratingbar_full_holo_dark.xml -->

@@ -16,4 +16,4 @@
 			<Button android:layout_margin="5dip" android:layout_width="150dip" android:text="@string/next_button_label" android:layout_height="wrap_content" android:id="@+id/next_button"></Button>
 		</LinearLayout>
 	</RelativeLayout>
-</LinearLayout><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/preferences/res/layout/preference_list_content.xml -->
+</LinearLayout><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/layout/preference_list_content.xml -->

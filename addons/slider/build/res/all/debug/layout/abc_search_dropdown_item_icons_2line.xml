@@ -86,4 +86,4 @@
               android:layout_toLeftOf="@android:id/icon2"
               android:layout_above="@android:id/text2" />
 
-</RelativeLayout><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/layout/abc_search_dropdown_item_icons_2line.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/abc_search_dropdown_item_icons_2line.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout/abc_search_dropdown_item_icons_2line.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/abc_search_dropdown_item_icons_2line.xml -->

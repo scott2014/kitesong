@@ -12,4 +12,4 @@
         android:layout_height="wrap_content"
         android:text="@string/done_label" />
 </LinearLayout>
-<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/layout/date_picker_done_button.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/date_picker_done_button.xml -->
+<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout/date_picker_done_button.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/date_picker_done_button.xml -->

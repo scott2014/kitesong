@@ -104,4 +104,4 @@ This is the basic layout for a screen, with all of its features enabled.
                  android:foreground="?android:attr/windowContentOverlay"
             />
 </LinearLayout>
-<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/layout/abc_screen.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/abc_screen.xml -->
+<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout/abc_screen.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/abc_screen.xml -->

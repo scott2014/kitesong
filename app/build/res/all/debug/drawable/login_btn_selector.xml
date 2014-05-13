@@ -4,4 +4,4 @@
 	<item android:state_pressed="true" android:drawable="@drawable/btn_pressed_color_compact"></item>
 	<item android:drawable="@drawable/login_btn_normal_color"></item>
 </selector>
-<!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/res/drawable/login_btn_selector.xml -->
+<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/res/drawable/login_btn_selector.xml -->

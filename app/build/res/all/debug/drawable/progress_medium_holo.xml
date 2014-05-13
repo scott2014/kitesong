@@ -5,4 +5,4 @@
 	<item>
 		<rotate android:toDegrees="0" android:drawable="@drawable/spinner_48_inner_holo" android:pivotX="50%" android:pivotY="50%" android:fromDegrees="720"></rotate>
 	</item>
-</layer-list><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/library/res/drawable/progress_medium_holo.xml --><!-- From: file:/home/scott/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/progress_medium_holo.xml -->
+</layer-list><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/progress_medium_holo.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/progress_medium_holo.xml -->
