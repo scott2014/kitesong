@@ -4,4 +4,4 @@
     android:fromYDelta="50%p"
     android:interpolator="@android:anim/decelerate_interpolator"
     android:toYDelta="0" />
-<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/anim/slide_in_bottom.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/anim/slide_in_bottom.xml -->
+<!-- From: file:/E:/workspace/kitesong/library/res/anim/slide_in_bottom.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/anim/slide_in_bottom.xml -->

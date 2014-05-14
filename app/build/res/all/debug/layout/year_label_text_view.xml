@@ -20,4 +20,4 @@
     android:gravity="center"
     android:textColor="?dateTimePickerActiveTextColor"
     android:textSize="26sp" />
-<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout/year_label_text_view.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/year_label_text_view.xml -->
+<!-- From: file:/E:/workspace/kitesong/library/res/layout/year_label_text_view.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/year_label_text_view.xml -->

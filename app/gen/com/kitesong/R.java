@@ -49,9 +49,11 @@ public final class R {
         public static final int thing_icon_more_comment=0x7f020019;
     }
     public static final class id {
-        public static final int action_settings=0x7f080008;
+        public static final int action_settings=0x7f08000a;
         public static final int cancel_btn=0x7f080007;
+        public static final int fr=0x7f080009;
         public static final int head=0x7f080000;
+        public static final int list=0x7f080008;
         public static final int login=0x7f080005;
         public static final int login_frame=0x7f080001;
         public static final int login_tip=0x7f080002;
@@ -60,12 +62,16 @@ public final class R {
         public static final int username=0x7f080003;
     }
     public static final class layout {
-        public static final int activity_kitesong=0x7f030000;
-        public static final int activity_more_entrance=0x7f030001;
+        public static final int activity_home=0x7f030000;
+        public static final int activity_kitesong=0x7f030001;
+        public static final int activity_more_entrance=0x7f030002;
+        public static final int fragment_main=0x7f030003;
+        public static final int menu=0x7f030004;
     }
     public static final class menu {
-        public static final int kitesong=0x7f070000;
-        public static final int more_entrance=0x7f070001;
+        public static final int home=0x7f070000;
+        public static final int kitesong=0x7f070001;
+        public static final int more_entrance=0x7f070002;
     }
     public static final class string {
         public static final int action_settings=0x7f050001;
@@ -73,6 +79,8 @@ public final class R {
         public static final int cancel_btn=0x7f05000f;
         public static final int facebook=0x7f05000c;
         public static final int gplus=0x7f05000e;
+        public static final int hello_blank_fragment=0x7f050012;
+        public static final int hello_world=0x7f050011;
         public static final int login_btn_text=0x7f050004;
         public static final int login_tip=0x7f050003;
         public static final int more_login_method=0x7f050007;
@@ -81,6 +89,7 @@ public final class R {
         public static final int renren=0x7f050009;
         public static final int sina_weibo=0x7f05000a;
         public static final int title=0x7f050002;
+        public static final int title_activity_home=0x7f050010;
         public static final int title_activity_more_entrance=0x7f050008;
         public static final int twitter=0x7f05000d;
         public static final int username_hint=0x7f050005;

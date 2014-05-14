@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Vždy"</string>
     <string name="activity_resolver_use_once">"Pouze jednou"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Zpět"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"kandidáti"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"I"</string>
     <string name="chooseActivity">"Vyberte akci"</string>
     <string name="loading">"Načítání..."</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Další"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Tuto činnost nemohou provádět žádné aplikace."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Výchozí vyzváněcí tón"</string>
     <string name="ringtone_picker_title">"Vyzváněcí tóny"</string>
     <string name="ringtone_silent">"Žádné"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Přeskočit"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-cs/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Dokončit akci pomocí aplikace"</string>

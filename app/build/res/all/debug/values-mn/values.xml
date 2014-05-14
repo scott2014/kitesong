@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Байнга"</string>
     <string name="activity_resolver_use_once">"Нэг удаа"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Буцах"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"нэр дэвшигч"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"Идэвхтэй"</string>
     <string name="chooseActivity">"Үйлдэл сонгох"</string>
     <string name="loading">"Ачааллаж байна..."</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Дараах"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Энэ ажиллагааг гүйцэтгэх апп байхгүй."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Үндсэн хонхны ая"</string>
     <string name="ringtone_picker_title">"Хонхны ая"</string>
     <string name="ringtone_silent">"Алийг нь ч биш"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Алгасах"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-mn/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Үйлдлийг дуусгах"</string>

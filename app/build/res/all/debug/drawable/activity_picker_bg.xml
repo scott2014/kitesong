@@ -7,4 +7,4 @@
 	<item android:state_focused="true" android:drawable="@drawable/activity_picker_bg_focused"></item>
 	<item android:drawable="@drawable/activity_picker_bg_activated" android:state_activated="true"></item>
 	<item android:drawable="@color/transparent"></item>
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/activity_picker_bg.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/activity_picker_bg.xml -->
+</selector><!-- From: file:/E:/workspace/kitesong/library/res/drawable/activity_picker_bg.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/activity_picker_bg.xml -->

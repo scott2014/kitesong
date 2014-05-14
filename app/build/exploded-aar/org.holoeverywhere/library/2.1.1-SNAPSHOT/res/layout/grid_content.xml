@@ -7,4 +7,4 @@
 		<GridView android:layout_width="match_parent" android:drawSelectorOnTop="false" android:layout_height="match_parent" android:id="@android:id/list"></GridView>
 		<TextView android:layout_width="match_parent" android:textAppearance="?android:attr/textAppearanceLarge" android:gravity="center" android:layout_height="match_parent" android:id="@+id/internalEmpty"></TextView>
 	</FrameLayout>
-</FrameLayout><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout/grid_content.xml -->
+</FrameLayout><!-- From: file:/E:/workspace/kitesong/library/res/layout/grid_content.xml -->

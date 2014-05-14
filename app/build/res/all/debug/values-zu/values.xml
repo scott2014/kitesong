@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Njalo"</string>
     <string name="activity_resolver_use_once">"Kanye nje"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Emuva"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"abahlanganyeli"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"VULIWE"</string>
     <string name="chooseActivity">"Khetha okufanele kwenziwe"</string>
     <string name="loading">"Iyalayisha…"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Okulandelayo"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Azikho izinhlelo zokusebenza ezingenza lokhu"</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Iringithoni emisiwe"</string>
     <string name="ringtone_picker_title">"Amaringithoni"</string>
     <string name="ringtone_silent">"Akunalutho"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Yeqa"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zu/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Qedela isenzo usebenzisa"</string>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Mindig"</string>
     <string name="activity_resolver_use_once">"Csak egyszer"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Vissza"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"jelöltek"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"Be"</string>
     <string name="chooseActivity">"Válasszon egy műveletet"</string>
     <string name="loading">"Betöltés..."</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Tovább"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Egy alkalmazás sem tudja végrehajtani ezt a műveletet."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Alapértelmezett csengőhang"</string>
     <string name="ringtone_picker_title">"Csengőhangok"</string>
     <string name="ringtone_silent">"Egyik sem"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Kihagyás"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-hu/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Művelet végrehajtása a következővel:"</string>

@@ -13,4 +13,4 @@
         android:layout_width="@dimen/menu_width"
         android:layout_height="match_parent" />
 </DrawerLayout>
-<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/layout/slider_default_layout.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/res/layout/slider_default_layout.xml -->
+<!-- From: file:/E:/workspace/kitesong/addons/slider/res/layout/slider_default_layout.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/res/layout/slider_default_layout.xml -->

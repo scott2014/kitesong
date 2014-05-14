@@ -4,4 +4,4 @@
     android:layout_width="@dimen/date_picker_component_width"
     android:layout_height="@dimen/date_time_picker_size"
     android:layout_gravity="center_horizontal"
-    android:gravity="center" /><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout/date_picker_view_animator.xml -->
+    android:gravity="center" /><!-- From: file:/E:/workspace/kitesong/library/res/layout/date_picker_view_animator.xml -->

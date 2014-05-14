@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-el/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-el/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Πάντα"</string>
     <string name="activity_resolver_use_once">"Μόνο μία φορά"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-el/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-el/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Πίσω"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-el/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-el/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"υποψήφιοι"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"Ενεργό"</string>
     <string name="chooseActivity">"Επιλέξτε μια ενέργεια"</string>
     <string name="loading">"Φόρτωση…"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-el/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-el/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Επόμενο"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-el/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-el/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Δεν υπάρχουν εφαρμογές, οι οποίες μπορούν να εκτελέσουν αυτήν την ενέργεια."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Προεπιλεγμένος ήχος κλήσης"</string>
     <string name="ringtone_picker_title">"Ήχοι κλήσης"</string>
     <string name="ringtone_silent">"Κανένας"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-el/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-el/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Παράλειψη"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-el/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-el/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Ολοκλήρωση ενέργειας με τη χρήση"</string>

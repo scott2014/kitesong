@@ -8,4 +8,4 @@
 		<LinearLayout android:layout_below="@id/summary" android:layout_width="wrap_content" android:gravity="center" android:layout_height="match_parent" android:id="@+id/widget_frame" android:orientation="vertical" android:layout_alignLeft="@android:id/title" android:minWidth="@dimen/preference_widget_width"></LinearLayout>
 		<SeekBar android:layout_below="@id/summary" android:layout_width="match_parent" android:layout_alignParentRight="true" android:layout_toRightOf="@id/widget_frame" android:layout_height="wrap_content" android:id="@+id/seekbar"></SeekBar>
 	</RelativeLayout>
-</LinearLayout><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/layout/preference_widget_seekbar.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/layout/preference_widget_seekbar.xml -->
+</LinearLayout><!-- From: file:/E:/workspace/kitesong/addons/preferences/res/layout/preference_widget_seekbar.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/layout/preference_widget_seekbar.xml -->

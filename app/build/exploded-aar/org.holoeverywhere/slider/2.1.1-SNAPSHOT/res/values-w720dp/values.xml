@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/values-w720dp/dimens.xml -->
+    <!-- From: file:/E:/workspace/kitesong/addons/slider/res/values-w720dp/dimens.xml -->
     <eat-comment />
 
     <dimen name="menu_width">300dp</dimen>

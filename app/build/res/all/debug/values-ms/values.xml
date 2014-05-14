@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Sentiasa"</string>
     <string name="activity_resolver_use_once">"Hanya sekali"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Kembali"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"calon"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"HIDUP"</string>
     <string name="chooseActivity">"Pilih tindakan"</string>
     <string name="loading">"Memuatkan…"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Seterusnya"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Tiada apl yang boleh menjalankan tindakan ini."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Nada dering lalai"</string>
     <string name="ringtone_picker_title">"Nada dering"</string>
     <string name="ringtone_silent">"Tiada"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Langkau"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
+    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-ms/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Selesaikan tindakan menggunakan"</string>

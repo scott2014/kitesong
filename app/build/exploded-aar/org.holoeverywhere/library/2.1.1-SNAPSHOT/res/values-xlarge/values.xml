@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-xlarge/bools.xml -->
+    <!-- From: file:/E:/workspace/kitesong/library/res/values-xlarge/bools.xml -->
     <eat-comment />
 
     <bool name="abc_action_bar_expanded_action_views_exclusive">false</bool>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-xlarge/abc_dimens.xml -->
+    <!-- From: file:/E:/workspace/kitesong/library/res/values-xlarge/abc_dimens.xml -->
     <eat-comment />
 
     <dimen name="abc_action_bar_default_height">56dip</dimen>
@@ -16,14 +16,14 @@
     <dimen name="abc_action_bar_title_text_size">18dp</dimen>
     <dimen name="abc_action_button_min_width">64dip</dimen>
     <dimen name="abc_search_view_text_min_width">192dip</dimen>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-xlarge/dimens.xml -->
+    <!-- From: file:/E:/workspace/kitesong/library/res/values-xlarge/dimens.xml -->
     <eat-comment />
 
     <dimen name="config_prefDialogWidth">580dp</dimen>
 
     <item name="dialog_min_width_major" type="dimen">45%</item>
     <item name="dialog_min_width_minor" type="dimen">72%</item>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-xlarge/abc_dimens.xml -->
+    <!-- From: file:/E:/workspace/kitesong/library/res/values-xlarge/abc_dimens.xml -->
     <eat-comment />
 
     <integer name="abc_max_action_buttons">5</integer>

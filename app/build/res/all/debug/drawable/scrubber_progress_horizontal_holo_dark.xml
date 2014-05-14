@@ -8,4 +8,4 @@
         <scale android:drawable="@drawable/scrubber_primary_holo" android:scaleWidth="100%"></scale>
     </item>
 
-</layer-list><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/scrubber_progress_horizontal_holo_dark.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/scrubber_progress_horizontal_holo_dark.xml -->
+</layer-list><!-- From: file:/E:/workspace/kitesong/library/res/drawable/scrubber_progress_horizontal_holo_dark.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/scrubber_progress_horizontal_holo_dark.xml -->
