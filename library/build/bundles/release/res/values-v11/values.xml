@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-v11/dtp_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values-v11/dtp_styles.xml -->
     <eat-comment />
 
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
         <!-- API 11 theme customizations can go here. -->
     </style>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-v11/rb_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values-v11/rb_styles.xml -->
     <eat-comment />
 
     <style name="Holo.ListView.Base" parent="@android:Widget.Holo.ListView" />
@@ -41,7 +41,7 @@
     <style name="Holo.Theme.Light.DarkActionBar" parent="Holo.Base.Theme.Light.DarkActionBar">
         <item name="android:actionBarWidgetTheme">@style/Holo.Theme</item>
     </style>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-v11/abc_themes_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values-v11/abc_themes_base.xml -->
     <eat-comment />
 
     <style name="Theme.Base" parent="android:Theme.Holo">
@@ -53,7 +53,7 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
     </style>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-v11/abc_styles_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values-v11/abc_styles_base.xml -->
     <eat-comment />
 
     <style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.Holo.AutoCompleteTextView"></style>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Always"</string>
     <string name="activity_resolver_use_once">"Just once"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Back"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"candidates"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"ON"</string>
     <string name="chooseActivity">"Choose an action"</string>
     <string name="loading">"Loading…"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Next"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"No apps can perform this action."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Default ringtone"</string>
     <string name="ringtone_picker_title">"Ringtones"</string>
     <string name="ringtone_silent">"None"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Skip"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-en-rGB/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Complete action using"</string>

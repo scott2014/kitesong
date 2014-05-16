@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/values-da/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values-da/rb_strings.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Altid"</string>
@@ -19,6 +19,6 @@
     <string name="ringtone_default">"Standardringetone"</string>
     <string name="ringtone_picker_title">"Ringetoner"</string>
     <string name="ringtone_silent">"Ingen"</string>
-    <string name="whichApplication">"Brug"</string>
+    <string name="whichApplication">"Fuldfør handling ved hjælp af"</string>
 
 </resources>

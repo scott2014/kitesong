@@ -7,4 +7,4 @@
 		<TextView android:layout_below="@id/title" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceSmall" android:textColor="?android:attr/textColorSecondary" android:layout_height="wrap_content" android:id="@+id/summary" android:layout_alignLeft="@id/title" android:maxLines="10"></TextView>
 	</RelativeLayout>
 	<LinearLayout android:layout_width="wrap_content" android:gravity="center" android:layout_height="match_parent" android:id="@+id/widget_frame" android:orientation="vertical" android:minWidth="@dimen/preference_widget_width"></LinearLayout>
-</LinearLayout><!-- From: file:/E:/workspace/kitesong/addons/preferences/res/layout/preference_child_holo.xml -->
+</LinearLayout><!-- From: file:/home/scott/git/kitesong/addons/preferences/res/layout/preference_child_holo.xml -->

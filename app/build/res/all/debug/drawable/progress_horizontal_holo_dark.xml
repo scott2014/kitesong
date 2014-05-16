@@ -6,4 +6,4 @@
 	<item android:id="@android:id/progress">
 		<scale android:drawable="@drawable/progress_primary_holo_dark" android:scaleWidth="100%"></scale>
 	</item>
-</layer-list><!-- From: file:/E:/workspace/kitesong/library/res/drawable/progress_horizontal_holo_dark.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/progress_horizontal_holo_dark.xml -->
+</layer-list><!-- From: file:/home/scott/git/kitesong/library/res/drawable/progress_horizontal_holo_dark.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/progress_horizontal_holo_dark.xml -->

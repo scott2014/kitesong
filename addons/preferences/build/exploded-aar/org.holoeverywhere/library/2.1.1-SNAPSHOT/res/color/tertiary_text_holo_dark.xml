@@ -4,4 +4,4 @@
 	<item android:state_pressed="true" android:color="#808080"></item>
 	<item android:state_selected="true" android:color="@color/dim_foreground_holo_light"></item>
 	<item android:color="#808080"></item>
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/color/tertiary_text_holo_dark.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/color/tertiary_text_holo_dark.xml -->

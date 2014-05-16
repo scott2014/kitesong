@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="actionBarDivider" format="reference" />
@@ -30,15 +30,15 @@
     <attr name="actionModeStyle" format="reference" />
     <attr name="actionModeWebSearchDrawable" format="reference" />
     <attr name="actionOverflowButtonStyle" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="activatedBackgroundIndicator" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="activityChooserViewStyle" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="alertDialogCenterButtons" format="boolean" />
@@ -70,11 +70,11 @@
     <attr name="dividerHorizontal" format="reference" />
     <attr name="dividerVertical" format="reference" />
     <attr name="dropDownHorizontalOffset" format="dimension" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="dropDownListViewStyle" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="dropDownVerticalOffset" format="dimension" />
@@ -90,11 +90,11 @@
     <attr name="flingable" format="boolean" />
     <attr name="fullBright" format="reference|color" />
     <attr name="fullDark" format="reference|color" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="height" format="dimension" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="holoTheme" format="enum">
@@ -104,41 +104,41 @@
         <enum name="mixed" value="3" />
         <enum name="preference" value="4" />
     </attr>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="homeAsUpIndicator" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="horizontalProgressLayout" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="isLightTheme" format="boolean" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="layout" format="reference" />
     <attr name="listDividerAlertDialog" format="reference" />
     <attr name="listItemLayout" format="reference" />
     <attr name="listLayout" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="listPopupWindowStyle" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="listPreferredItemHeight" format="dimension" />
     <attr name="listPreferredItemHeightLarge" format="dimension" />
     <attr name="listPreferredItemHeightSmall" format="dimension" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="listPreferredItemPaddingLeft" format="dimension" />
     <attr name="listPreferredItemPaddingRight" format="dimension" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="multiChoiceItemLayout" format="reference" />
@@ -154,7 +154,7 @@
         <enum name="mixed" value="3" />
     </attr>
     <attr name="progressLayout" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="searchDropdownBackground" format="reference" />
@@ -168,15 +168,15 @@
     <attr name="searchViewTextField" format="reference" />
     <attr name="searchViewTextFieldRight" format="reference" />
     <attr name="searchViewVoiceIcon" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="segmentedButtonStyle" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="selectableItemBackground" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="selectionDivider" format="reference" />
@@ -196,30 +196,30 @@
     <attr name="switchStyle" format="reference" />
     <attr name="switchStyleOld" format="reference" />
     <attr name="switchTextAppearance" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="textAppearanceLargePopupMenu" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="textAppearanceListItem" format="reference" />
     <attr name="textAppearanceListItemSmall" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="textAppearanceSearchResultSubtitle" format="reference" />
     <attr name="textAppearanceSearchResultTitle" format="reference" />
     <attr name="textAppearanceSmallPopupMenu" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="textColorAlertDialogListItem" format="reference" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="textColorSearchUrl" format="reference|color" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="textOff" format="reference|string" />
@@ -234,11 +234,11 @@
     <attr name="timeCircleColor" format="reference|color" />
     <attr name="timePickerSelectorColor" format="reference|color" />
     <attr name="timeRadialTextColor" format="reference|color" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <attr name="title" format="string" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="toastFrameBackground" format="reference" />
@@ -259,28 +259,28 @@
     <attr name="windowMinWidthMajor" format="reference" />
     <attr name="windowMinWidthMinor" format="reference" />
     <attr name="windowNoTitle" format="boolean" />
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/bools.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/bools.xml -->
     <eat-comment />
 
     <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
     <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_config.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_config.xml -->
     <eat-comment />
 
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/bools.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/bools.xml -->
     <eat-comment />
 
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
     <bool name="abc_split_action_bar_is_narrow">true</bool>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_colors.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_colors.xml -->
     <eat-comment />
 
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
     <color name="abc_search_url_text_selected">@android:color/black</color>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/colors.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/colors.xml -->
     <eat-comment />
 
     <color name="background_dark">#ff000000</color>
@@ -333,7 +333,7 @@
     <color name="link_text_holo_dark">#5c5cff</color>
     <color name="link_text_holo_light">#0000ee</color>
     <color name="transparent">#00000000</color>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="AbsListView">
@@ -344,7 +344,7 @@
     <declare-styleable name="AbsSpinner">
         <attr name="android:entries" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="ActionBar">
@@ -444,7 +444,7 @@
         -->
         <attr name="expandActivityOverflowButtonDrawable" format="reference" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="AlertDialog">
@@ -547,7 +547,7 @@
         <attr name="android:showDividers" />
         <attr name="android:weightSum" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="MenuGroup">
@@ -666,7 +666,7 @@
         -->
         <attr name="android:actionProviderClass" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="MenuView">
@@ -722,7 +722,7 @@
         <attr name="android:toDegrees" />
         <attr name="android:visible" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="SearchView">
@@ -741,7 +741,7 @@
         <!-- The input type to set on the query text field. -->
         <attr name="android:inputType" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="SeekBar">
@@ -794,7 +794,7 @@
     <declare-styleable name="TextView">
         <attr name="android:textAppearance" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="Theme">
@@ -837,7 +837,7 @@
         -->
         <attr name="android:focusable" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="ViewStub">
@@ -854,7 +854,7 @@
         <attr name="windowMinWidthMajor" />
         <attr name="windowMinWidthMinor" />
     </declare-styleable>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_dimens.xml -->
     <eat-comment />
 
     <dimen name="abc_action_bar_default_height">48dip</dimen>
@@ -866,11 +866,11 @@
     <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
     <dimen name="abc_action_bar_title_text_size">18dp</dimen>
     <dimen name="abc_action_button_min_width">56dip</dimen>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_config.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_config.xml -->
     <eat-comment />
 
     <dimen name="abc_config_prefDialogWidth">320dp</dimen>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_dimens.xml -->
     <eat-comment />
 
     <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
@@ -879,16 +879,16 @@
     <dimen name="abc_panel_menu_list_width">296dp</dimen>
     <dimen name="abc_search_view_preferred_width">320dip</dimen>
     <dimen name="abc_search_view_text_min_width">160dip</dimen>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="alert_dialog_button_bar_height">48dip</dimen>
     <dimen name="alert_dialog_title_height">64dip</dimen>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/config.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/config.xml -->
     <eat-comment />
 
     <dimen name="config_prefDialogWidth">320dp</dimen>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dtp_dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dtp_dimens.xml -->
     <eat-comment />
 
     <dimen name="date_day_number_select_circle_radius">16dp</dimen>
@@ -906,7 +906,7 @@
     <dimen name="date_time_picker_size">220dip</dimen>
     <dimen name="date_week_size">14sp</dimen>
     <dimen name="date_year_size">52sp</dimen>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dimens.xml -->
     <eat-comment />
 
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
@@ -919,18 +919,18 @@
     <dimen name="fastscroll_overlay_size">104dp</dimen>
     <dimen name="fastscroll_thumb_height">52dp</dimen>
     <dimen name="fastscroll_thumb_width">64dp</dimen>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dtp_dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dtp_dimens.xml -->
     <eat-comment />
 
     <dimen name="time_ampm_label_size">16sp</dimen>
     <dimen name="time_label_size">60sp</dimen>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_ids.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_ids.xml -->
     <eat-comment />
 
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/ids.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/ids.xml -->
     <eat-comment />
 
     <item name="decrement" type="id"/>
@@ -939,22 +939,22 @@
     <item name="fontLoaderFont" type="id"/>
     <item name="fontLoaderFontFamily" type="id"/>
     <item name="fontLoaderFontStyle" type="id"/>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_ids.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_ids.xml -->
     <eat-comment />
 
     <item name="home" type="id"/>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/ids.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/ids.xml -->
     <eat-comment />
 
     <item name="increment" type="id"/>
     <item name="leftSpacer" type="id"/>
     <item name="rightSpacer" type="id"/>
     <item name="typeface" type="id"/>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_dimens.xml -->
     <eat-comment />
 
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/config.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/config.xml -->
     <eat-comment />
 
     <integer name="config_activityDefaultDur">220</integer>
@@ -963,11 +963,11 @@
     <integer name="config_maxResolverActivityColumns">2</integer>
     <integer name="config_mediumAnimTime">400</integer>
     <integer name="config_shortAnimTime">200</integer>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dtp_dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dtp_dimens.xml -->
     <eat-comment />
 
     <integer name="date_year_view_num_columns">3</integer>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_strings.xml -->
     <eat-comment />
 
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -983,7 +983,7 @@
     <string name="abc_searchview_description_voice">Voice search</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_strings.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">Always</string>
@@ -992,7 +992,7 @@
     <string name="capital_off">OFF</string>
     <string name="capital_on">ON</string>
     <string name="chooseActivity">Choose an action</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dtp_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dtp_strings.xml -->
     <eat-comment />
 
     <string name="day_picker_description">Month grid of days</string>
@@ -1000,15 +1000,15 @@
     <string name="done_label">Done</string>
     <string name="hour_picker_description">Hours circular slider</string>
     <string name="item_is_selected"><ns1:g id="item" example="2013">%1$s</ns1:g> selected</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_strings.xml -->
     <eat-comment />
 
     <string name="loading">Loading\u2026</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dtp_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dtp_strings.xml -->
     <eat-comment />
 
     <string name="minute_picker_description">Minutes circular slider</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_strings.xml -->
     <eat-comment />
 
     <string name="noApplications">No apps can perform this action.</string>
@@ -1019,14 +1019,14 @@
     <string name="ringtone_default">Default ringtone</string>
     <string name="ringtone_picker_title">Ringtones</string>
     <string name="ringtone_silent">None</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dtp_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dtp_strings.xml -->
     <eat-comment />
 
     <string name="select_day">Select month and day</string>
     <string name="select_hours">Select hours</string>
     <string name="select_minutes">Select minutes</string>
     <string name="select_year">Select year</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dtp_dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dtp_dimens.xml -->
     <eat-comment />
 
     <item name="time_ampm_circle_radius_multiplier" format="float" type="string">0.19</item>
@@ -1039,15 +1039,15 @@
     <item name="time_text_size_multiplier_outer" format="float" type="string">0.16</item>
     <item name="time_time_numbers_radius_multiplier_normal" format="float" type="string">0.81</item>
     <item name="time_time_text_size_multiplier_normal" format="float" type="string">0.17</item>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_strings.xml -->
     <eat-comment />
 
     <string name="whichApplication">Complete action using</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/dtp_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/dtp_strings.xml -->
     <eat-comment />
 
     <string name="year_picker_description">Year list</string>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/rb_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/rb_styles.xml -->
     <eat-comment />
 
     <style name="Holo" parent="" />
@@ -2347,7 +2347,7 @@
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowShowWallpaper">true</item>
     </style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles_base.xml -->
     <eat-comment />
 
     <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
@@ -2396,7 +2396,7 @@
     <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"></style>
 
     <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"></style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles.xml -->
     <eat-comment />
 
     <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle"></style>
@@ -2428,7 +2428,7 @@
     <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title"></style>
 
     <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse"></style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles_base.xml -->
     <eat-comment />
 
     <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Small">
@@ -2460,7 +2460,7 @@
     <style name="TextAppearance.AppCompat.Widget.Base.DropDownItem" parent="android:TextAppearance.Small">
         <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
     </style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles.xml -->
     <eat-comment />
 
     <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="TextAppearance.AppCompat.Widget.Base.DropDownItem"></style>
@@ -2468,17 +2468,17 @@
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"></style>
 
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"></style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles_base.xml -->
     <eat-comment />
 
     <style name="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
         <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
     </style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles.xml -->
     <eat-comment />
 
     <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item"></style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_themes.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_themes.xml -->
     <eat-comment />
 
     <style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
@@ -2515,7 +2515,7 @@
         <!-- ShareActionProvider attributes -->
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
     </style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_themes_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_themes_base.xml -->
     <eat-comment />
 
     <style name="Theme.AppCompat.Base.CompactMenu" parent="">
@@ -2527,7 +2527,7 @@
         <item name="android:itemTextAppearance">            @style/TextAppearance.AppCompat.Base.CompactMenu.Dialog</item>
         <item name="android:listViewStyle">@android:style/Widget.ListView.Menu</item>
     </style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_themes.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_themes.xml -->
     <eat-comment />
 
     <style name="Theme.AppCompat.CompactMenu" parent="Theme.AppCompat.Base.CompactMenu"></style>
@@ -2603,7 +2603,7 @@
         <!-- ShareActionProvider attributes -->
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
     </style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_themes_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_themes_base.xml -->
     <eat-comment />
 
     <style name="Theme.Base" parent="android:Theme"></style>
@@ -2734,7 +2734,7 @@
     </style>
 
     <style name="Theme.Base.Light" parent="android:Theme.Light"></style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles.xml -->
     <eat-comment />
 
     <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar"></style>
@@ -2758,7 +2758,7 @@
     <style name="Widget.AppCompat.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView"></style>
 
     <style name="Widget.AppCompat.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView"></style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles_base.xml -->
     <eat-comment />
 
     <style name="Widget.AppCompat.Base.ActionBar" parent="">
@@ -2884,7 +2884,7 @@
         <item name="android:clickable">true</item>
         <item name="android:background">@drawable/abc_spinner_ab_holo_dark</item>
     </style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles.xml -->
     <eat-comment />
 
     <style name="Widget.AppCompat.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"></style>
@@ -2918,7 +2918,7 @@
     <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.Light.Base.ActivityChooserView"></style>
 
     <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView"></style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles_base.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles_base.xml -->
     <eat-comment />
 
     <style name="Widget.AppCompat.Light.Base.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
@@ -3000,7 +3000,7 @@
         <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
         <item name="android:background">@drawable/abc_spinner_ab_holo_light</item>
     </style>
-    <!-- From: file:/E:/workspace/kitesong/library/res/values/abc_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/library/res/values/abc_styles.xml -->
     <eat-comment />
 
     <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.Light.Base.DropDownItem.Spinner"></style>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-es-rUS/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-es-rUS/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Siempre"</string>
     <string name="activity_resolver_use_once">"Solo una vez"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-es-rUS/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-es-rUS/rb_strings.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Atrás"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-es-rUS/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-es-rUS/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"candidatos"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"Sí"</string>
     <string name="chooseActivity">"Seleccionar una acción"</string>
     <string name="loading">"Cargando…"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-es-rUS/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-es-rUS/rb_strings.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Siguiente"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-es-rUS/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-es-rUS/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Ninguna aplicación puede realizar esta acción."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Tono de llamada predeterminado"</string>
     <string name="ringtone_picker_title">"Tonos de llamada"</string>
     <string name="ringtone_silent">"Ninguno"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-es-rUS/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-es-rUS/rb_strings.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Omitir"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-es-rUS/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-es-rUS/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Completar la acción mediante"</string>

@@ -2,4 +2,4 @@
 	<LinearLayout android:layout_width="match_parent" android:padding="5dip" android:layout_height="wrap_content" android:id="@+id/edittext_container" android:orientation="vertical">
 		<TextView android:layout_marginBottom="48dp" android:layout_width="match_parent" android:textAppearance="?android:attr/textAppearanceSmall" android:textColor="?android:attr/textColorSecondary" android:layout_height="wrap_content" android:id="@+id/message"></TextView>
 	</LinearLayout>
-</ScrollView><!-- From: file:/E:/workspace/kitesong/addons/preferences/res/layout/preference_dialog_edittext.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/layout/preference_dialog_edittext.xml -->
+</ScrollView><!-- From: file:/home/scott/git/kitesong/addons/preferences/res/layout/preference_dialog_edittext.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/layout/preference_dialog_edittext.xml -->

@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\a\AndroidStudioProjects\kitesong\addons\preferences\src\main\assets" />
+        <source path="/home/scott/git/kitesong/addons/preferences/src/main/assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="C:\Users\a\AndroidStudioProjects\kitesong\addons\preferences\src\release\assets" />
+        <source path="/home/scott/git/kitesong/addons/preferences/src/release/assets" />
     </dataSet>
 
 </merger>

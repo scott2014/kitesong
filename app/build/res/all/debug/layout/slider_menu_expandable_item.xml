@@ -35,4 +35,4 @@
         android:layout_height="match_parent"
         android:src="?sliderMenuGroupIndicator" />
 </LinearLayout>
-<!-- From: file:/E:/workspace/kitesong/addons/slider/res/layout/slider_menu_expandable_item.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/res/layout/slider_menu_expandable_item.xml -->
+<!-- From: file:/home/scott/git/kitesong/addons/slider/res/layout/slider_menu_expandable_item.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/res/layout/slider_menu_expandable_item.xml -->

@@ -22,4 +22,4 @@
         android:layout_height="wrap_content"
         android:visibility="gone"
         style="?attr/actionModeStyle"/>
-<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout/abc_action_mode_bar.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/abc_action_mode_bar.xml -->
+<!-- From: file:/home/scott/git/kitesong/library/res/layout/abc_action_mode_bar.xml --><!-- From: file:/home/scott/git/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/abc_action_mode_bar.xml -->

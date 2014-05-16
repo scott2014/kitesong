@@ -2,4 +2,4 @@
 	<item android:drawable="@drawable/rate_star_small_off_holo_dark" android:id="@android:id/background"></item>
 	<item android:drawable="@drawable/rate_star_small_half_holo_dark" android:id="@android:id/secondaryProgress"></item>
 	<item android:drawable="@drawable/rate_star_small_on_holo_dark" android:id="@android:id/progress"></item>
-</layer-list><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/ratingbar_small_holo_dark.xml -->
+</layer-list><!-- From: file:/home/scott/git/kitesong/library/res/drawable/ratingbar_small_holo_dark.xml -->

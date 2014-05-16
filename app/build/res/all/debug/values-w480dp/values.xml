@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-w480dp/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-w480dp/values.xml -->
     <eat-comment />
 
     <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>

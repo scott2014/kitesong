@@ -90,4 +90,4 @@
         android:textSize="@dimen/time_ampm_label_size"
         android:textStyle="bold" />
 </RelativeLayout>
-<!-- From: file:/E:/workspace/kitesong/library/res/layout-land/time_header_label.xml -->
+<!-- From: file:/home/scott/git/kitesong/library/res/layout-land/time_header_label.xml -->

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Aina"</string>
     <string name="activity_resolver_use_once">"Vain kerran"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Takaisin"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"kandidaatit"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"PÄÄLLÄ"</string>
     <string name="chooseActivity">"Valitse toiminto"</string>
     <string name="loading">"Ladataan…"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Seuraava"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Yksikään sovellus ei voi suorittaa tätä toimintoa."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Oletussoittoääni"</string>
     <string name="ringtone_picker_title">"Soittoäänet"</string>
     <string name="ringtone_silent">"Ei mitään"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Ohita"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Tee toiminto käyttäen sovellusta"</string>

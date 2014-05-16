@@ -2,7 +2,7 @@ apply plugin: 'holoeverywhere-app'
 
 holoeverywhere {
     apply 'android_default.gradle'
-    publish.artifactId = 'demo'
+    publish.artifactId = 'app'
 }
 
 dependencies {

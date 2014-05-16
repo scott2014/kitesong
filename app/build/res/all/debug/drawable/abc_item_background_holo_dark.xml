@@ -24,4 +24,4 @@
     <item android:state_focused="true"                                                             android:drawable="@drawable/abc_list_focused_holo" />
     <item                                                                                          android:drawable="@android:color/transparent" />
 </selector>
-<!-- From: file:/E:/workspace/kitesong/library/res/drawable/abc_item_background_holo_dark.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/abc_item_background_holo_dark.xml -->
+<!-- From: file:/home/scott/git/kitesong/library/res/drawable/abc_item_background_holo_dark.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/abc_item_background_holo_dark.xml -->

@@ -1,4 +1,4 @@
-<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2001001" android:versionName="2.1.1-SNAPSHOT" package="org.holoeverywhere.preference">
+<!-- From: file:/home/scott/git/kitesong/addons/preferences/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2001001" android:versionName="2.1.1-SNAPSHOT" package="org.holoeverywhere.preference">
     <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="19"/>
 	<application/>
 </manifest>

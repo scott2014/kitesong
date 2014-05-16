@@ -3,4 +3,4 @@
     android:duration="@android:integer/config_mediumAnimTime"
     android:fromYDelta="0"
     android:interpolator="@android:anim/accelerate_interpolator"
-    android:toYDelta="-50%p" /><!-- From: file:/E:/workspace/kitesong/library/res/anim/slide_out_top.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/anim/slide_out_top.xml -->
+    android:toYDelta="-50%p" /><!-- From: file:/home/scott/git/kitesong/library/res/anim/slide_out_top.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/anim/slide_out_top.xml -->

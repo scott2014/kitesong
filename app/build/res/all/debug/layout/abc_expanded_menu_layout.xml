@@ -19,4 +19,4 @@
         android:id="@+id/expanded_menu"
         android:layout_width="?attr/panelMenuListWidth"
         android:layout_height="wrap_content"/>
-<!-- From: file:/E:/workspace/kitesong/library/res/layout/abc_expanded_menu_layout.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/abc_expanded_menu_layout.xml -->
+<!-- From: file:/home/scott/git/kitesong/library/res/layout/abc_expanded_menu_layout.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/abc_expanded_menu_layout.xml -->

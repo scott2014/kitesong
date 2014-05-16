@@ -22,4 +22,4 @@
         android:textSize="20sp"
         android:textStyle="bold" />
 
-</RelativeLayout><!-- From: file:/E:/workspace/kitesong/addons/preferences/res/layout/preference_widget_switch_screen.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/layout/preference_widget_switch_screen.xml -->
+</RelativeLayout><!-- From: file:/home/scott/git/kitesong/addons/preferences/res/layout/preference_widget_switch_screen.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/layout/preference_widget_switch_screen.xml -->

@@ -4,4 +4,4 @@
     android:fromAlpha="1.0"
     android:interpolator="@interpolator/accelerate_quad"
     android:toAlpha="0.0" />
-<!-- From: file:/E:/workspace/kitesong/library/res/anim/toast_exit.xml -->
+<!-- From: file:/home/scott/git/kitesong/library/res/anim/toast_exit.xml -->

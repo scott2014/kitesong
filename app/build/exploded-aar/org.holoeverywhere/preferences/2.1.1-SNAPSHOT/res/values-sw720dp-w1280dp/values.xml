@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/addons/preferences/res/values-sw720dp-w1280dp/dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-sw720dp-w1280dp/dimens.xml -->
     <eat-comment />
 
     <dimen name="preference_breadcrumb_paddingLeft">48dp</dimen>

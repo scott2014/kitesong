@@ -5,4 +5,4 @@
 	<item android:state_selected="true" android:color="@color/bright_foreground_holo_light"></item>
 	<item android:state_activated="true" android:color="@color/bright_foreground_holo_light"></item>
 	<item android:color="@color/bright_foreground_holo_light"></item>
-</selector><!-- From: file:/E:/workspace/kitesong/library/res/color/primary_text_holo_light.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/color/primary_text_holo_light.xml -->

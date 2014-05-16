@@ -4,4 +4,4 @@
 	<item android:state_pressed="true" android:drawable="@drawable/rounded_table_compact_border"></item>
 	<item android:drawable="@drawable/entrance_button_graybox"></item>
 </selector>
-<!-- From: file:/E:/workspace/kitesong/app/res/drawable/more_login_method_btn_selector.xml -->
+<!-- From: file:/home/scott/git/kitesong/app/res/drawable/more_login_method_btn_selector.xml -->

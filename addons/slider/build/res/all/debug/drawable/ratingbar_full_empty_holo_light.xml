@@ -8,4 +8,4 @@
 
     <item android:drawable="@drawable/btn_rating_star_off_normal_holo_light"></item>
 
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/ratingbar_full_empty_holo_light.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/ratingbar_full_empty_holo_light.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/drawable/ratingbar_full_empty_holo_light.xml --><!-- From: file:/home/scott/git/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/ratingbar_full_empty_holo_light.xml -->

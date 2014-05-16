@@ -2,4 +2,4 @@
 	<item android:state_selected="true" android:color="@color/dim_foreground_dark_inverse"></item>
 	<item android:state_activated="true" android:color="@color/bright_foreground_dark_inverse"></item>
 	<item android:color="@color/dim_foreground_dark"></item>
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/color/secondary_text_nodisable_holo_dark.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/color/secondary_text_nodisable_holo_dark.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/color/secondary_text_nodisable_holo_dark.xml --><!-- From: file:/home/scott/git/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/color/secondary_text_nodisable_holo_dark.xml -->

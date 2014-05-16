@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zh-rHK/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zh-rHK/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"一律採用"</string>
     <string name="activity_resolver_use_once">"只此一次"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-zh-rHK/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-zh-rHK/rb_strings.xml -->
     <eat-comment />
 
     <string name="back_button_label">"返回"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zh-rHK/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zh-rHK/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"待選項目"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"開啟"</string>
     <string name="chooseActivity">"選擇操作"</string>
     <string name="loading">"正在載入..."</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-zh-rHK/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-zh-rHK/rb_strings.xml -->
     <eat-comment />
 
     <string name="next_button_label">"繼續"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zh-rHK/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zh-rHK/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"沒有應用程式可執行這項操作。"</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"預設鈴聲"</string>
     <string name="ringtone_picker_title">"鈴聲"</string>
     <string name="ringtone_silent">"無"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-zh-rHK/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-zh-rHK/rb_strings.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"略過"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zh-rHK/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-zh-rHK/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"完成操作需使用"</string>

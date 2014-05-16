@@ -46,4 +46,4 @@
             android:text="@string/done_label" />
     </LinearLayout>
 </LinearLayout>
-<!-- From: file:/E:/workspace/kitesong/library/res/layout/time_picker_dialog.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/time_picker_dialog.xml -->
+<!-- From: file:/home/scott/git/kitesong/library/res/layout/time_picker_dialog.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/time_picker_dialog.xml -->

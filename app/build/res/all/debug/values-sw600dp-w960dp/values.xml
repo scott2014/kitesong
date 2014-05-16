@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sw600dp-w960dp/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sw600dp-w960dp/values.xml -->
     <eat-comment />
 
     <dimen name="preference_fragment_padding_side">48dp</dimen>

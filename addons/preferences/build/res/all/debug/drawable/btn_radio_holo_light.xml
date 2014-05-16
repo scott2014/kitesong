@@ -13,4 +13,4 @@
 	<item android:state_focused="true" android:drawable="@drawable/btn_radio_off_disabled_focused_holo_light" android:state_checked="false"></item>
 	<item android:drawable="@drawable/btn_radio_off_disabled_holo_light" android:state_checked="false"></item>
 	<item android:drawable="@drawable/btn_radio_on_disabled_holo_light" android:state_checked="true"></item>
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/btn_radio_holo_light.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/btn_radio_holo_light.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/drawable/btn_radio_holo_light.xml --><!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/btn_radio_holo_light.xml -->

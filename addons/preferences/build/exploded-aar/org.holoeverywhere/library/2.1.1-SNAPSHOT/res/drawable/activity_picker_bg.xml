@@ -7,4 +7,4 @@
 	<item android:state_focused="true" android:drawable="@drawable/activity_picker_bg_focused"></item>
 	<item android:drawable="@drawable/activity_picker_bg_activated" android:state_activated="true"></item>
 	<item android:drawable="@color/transparent"></item>
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/activity_picker_bg.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/drawable/activity_picker_bg.xml -->

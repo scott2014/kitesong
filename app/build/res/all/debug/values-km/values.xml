@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-km/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-km/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"ជា​និច្ច"</string>
     <string name="activity_resolver_use_once">"តែ​ម្ដង"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-km/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-km/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"ថយក្រោយ"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-km/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-km/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"បេក្ខជន"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"បើក"</string>
     <string name="chooseActivity">"ជ្រើស​សកម្មភាព"</string>
     <string name="loading">"កំពុង​ផ្ទុក..."</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-km/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-km/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"បន្ទាប់"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-km/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-km/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"គ្មាន​កម្មវិធី​អាច​អនុវត្ត​សកម្មភាព​នេះ។"</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"សំឡេង​រោទ៍​លំនាំដើម"</string>
     <string name="ringtone_picker_title">"សំឡេង​រោទ៍"</string>
     <string name="ringtone_silent">"គ្មាន"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-km/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-km/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"រំលង"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-km/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-km/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"បញ្ចប់​សកម្មភាព​ដោយ​ប្រើ"</string>

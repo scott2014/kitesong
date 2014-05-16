@@ -7,4 +7,4 @@
 		<ListView android:layout_width="match_parent" android:drawSelectorOnTop="false" android:layout_height="match_parent" android:id="@android:id/list"></ListView>
 		<TextView android:layout_width="match_parent" android:textAppearance="?android:attr/textAppearanceLarge" android:gravity="center" android:layout_height="match_parent" android:id="@+id/internalEmpty"></TextView>
 	</FrameLayout>
-</FrameLayout><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/layout/list_content.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/list_content.xml -->
+</FrameLayout><!-- From: file:/home/scott/git/kitesong/library/res/layout/list_content.xml --><!-- From: file:/home/scott/git/kitesong/addons/slider/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/layout/list_content.xml -->

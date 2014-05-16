@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-tl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-tl/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Palagi"</string>
     <string name="activity_resolver_use_once">"Isang beses lang"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-tl/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-tl/rb_strings.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Bumalik"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-tl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-tl/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"mga kandidato"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"I-ON"</string>
     <string name="chooseActivity">"Pumili ng pagkilos"</string>
     <string name="loading">"Naglo-load…"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-tl/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-tl/rb_strings.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Susunod"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-tl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-tl/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Walang apps ang makakapagsagawa ng pagkilos na ito."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Default na ringtone"</string>
     <string name="ringtone_picker_title">"Mga Ringtone"</string>
     <string name="ringtone_silent">"Wala"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-tl/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-tl/rb_strings.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Laktawan"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-tl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-tl/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Kumpletuhin ang pagkilos gamit ang"</string>

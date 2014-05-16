@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Увек"</string>
     <string name="activity_resolver_use_once">"Само једном"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Назад"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"кандидати"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"ДА"</string>
     <string name="chooseActivity">"Изаберите радњу"</string>
     <string name="loading">"Учитавање…"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Next"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Ниједна апликација не може да обавља ову радњу."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Подразумевани звук звона"</string>
     <string name="ringtone_picker_title">"Звукови звона"</string>
     <string name="ringtone_silent">"Без"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Прескочи"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sr/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Довршавање радње помоћу"</string>

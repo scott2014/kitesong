@@ -20,4 +20,4 @@
     android:gravity="center"
     android:textColor="?dateTimePickerActiveTextColor"
     android:textSize="26sp" />
-<!-- From: file:/E:/workspace/kitesong/library/res/layout/year_label_text_view.xml -->
+<!-- From: file:/home/scott/git/kitesong/library/res/layout/year_label_text_view.xml -->

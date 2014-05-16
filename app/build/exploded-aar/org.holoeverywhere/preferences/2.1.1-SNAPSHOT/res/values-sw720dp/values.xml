@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/addons/preferences/res/values-sw720dp/bools.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-sw720dp/bools.xml -->
     <eat-comment />
 
     <bool name="preferences_prefer_dual_pane">true</bool>
-    <!-- From: file:/E:/workspace/kitesong/addons/preferences/res/values-sw720dp/dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-sw720dp/dimens.xml -->
     <eat-comment />
 
     <dimen name="preference_breadcrumb_paddingLeft">32dp</dimen>
@@ -21,7 +21,7 @@
     <integer name="preference_screen_header_scrollbarStyle">0x0</integer>
     <integer name="preferences_left_pane_weight">1</integer>
     <integer name="preferences_right_pane_weight">2</integer>
-    <!-- From: file:/E:/workspace/kitesong/addons/preferences/res/values-sw720dp/rb_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-sw720dp/rb_styles.xml -->
     <eat-comment />
 
     <style name="Holo.PreferencePanel" parent="Holo">

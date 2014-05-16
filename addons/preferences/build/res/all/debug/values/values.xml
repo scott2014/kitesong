@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="actionBarDivider" format="reference" />
@@ -46,21 +46,21 @@
     <attr name="centerBright" format="reference|color" />
     <attr name="centerDark" format="reference|color" />
     <attr name="centerMedium" format="reference|color" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="checkBoxPreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="dateCircleColor" format="reference|color" />
     <attr name="dateDayTextColor" format="reference|color" />
     <attr name="dateMonthTitleColor" format="reference|color" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="datePreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="dateTimePickerActiveTextColor" format="reference|color" />
@@ -69,19 +69,19 @@
     <attr name="dateTimePickerTextColor" format="reference|color" />
     <attr name="dateTodayColor" format="reference|color" />
     <attr name="dateYearSelectorColor" format="reference|color" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="dependency" format="reference|string" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="detailsElementBackground" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="dialogPreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="dialogTheme" format="reference" />
@@ -91,11 +91,11 @@
     <attr name="dropDownHorizontalOffset" format="dimension" />
     <attr name="dropDownListViewStyle" format="reference" />
     <attr name="dropDownVerticalOffset" format="dimension" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="editTextPreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="fastScrollOverlayPosition" format="enum">
@@ -120,7 +120,7 @@
     </attr>
     <attr name="homeAsUpIndicator" format="reference" />
     <attr name="horizontalProgressLayout" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="is24HourView" format="enum">
@@ -128,7 +128,7 @@
         <enum name="auto" value="0" />
         <enum name="yes" value="1" />
     </attr>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="isLightTheme" format="boolean" />
@@ -142,29 +142,29 @@
     <attr name="listPreferredItemHeightSmall" format="dimension" />
     <attr name="listPreferredItemPaddingLeft" format="dimension" />
     <attr name="listPreferredItemPaddingRight" format="dimension" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="max" format="integer" />
     <attr name="min" format="integer" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="multiChoiceItemLayout" format="reference" />
     <attr name="numberPickerDownButtonStyle" format="reference" />
     <attr name="numberPickerInputTextStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="numberPickerPreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="numberPickerStyle" format="reference" />
     <attr name="numberPickerUpButtonStyle" format="reference" />
     <attr name="popupPromptView" format="reference" />
     <attr name="popupWindowStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="preferenceCategoryStyle" format="reference" />
@@ -175,7 +175,7 @@
     <attr name="preferencePanelStyle" format="reference" />
     <attr name="preferenceScreenStyle" format="reference" />
     <attr name="preferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="preferenceTheme" format="reference|enum">
@@ -184,11 +184,11 @@
         <enum name="mixed" value="3" />
     </attr>
     <attr name="progressLayout" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="ringtonePreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="searchDropdownBackground" format="reference" />
@@ -202,12 +202,12 @@
     <attr name="searchViewTextField" format="reference" />
     <attr name="searchViewTextFieldRight" format="reference" />
     <attr name="searchViewVoiceIcon" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="seekBarDialogPreferenceStyle" format="reference" />
     <attr name="seekBarPreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="segmentedButtonStyle" format="reference" />
@@ -226,12 +226,12 @@
     <attr name="spinnerStyle" format="reference" />
     <attr name="switchMinWidth" format="dimension" />
     <attr name="switchPadding" format="dimension" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="switchPreferenceStyle" format="reference" />
     <attr name="switchScreenPreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="switchStyle" format="reference" />
@@ -256,11 +256,11 @@
     <attr name="timeCenterPointerRadius" format="reference|integer" />
     <attr name="timeCircleColor" format="reference|color" />
     <attr name="timePickerSelectorColor" format="reference|color" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="timePreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <attr name="timeRadialTextColor" format="reference|color" />
@@ -283,12 +283,12 @@
     <attr name="windowMinWidthMajor" format="reference" />
     <attr name="windowMinWidthMinor" format="reference" />
     <attr name="windowNoTitle" format="boolean" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <attr name="wrapSelectorWheel" format="boolean" />
     <attr name="yesNoPreferenceStyle" format="reference" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
@@ -297,11 +297,11 @@
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
     <bool name="abc_split_action_bar_is_narrow">true</bool>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/bools.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/bools.xml -->
     <eat-comment />
 
     <bool name="preferences_prefer_dual_pane">false</bool>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -514,7 +514,7 @@
         <attr name="timePickerSelectorColor" />
         <attr name="timeRadialTextColor" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="DialogPreference">
@@ -525,7 +525,7 @@
         <attr name="android:negativeButtonText" />
         <attr name="android:positiveButtonText" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="Divider">
@@ -540,14 +540,14 @@
         <attr name="android:indicatorLeft" />
         <attr name="android:indicatorRight" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="Extra">
         <attr name="android:name" />
         <attr name="android:value" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="FastScroll">
@@ -565,7 +565,7 @@
         <attr name="android:moreIcon" />
         <attr name="android:rowHeight" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="Intent">
@@ -578,7 +578,7 @@
     <declare-styleable name="IntentCategory">
         <attr name="android:name" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="LayerDrawable">
@@ -603,14 +603,14 @@
         <attr name="android:showDividers" />
         <attr name="android:weightSum" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="ListPreference">
         <attr name="android:entries" />
         <attr name="android:entryValues" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="MenuGroup">
@@ -754,7 +754,7 @@
         <attr name="solidColor" />
         <attr name="virtualButtonPressedDrawable" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="NumberPickerPreference">
@@ -762,14 +762,14 @@
         <attr name="min" />
         <attr name="wrapSelectorWheel" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="PopupWindow">
         <attr name="android:popupAnimationStyle" />
         <attr name="android:popupBackground" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="Preference">
@@ -811,7 +811,7 @@
         <attr name="android:summary" />
         <attr name="android:title" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="ProgressBar">
@@ -830,7 +830,7 @@
         <attr name="android:progressDrawable" />
         <attr name="android:secondaryProgress" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="RingtonePreference">
@@ -838,7 +838,7 @@
         <attr name="android:showDefault" />
         <attr name="android:showSilent" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="RotateDrawable">
@@ -870,13 +870,13 @@
         <attr name="android:thumb" />
         <attr name="android:thumbOffset" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="SeekBarPreference">
         <attr name="android:max" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="Spinner">
@@ -910,14 +910,14 @@
         <attr name="toggleWhenClick" />
         <attr name="track" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="SwitchPreference">
         <attr name="android:switchTextOff" />
         <attr name="android:switchTextOn" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="TextAppearance">
@@ -957,7 +957,7 @@
         <!-- Drawable used as a background for selected list items. -->
         <attr name="listChoiceBackgroundIndicator" format="reference" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_attrs.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="TimePreference">
@@ -968,7 +968,7 @@
         <attr name="android:summaryOff" />
         <attr name="android:summaryOn" />
     </declare-styleable>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="View">
@@ -1048,7 +1048,7 @@
     <dimen name="fastscroll_overlay_size">104dp</dimen>
     <dimen name="fastscroll_thumb_height">52dp</dimen>
     <dimen name="fastscroll_thumb_width">64dp</dimen>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="preference_breadcrumb_paddingLeft">0dp</dimen>
@@ -1066,7 +1066,7 @@
     <dimen name="preference_screen_side_margin_negative">0dp</dimen>
     <dimen name="preference_screen_top_margin">0dp</dimen>
     <dimen name="preference_widget_width">48dp</dimen>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <dimen name="time_ampm_label_size">16sp</dimen>
@@ -1095,14 +1095,14 @@
     <integer name="config_mediumAnimTime">400</integer>
     <integer name="config_shortAnimTime">200</integer>
     <integer name="date_year_view_num_columns">3</integer>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/dimens.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/dimens.xml -->
     <eat-comment />
 
     <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
     <integer name="preference_screen_header_scrollbarStyle">0x02000000</integer>
     <integer name="preferences_left_pane_weight">4</integer>
     <integer name="preferences_right_pane_weight">6</integer>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -1120,11 +1120,11 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="activity_resolver_use_always">Always</string>
     <string name="activity_resolver_use_once">Just once</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_strings.xml -->
     <eat-comment />
 
     <string name="back_button_label">Back</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">candidates</string>
@@ -1138,11 +1138,11 @@
     <string name="item_is_selected"><ns1:g id="item" example="2013">%1$s</ns1:g> selected</string>
     <string name="loading">Loading\u2026</string>
     <string name="minute_picker_description">Minutes circular slider</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_strings.xml -->
     <eat-comment />
 
     <string name="next_button_label">Next</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <string name="noApplications">No apps can perform this action.</string>
@@ -1157,11 +1157,11 @@
     <string name="select_hours">Select hours</string>
     <string name="select_minutes">Select minutes</string>
     <string name="select_year">Select year</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_strings.xml -->
     <eat-comment />
 
     <string name="skip_button_label">Skip</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <item name="time_ampm_circle_radius_multiplier" format="float" type="string">0.19</item>
@@ -1747,7 +1747,7 @@
     <style name="Holo.ImageButton.Light" parent="Holo.ImageButton">
         <item name="android:background">@drawable/btn_default_holo_light</item>
     </style>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_styles.xml -->
     <eat-comment />
 
     <style name="Holo.Internal.Preference" parent="Holo.Theme">
@@ -1793,7 +1793,7 @@
         <item name="switchScreenPreferenceStyle">@style/Holo.PreferenceSwitchScreen</item>
         <item name="yesNoPreferenceStyle">@style/Holo.PreferenceDialog.YesNoPreference</item>
     </style>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <style name="Holo.ListPopupWindow" parent="Holo">
@@ -1853,7 +1853,7 @@
     </style>
 
     <style name="Holo.PopupWindow.Light" parent="Holo.PopupWindow" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values/rb_styles.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values/rb_styles.xml -->
     <eat-comment />
 
     <style name="Holo.Preference" parent="Holo">
@@ -1944,7 +1944,7 @@
     </style>
 
     <style name="Holo.PreferenceTwoState" parent="Holo" />
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
     <eat-comment />
 
     <style name="Holo.ProgressBar" parent="@android:Widget.ProgressBar">

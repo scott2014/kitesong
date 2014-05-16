@@ -5,4 +5,4 @@
     <item android:state_selected="true" android:drawable="@drawable/scrubber_control_focused_holo"></item>
     <item android:drawable="@drawable/scrubber_control_normal_holo"></item>
 
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/scrubber_control_selector_holo.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/scrubber_control_selector_holo.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/drawable/scrubber_control_selector_holo.xml --><!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/scrubber_control_selector_holo.xml -->

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"Vedno"</string>
     <string name="activity_resolver_use_once">"Samo tokrat"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
     <eat-comment />
 
     <string name="back_button_label">"Nazaj"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"kandidati"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"VKLOPLJENO"</string>
     <string name="chooseActivity">"Izberite dejanje"</string>
     <string name="loading">"Nalaganje …"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
     <eat-comment />
 
     <string name="next_button_label">"Naprej"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"Tega dejanja ne more izvesti noben program."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"Privzeta melodija zvonjenja"</string>
     <string name="ringtone_picker_title">"Melodije zvonjenja"</string>
     <string name="ringtone_silent">"Brez"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"Preskoči"</string>
-    <!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-sl/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"Dokončanje dejanja z"</string>

@@ -5,4 +5,4 @@
 	<item android:state_focused="false" android:drawable="@drawable/list_selector_background_transition_holo_dark" android:state_pressed="true"></item>
 	<item android:state_focused="true" android:drawable="@drawable/list_focused_holo"></item>
 	<item android:drawable="@drawable/transparent"></item>
-</selector><!-- From: file:/E:/workspace/kitesong/library/res/drawable/item_background_holo_dark.xml --><!-- From: file:/E:/workspace/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/item_background_holo_dark.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/drawable/item_background_holo_dark.xml --><!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/item_background_holo_dark.xml -->

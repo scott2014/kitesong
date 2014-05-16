@@ -2,149 +2,19 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res" >
-            <file
-                name="slider_menu_expander_holo_dark"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable\slider_menu_expander_holo_dark.xml"
-                qualifiers=""
-                type="drawable" />
+        <source path="/home/scott/git/kitesong/addons/slider/res" >
             <file
                 name="slider_menu_expander_holo_light"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable\slider_menu_expander_holo_light.xml"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable/slider_menu_expander_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
-                name="drawer_shadow"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-hdpi\drawer_shadow.9.png"
-                qualifiers="hdpi"
-                type="drawable" />
-            <file
-                name="ic_drawer_dark"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-hdpi\ic_drawer_dark.png"
-                qualifiers="hdpi"
-                type="drawable" />
-            <file
-                name="ic_drawer_light"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-hdpi\ic_drawer_light.png"
-                qualifiers="hdpi"
-                type="drawable" />
-            <file
-                name="drawer_shadow"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-mdpi\drawer_shadow.9.png"
-                qualifiers="mdpi"
-                type="drawable" />
-            <file
-                name="ic_drawer_dark"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-mdpi\ic_drawer_dark.png"
-                qualifiers="mdpi"
-                type="drawable" />
-            <file
-                name="ic_drawer_light"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-mdpi\ic_drawer_light.png"
-                qualifiers="mdpi"
-                type="drawable" />
-            <file
-                name="drawer_shadow"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-xhdpi\drawer_shadow.9.png"
-                qualifiers="xhdpi"
-                type="drawable" />
-            <file
-                name="ic_drawer_dark"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-xhdpi\ic_drawer_dark.png"
-                qualifiers="xhdpi"
-                type="drawable" />
-            <file
-                name="ic_drawer_light"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-xhdpi\ic_drawer_light.png"
-                qualifiers="xhdpi"
-                type="drawable" />
-            <file
-                name="drawer_shadow"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-xxhdpi\drawer_shadow.9.png"
-                qualifiers="xxhdpi"
-                type="drawable" />
-            <file
-                name="ic_drawer_dark"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-xxhdpi\ic_drawer_dark.png"
-                qualifiers="xxhdpi"
-                type="drawable" />
-            <file
-                name="ic_drawer_light"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\drawable-xxhdpi\ic_drawer_light.png"
-                qualifiers="xxhdpi"
-                type="drawable" />
-            <file
-                name="slider_default_expandable_list_layout"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\layout\slider_default_expandable_list_layout.xml"
+                name="slider_menu_expander_holo_dark"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable/slider_menu_expander_holo_dark.xml"
                 qualifiers=""
-                type="layout" />
+                type="drawable" />
             <file
-                name="slider_default_layout"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\layout\slider_default_layout.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="slider_default_list_layout"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\layout\slider_default_list_layout.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="slider_default_menu_stub"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\layout\slider_default_menu_stub.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="slider_menu_expandable_child_item"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\layout\slider_menu_expandable_child_item.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="slider_menu_expandable_item"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\layout\slider_menu_expandable_item.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="slider_menu_item"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\layout\slider_menu_item.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="slider_default_layout"
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\layout-w720dp\slider_default_layout.xml"
-                qualifiers="w720dp"
-                type="layout" />
-            <file
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\values\colors.xml"
-                qualifiers="" >
-                <color name="slider_menu_panel_background_holo_dark" >#DD222222
-                </color>
-                <color name="slider_menu_panel_background_holo_light" >#DDDDDDDD
-                </color>
-            </file>
-            <file
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\values\dimens.xml"
-                qualifiers="" >
-                <dimen name="menu_width" >200dp
-                </dimen>
-            </file>
-            <file
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\values\ids.xml"
-                qualifiers="" >
-                <item
-                    name="rightView"
-                    type="id"/>
-                <item
-                    name="leftView"
-                    type="id"/>
-                <item
-                    name="contentView"
-                    type="id"/>
-                <item
-                    name="slider"
-                    type="id"/>
-            </file>
-            <file
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\values\rb_attrs.xml"
+                path="/home/scott/git/kitesong/addons/slider/res/values/rb_attrs.xml"
                 qualifiers="" >
                 <attr
                     name="textAppearanceSliderItem"
@@ -169,7 +39,7 @@
                     format="reference" />
             </file>
             <file
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\values\rb_styles.xml"
+                path="/home/scott/git/kitesong/addons/slider/res/values/rb_styles.xml"
                 qualifiers="" >
 
                 <style
@@ -253,23 +123,153 @@
                     parent="Holo.Theme.Slider" />
             </file>
             <file
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\values-land\dimens.xml"
+                path="/home/scott/git/kitesong/addons/slider/res/values/ids.xml"
+                qualifiers="" >
+                <item
+                    name="rightView"
+                    type="id"/>
+                <item
+                    name="leftView"
+                    type="id"/>
+                <item
+                    name="contentView"
+                    type="id"/>
+                <item
+                    name="slider"
+                    type="id"/>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/slider/res/values/colors.xml"
+                qualifiers="" >
+                <color name="slider_menu_panel_background_holo_dark" >#DD222222
+                </color>
+                <color name="slider_menu_panel_background_holo_light" >#DDDDDDDD
+                </color>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/slider/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="menu_width" >200dp
+                </dimen>
+            </file>
+            <file
+                name="ic_drawer_light"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-xhdpi/ic_drawer_light.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer_dark"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-xhdpi/ic_drawer_dark.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-xhdpi/drawer_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="slider_default_layout"
+                path="/home/scott/git/kitesong/addons/slider/res/layout-w720dp/slider_default_layout.xml"
+                qualifiers="w720dp"
+                type="layout" />
+            <file
+                name="ic_drawer_light"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-xxhdpi/ic_drawer_light.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer_dark"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-xxhdpi/ic_drawer_dark.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-xxhdpi/drawer_shadow.9.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/home/scott/git/kitesong/addons/slider/res/values-land/dimens.xml"
                 qualifiers="land" >
                 <dimen name="menu_width" >300dp
                 </dimen>
             </file>
             <file
-                path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\res\values-w720dp\dimens.xml"
+                name="ic_drawer_light"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-mdpi/ic_drawer_light.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer_dark"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-mdpi/ic_drawer_dark.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-mdpi/drawer_shadow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer_light"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-hdpi/ic_drawer_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer_dark"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-hdpi/ic_drawer_dark.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/scott/git/kitesong/addons/slider/res/drawable-hdpi/drawer_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/scott/git/kitesong/addons/slider/res/values-w720dp/dimens.xml"
                 qualifiers="w720dp" >
                 <dimen name="menu_width" >300dp
                 </dimen>
             </file>
+            <file
+                name="slider_menu_expandable_child_item"
+                path="/home/scott/git/kitesong/addons/slider/res/layout/slider_menu_expandable_child_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="slider_menu_expandable_item"
+                path="/home/scott/git/kitesong/addons/slider/res/layout/slider_menu_expandable_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="slider_default_menu_stub"
+                path="/home/scott/git/kitesong/addons/slider/res/layout/slider_default_menu_stub.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="slider_default_layout"
+                path="/home/scott/git/kitesong/addons/slider/res/layout/slider_default_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="slider_default_expandable_list_layout"
+                path="/home/scott/git/kitesong/addons/slider/res/layout/slider_default_expandable_list_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="slider_default_list_layout"
+                path="/home/scott/git/kitesong/addons/slider/res/layout/slider_default_list_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="slider_menu_item"
+                path="/home/scott/git/kitesong/addons/slider/res/layout/slider_menu_item.xml"
+                qualifiers=""
+                type="layout" />
         </source>
-        <source path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\build\res\rs\release" />
-        <source path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\build\res\generated\release" />
+        <source path="/home/scott/git/kitesong/addons/slider/build/res/rs/release" />
+        <source path="/home/scott/git/kitesong/addons/slider/build/res/generated/release" />
     </dataSet>
     <dataSet config="release" >
-        <source path="C:\Users\a\AndroidStudioProjects\kitesong\addons\slider\src\release\res" />
+        <source path="/home/scott/git/kitesong/addons/slider/src/release/res" />
     </dataSet>
 
 </merger>

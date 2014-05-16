@@ -3,4 +3,4 @@
     android:duration="@android:integer/config_mediumAnimTime"
     android:fromYDelta="-50%p"
     android:interpolator="@android:anim/decelerate_interpolator"
-    android:toYDelta="0" /><!-- From: file:/E:/workspace/kitesong/library/res/anim/slide_in_top.xml -->
+    android:toYDelta="0" /><!-- From: file:/home/scott/git/kitesong/library/res/anim/slide_in_top.xml -->

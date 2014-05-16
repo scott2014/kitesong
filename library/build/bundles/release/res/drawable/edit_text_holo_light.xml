@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/textfield_default_holo_light" android:state_enabled="true"></item>
     <item android:state_focused="true" android:drawable="@drawable/textfield_disabled_focused_holo_light"></item>
     <item android:drawable="@drawable/textfield_disabled_holo_light"></item>
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/edit_text_holo_light.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/drawable/edit_text_holo_light.xml -->

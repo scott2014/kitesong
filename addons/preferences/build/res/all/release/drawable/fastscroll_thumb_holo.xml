@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><selector xmlns:android="http://schemas.android.com/apk/res/android">
 	<item android:drawable="@drawable/fastscroll_thumb_pressed_holo" android:state_pressed="true"></item>
 	<item android:drawable="@drawable/fastscroll_thumb_default_holo"></item>
-</selector><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/library/res/drawable/fastscroll_thumb_holo.xml --><!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/fastscroll_thumb_holo.xml -->
+</selector><!-- From: file:/home/scott/git/kitesong/library/res/drawable/fastscroll_thumb_holo.xml --><!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/drawable/fastscroll_thumb_holo.xml -->

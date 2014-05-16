@@ -13,4 +13,4 @@
         android:layout_width="@dimen/menu_width"
         android:layout_height="match_parent" />
 </DrawerLayout>
-<!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/slider/res/layout/slider_default_layout.xml -->
+<!-- From: file:/home/scott/git/kitesong/addons/slider/res/layout/slider_default_layout.xml -->

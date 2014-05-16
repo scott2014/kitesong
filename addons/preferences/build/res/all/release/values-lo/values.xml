@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo/values.xml -->
     <eat-comment />
 
     <string name="activity_resolver_use_always">"ທຸກຄັ້ງ"</string>
     <string name="activity_resolver_use_once">"ຄັ້ງດຽວ"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-lo/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-lo/rb_strings.xml -->
     <eat-comment />
 
     <string name="back_button_label">"ກັບຄືນ"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo/values.xml -->
     <eat-comment />
 
     <string name="candidates_style">"ຕົວເລືອກ"</string>
@@ -18,11 +18,11 @@
     <string name="capital_on">"ເປີດ"</string>
     <string name="chooseActivity">"ເລືອກການປະຕິບັດ"</string>
     <string name="loading">"ກຳລັງໂຫລດ..."</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-lo/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-lo/rb_strings.xml -->
     <eat-comment />
 
     <string name="next_button_label">"ຕໍ່ໄປ"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo/values.xml -->
     <eat-comment />
 
     <string name="noApplications">"ບໍ່ມີແອັບຯໃດສາມາດເຮັດວຽກນີ້ໄດ້."</string>
@@ -33,11 +33,11 @@
     <string name="ringtone_default">"ຣິງໂທນເລີ່ມຕົ້ນ"</string>
     <string name="ringtone_picker_title">"ຣິງໂທນ"</string>
     <string name="ringtone_silent">"ບໍ່ມີ"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/res/values-lo/rb_strings.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-lo/rb_strings.xml -->
     <eat-comment />
 
     <string name="skip_button_label">"ຂ້າມ"</string>
-    <!-- From: file:/C:/Users/a/AndroidStudioProjects/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo/values.xml -->
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo/values.xml -->
     <eat-comment />
 
     <string name="whichApplication">"ເຮັດວຽກໃຫ້ສຳເລັດໂດຍໃຊ້"</string>
