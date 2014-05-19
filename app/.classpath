@@ -5,8 +5,10 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/HoloEverywhere Addon Preferences"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/HoloEverywhere Addon Slider"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/HoloEverywhere Library"/>
+	<classpathentry kind="lib" path="/home/scott/git/kitesong/addons/preferences/bin/holoeverywhere addon preferences.jar"/>
+	<classpathentry kind="lib" path="/home/scott/git/kitesong/addons/slider/bin/holoeverywhere addon slider.jar"/>
+	<classpathentry kind="lib" path="/home/scott/git/kitesong/library/bin/holoeverywhere library.jar"/>
+	<classpathentry kind="lib" path="/home/scott/git/kitesong/library/libs/nineoldandroids-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/scott/git/kitesong/library/libs/support-v4-19.1.0.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
