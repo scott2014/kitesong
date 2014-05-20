@@ -98,11 +98,11 @@
                 </string>
                 <string name="capital_on" >"เปิด"
                 </string>
+                <string name="activity_resolver_use_always" >"ทุกครั้ง"
+                </string>
                 <string name="loading" >"กำลังโหลด..."
                 </string>
                 <string name="ringtone_default" >"เสียงเรียกเข้าเริ่มต้น"
-                </string>
-                <string name="activity_resolver_use_always" >"ทุกครั้ง"
                 </string>
                 <string name="chooseActivity" >"เลือกการทำงาน"
                 </string>
@@ -735,11 +735,11 @@ false
                 </string>
                 <string name="number_picker_increment_scroll_mode" >"Chạm và giữ
                 </string>
+                <string name="ringtone_picker_title" >"Nhạc chuông"
+                </string>
                 <string name="activity_resolver_use_once" >"Chỉ một lần"
                 </string>
                 <string name="whichApplication" >"Hoàn tất tác vụ đang sử dụng"
-                </string>
-                <string name="ringtone_picker_title" >"Nhạc chuông"
                 </string>
                 <string name="number_picker_increment_scroll_action" >"Trượt lên để tăng và trượt xuống để giảm."
                 </string>
@@ -10178,11 +10178,11 @@ true
                 </string>
                 <string name="number_picker_increment_scroll_mode" >"
                 </string>
+                <string name="chooseActivity" >"בחירת פעולה"
+                </string>
                 <string name="number_picker_increment_button" >"הוסף"
                 </string>
                 <string name="ringtone_default" >"רינגטון ברירת מחדל"
-                </string>
-                <string name="chooseActivity" >"בחירת פעולה"
                 </string>
                 <string name="capital_on" >"מופעל"
                 </string>
@@ -14356,13 +14356,13 @@ false
                 </dimen>
                 <dimen name="abc_action_bar_subtitle_text_size" >14dp
                 </dimen>
-                <dimen name="abc_action_bar_subtitle_top_margin" >-3dp
-                </dimen>
 
                 <bool name="abc_action_bar_expanded_action_views_exclusive" >
 false
                 </bool>
 
+                <dimen name="abc_action_bar_subtitle_top_margin" >-3dp
+                </dimen>
                 <dimen name="abc_action_bar_subtitle_bottom_margin" >9dip
                 </dimen>
 
@@ -14528,11 +14528,11 @@ false
                 </string>
                 <string name="number_picker_increment_scroll_mode" >"
                 </string>
+                <string name="loading" >"Loading…"
+                </string>
                 <string name="noApplications" >"No apps can perform this action."
                 </string>
                 <string name="capital_off" >"OFF"
-                </string>
-                <string name="loading" >"Loading…"
                 </string>
                 <string name="ringtone_default" >"Default ringtone"
                 </string>
@@ -14839,19 +14839,19 @@ false
             <file
                 path="/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fa/values.xml"
                 qualifiers="fa" >
-                <string name="number_picker_decrement_button" >"کاهش"
+                <string name="ringtone_silent" >"هیچکدام"
                 </string>
                 <string name="activity_resolver_use_once" >"فقط این بار"
                 </string>
-                <string name="ringtone_silent" >"هیچکدام"
+                <string name="number_picker_decrement_button" >"کاهش"
                 </string>
                 <string name="loading" >"در حال بارگیری..."
                 </string>
                 <string name="chooseActivity" >"انتخاب عملکرد"
                 </string>
-                <string name="number_picker_increment_scroll_mode" >"
-                </string>
                 <string name="ringtone_default" >"آهنگ زنگ پیش‌فرض"
+                </string>
+                <string name="number_picker_increment_scroll_mode" >"
                 </string>
                 <string name="activity_resolver_use_always" >"همیشه"
                 </string>
@@ -17515,8 +17515,6 @@ true
             <file
                 path="/home/scott/git/kitesong/app/res/values/strings.xml"
                 qualifiers="" >
-                <string name="twitter" >Twitter
-                </string>
                 <string name="action_settings" >Settings
                 </string>
                 <string name="login_tip" >搜索关于时尚的一切
@@ -17525,33 +17523,55 @@ true
                 </string>
                 <string name="facebook" >FaceBook
                 </string>
-                <string name="gplus" >Google+
+                <string name="upload" >上传
                 </string>
-                <string name="title_activity_home" >Home
+                <string name="my_order" >我的订单
+                </string>
+                <string name="gift" >礼物
                 </string>
                 <string name="qzone" >QQ空间
                 </string>
-                <string name="password_hint" >密码
-                </string>
-                <string name="title_activity_more_entrance" >MoreEntrance
-                </string>
-                <string name="sina_weibo" >新浪微博
+                <string name="your_collection" >你的收集
                 </string>
                 <string name="cancel_btn" >取消
                 </string>
                 <string name="more_login_method" >更多登录方式
                 </string>
-                <string name="login_btn_text" >登录
-                </string>
-                <string name="title" >Kitesong
-                </string>
-                <string name="app_name" >kitesong
+                <string name="sina_weibo" >新浪微博
                 </string>
                 <string name="username_hint" >用户名或邮箱
+                </string>
+                <string name="activity" >活动
                 </string>
                 <string name="renren" >人人网
                 </string>
                 <string name="hello_world" >Hello world!
+                </string>
+                <string name="cart" >购物篮
+                </string>
+                <string name="twitter" >Twitter
+                </string>
+                <string name="shop" >商店
+                </string>
+                <string name="gplus" >Google+
+                </string>
+                <string name="title_activity_home" >Home
+                </string>
+                <string name="invite_friends" >邀请朋友
+                </string>
+                <string name="home" >主页
+                </string>
+                <string name="title_activity_more_entrance" >MoreEntrance
+                </string>
+                <string name="password_hint" >密码
+                </string>
+                <string name="settings" >设置
+                </string>
+                <string name="app_name" >kitesong
+                </string>
+                <string name="title" >Kitesong
+                </string>
+                <string name="login_btn_text" >登录
                 </string>
             </file>
             <file
@@ -17865,6 +17885,21 @@ true
             <file
                 name="activity_home"
                 path="/home/scott/git/kitesong/app/res/layout/activity_home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_gifts"
+                path="/home/scott/git/kitesong/app/res/layout/fragment_gifts.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_shop"
+                path="/home/scott/git/kitesong/app/res/layout/fragment_shop.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_activity"
+                path="/home/scott/git/kitesong/app/res/layout/fragment_activity.xml"
                 qualifiers=""
                 type="layout" />
         </source>

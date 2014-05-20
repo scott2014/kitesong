@@ -1,15 +1,14 @@
 package com.kitesong.controller;
 
-import android.os.Bundle;
-
-import com.kitesong.R;
-import com.kitesong.fragment.MainFragment;
-
 import org.holoeverywhere.addon.AddonSlider;
 import org.holoeverywhere.addon.Addons;
 import org.holoeverywhere.app.Activity;
 import org.holoeverywhere.slider.SliderMenu;
-import org.holoeverywhere.widget.FrameLayout;
+
+import android.os.Bundle;
+
+import com.kitesong.R;
+import com.kitesong.fragment.MainFragment;
 
 @Addons(AddonSlider.class)
 public class Home extends Activity {
@@ -23,7 +22,12 @@ public class Home extends Activity {
         super.onCreate(savedInstanceState);
 
         final SliderMenu sliderMenu = addonSlider().obtainDefaultSliderMenu(R.layout.menu);
-
+        
+        sliderMenu.add(R.string.home, MainFragment.class,SliderMenu.BLUE);
+        sliderMenu.add(R.string.activity, MainFragment.class,SliderMenu.BLUE);
+        sliderMenu.add(R.string.gift, MainFragment.class,SliderMenu.BLUE);
+        sliderMenu.add(R.string.shop, MainFragment.class,SliderMenu.BLUE);
+        
        /* sliderMenu.add(R.string.app_name, MainFragment.class,SliderMenu.BLUE);
 
         getSupportActionBar().setTitle(R.string.app_name);*/
