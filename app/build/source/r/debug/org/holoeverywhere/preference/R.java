@@ -809,7 +809,7 @@ public final class R {
 		public static final int action_mode_close_button = 0x7f070031;
 		public static final int activity_chooser_view_content = 0x7f070032;
 		public static final int alertTitle = 0x7f07005d;
-		public static final int ampm_label = 0x7f070095;
+		public static final int ampm_label = 0x7f070094;
 		public static final int animator = 0x7f070073;
 		public static final int atThumb = 0x7f070001;
 		public static final int auto = 0x7f070008;
@@ -838,7 +838,7 @@ public final class R {
 		public static final int dialog = 0x7f07000a;
 		public static final int disableHome = 0x7f070014;
 		public static final int done = 0x7f070072;
-		public static final int done_button = 0x7f070098;
+		public static final int done_button = 0x7f070097;
 		public static final int dropdown = 0x7f07000b;
 		public static final int edit = 0x7f07001a;
 		public static final int edit_query = 0x7f070045;
@@ -853,8 +853,8 @@ public final class R {
 		public static final int headers = 0x7f07007e;
 		public static final int home = 0x7f07001f;
 		public static final int homeAsUp = 0x7f070011;
-		public static final int hour_space = 0x7f070090;
-		public static final int hours = 0x7f070092;
+		public static final int hour_space = 0x7f07008f;
+		public static final int hours = 0x7f070091;
 		public static final int icon = 0x7f070037;
 		public static final int image = 0x7f070034;
 		public static final int increment = 0x7f070020;
@@ -868,10 +868,10 @@ public final class R {
 		public static final int list_footer = 0x7f07007f;
 		public static final int list_item = 0x7f070036;
 		public static final int message = 0x7f070061;
-		public static final int minutes = 0x7f070094;
-		public static final int minutes_space = 0x7f070093;
+		public static final int minutes = 0x7f070093;
+		public static final int minutes_space = 0x7f070092;
 		public static final int mixed = 0x7f070005;
-		public static final int month_text_view = 0x7f070099;
+		public static final int month_text_view = 0x7f070098;
 		public static final int next_button = 0x7f070085;
 		public static final int no = 0x7f070007;
 		public static final int normal = 0x7f07000c;
@@ -904,7 +904,7 @@ public final class R {
 		public static final int search_voice_btn = 0x7f070050;
 		public static final int seekbar = 0x7f07007d;
 		public static final int select_dialog_listview = 0x7f07008a;
-		public static final int separator = 0x7f070091;
+		public static final int separator = 0x7f070090;
 		public static final int shortcut = 0x7f07003b;
 		public static final int showCustom = 0x7f070013;
 		public static final int showHome = 0x7f070010;
@@ -915,9 +915,9 @@ public final class R {
 		public static final int summary = 0x7f07007a;
 		public static final int switchWidget = 0x7f070086;
 		public static final int tabMode = 0x7f07000e;
-		public static final int tabSwipePager = 0x7f07008f;
-		public static final int time_picker = 0x7f070097;
-		public static final int time_picker_dialog = 0x7f070096;
+		public static final int tabSwipePager = 0x7f07008e;
+		public static final int time_picker = 0x7f070096;
+		public static final int time_picker_dialog = 0x7f070095;
 		public static final int title = 0x7f070038;
 		public static final int titleDivider = 0x7f07005e;
 		public static final int titleDividerTop = 0x7f07005b;
