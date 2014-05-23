@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger>
 
+    <dataSet config="2.1.1-SNAPSHOT" >
+        <source path="/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/assets" />
+    </dataSet>
+    <dataSet config="2.1.1-SNAPSHOT" >
+        <source path="/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/slider/2.1.1-SNAPSHOT/assets" />
+    </dataSet>
+    <dataSet config="2.1.1-SNAPSHOT" >
+        <source path="/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/preferences/2.1.1-SNAPSHOT/assets" />
+    </dataSet>
     <dataSet config="main" >
         <source path="/home/scott/git/kitesong/app/src/main/assets" />
+        <source path="/home/scott/git/kitesong/app/assets" >
+            <file
+                name="abc_ic_menu_moreoverflow_normal_holo_light.png"
+                path="/home/scott/git/kitesong/app/assets/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+        </source>
     </dataSet>
     <dataSet config="debug" >
         <source path="/home/scott/git/kitesong/app/src/debug/assets" />

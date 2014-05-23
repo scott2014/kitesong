@@ -11,6 +11,6 @@ import com.kitesong.R;
 public class ActivityFragment  extends Fragment {
 	 @Override
 	    public View onCreateView(org.holoeverywhere.LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-	        return inflater.inflate(R.layout.fragment_main);
+	        return inflater.inflate(R.layout.fragment_activity);
 	    }
 }
