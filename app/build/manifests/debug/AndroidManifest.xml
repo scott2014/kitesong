@@ -2,7 +2,7 @@
 
     <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="19"/>
 
-    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.kitesong.KitesongApplication">
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.kitesong.KitesongApplication" android:theme="@style/Holo.Theme.Light">
         <activity android:label="@string/app_name" android:name="com.kitesong.Kitesong" android:theme="@style/android:Theme.NoTitleBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
