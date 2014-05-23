@@ -8,7 +8,10 @@ import org.holoeverywhere.slider.SliderMenu;
 import android.os.Bundle;
 
 import com.kitesong.R;
+import com.kitesong.fragment.ActivityFragment;
+import com.kitesong.fragment.GiftsFragment;
 import com.kitesong.fragment.MainFragment;
+import com.kitesong.fragment.ShopFragment;
 
 @Addons(AddonSlider.class)
 public class Home extends Activity {
@@ -24,9 +27,9 @@ public class Home extends Activity {
         final SliderMenu sliderMenu = addonSlider().obtainDefaultSliderMenu(R.layout.menu);
         
         sliderMenu.add(R.string.home, MainFragment.class,SliderMenu.BLUE);
-        sliderMenu.add(R.string.activity, MainFragment.class,SliderMenu.BLUE);
-        sliderMenu.add(R.string.gift, MainFragment.class,SliderMenu.BLUE);
-        sliderMenu.add(R.string.shop, MainFragment.class,SliderMenu.BLUE);
+        sliderMenu.add(R.string.activity, ActivityFragment.class,SliderMenu.BLUE);
+        sliderMenu.add(R.string.gift, GiftsFragment.class,SliderMenu.BLUE);
+        sliderMenu.add(R.string.shop, ShopFragment.class,SliderMenu.BLUE);
         
        /* sliderMenu.add(R.string.app_name, MainFragment.class,SliderMenu.BLUE);
 
