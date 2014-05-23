@@ -1,14 +1,44 @@
-apply plugin: 'holoeverywhere-app'
-
-holoeverywhere {
-    apply 'android_default.gradle'
-    publish.artifactId = 'app'
+buildscript {
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		classpath 'com.android.tools.build:gradle:0.8.+'
+	}
 }
 
-dependencies {
-    compile project(':library')
-    compile project(':addons:preferences')
-    compile project(':addons:slider')
-}
+apply plugin: 'android'
 
-/*apply plugin: 'holoeverywhere-publish'*/
+android {
+	compileSdkVersion 19
+	buildToolsVersion "19.0.3"
+	
+	dependencies {
+	    compile project(':library')
+	    compile project(':addons:preferences')
+	    compile project(':addons:slider')
+	}
+	
+	sourceSets {
+		main {
+			manifest {
+				srcFile 'AndroidManifest.xml'
+			}
+			java {
+				srcDir 'src'
+			}
+			res {
+				srcDir 'res'
+			}
+			assets {
+				srcDir 'assets'
+			}
+			resources {
+				srcDir 'src'
+			}
+			aidl {
+				srcDir 'src'
+			}
+		}
+	}
+}
