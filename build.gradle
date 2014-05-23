@@ -23,3 +23,12 @@ allprojects {
 
 apply plugin: 'holoeverywhere-repo'
 apply plugin: 'android-reporting'
+
+task copyRes(type : Copy) {
+	from 'library/gen'
+	into 'app/gen'
+	from 'addons/slider/gen'
+	into 'app/gen'
+	from 'addons/preferences/gen'
+	into 'app/gen'
+}
