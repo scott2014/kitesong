@@ -23,8 +23,12 @@ public class Home extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
-        final SliderMenu sliderMenu = addonSlider().obtainDefaultSliderMenu(R.layout.menu);
+        
+        AddonSlider.AddonSliderA sliderA = addonSlider();
+        
+        final SliderMenu sliderMenu = sliderA.obtainDefaultSliderMenu(R.layout.menu);
+        
+        sliderA.setOverlayActionBar(false);
         
         sliderMenu.add(R.string.home, MainFragment.class,SliderMenu.BLUE);
         sliderMenu.add(R.string.activity, ActivityFragment.class,SliderMenu.BLUE);
