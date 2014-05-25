@@ -3,6 +3,7 @@ package com.kitesong.controller;
 import org.holoeverywhere.addon.AddonSlider;
 import org.holoeverywhere.addon.Addons;
 import org.holoeverywhere.app.Activity;
+import org.holoeverywhere.slider.SliderItem;
 import org.holoeverywhere.slider.SliderMenu;
 
 import android.os.Bundle;
@@ -35,10 +36,9 @@ public class Home extends Activity {
         sliderMenu.add(R.string.gift, GiftsFragment.class,SliderMenu.BLUE);
         sliderMenu.add(R.string.shop, ShopFragment.class,SliderMenu.BLUE);
         
-       /* sliderMenu.add(R.string.app_name, MainFragment.class,SliderMenu.BLUE);
-
-        getSupportActionBar().setTitle(R.string.app_name);*/
-
-     //   ((FrameLayout)findViewById(R.id.fr)).setacti
+        SliderItem item = new SliderItem();
+        sliderMenu.add(item);
+        item.setCustomLayout(R.layout.custom_menu_item);
+        item.setLabel("植物");
     }
 }
