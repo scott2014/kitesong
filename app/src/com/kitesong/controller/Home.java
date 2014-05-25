@@ -31,14 +31,18 @@ public class Home extends Activity {
         
         sliderA.setOverlayActionBar(false);
         
+        SliderItem myItem = new SliderItem();
+        sliderMenu.add(myItem);
+        myItem.setCustomLayout(R.layout.custom_menu_item);
+        myItem.setIcon(R.drawable.ic_launcher);
+        myItem.setLabel("Scott");
+        myItem.setFragmentClass(ShopFragment.class);
+        
+        
         sliderMenu.add(R.string.home, MainFragment.class,SliderMenu.BLUE);
         sliderMenu.add(R.string.activity, ActivityFragment.class,SliderMenu.BLUE);
         sliderMenu.add(R.string.gift, GiftsFragment.class,SliderMenu.BLUE);
         sliderMenu.add(R.string.shop, ShopFragment.class,SliderMenu.BLUE);
         
-        SliderItem item = new SliderItem();
-        sliderMenu.add(item);
-        item.setCustomLayout(R.layout.custom_menu_item);
-        item.setLabel("植物");
     }
 }

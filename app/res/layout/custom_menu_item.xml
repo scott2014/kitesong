@@ -27,6 +27,5 @@
         android:layout_weight="1"
         android:layout_height="match_parent"
         android:gravity="center_vertical"
-        android:textAppearance="?android:textAppearanceMedium" 
-        android:text="测试一下"/>
+        android:textAppearance="?android:textAppearanceMedium" />
 </LinearLayout>
