@@ -25,7 +25,7 @@
     <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-fa/values.xml -->
     <eat-comment />
 
-    <string name="noApplications">"هیچ برنامه‌ای نمی‎تواند این کار را انجام دهد."</string>
+    <string name="noApplications">"‏هیچ برنامه‌ای نمی‎تواند این کار را انجام دهد."</string>
     <string name="number_picker_decrement_button">"کاهش"</string>
     <string name="number_picker_increment_button">"افزایش"</string>
     <string name="number_picker_increment_scroll_action">"برای افزایش به بالا بلغزانید و برای کاهش به پایین بلغزانید."</string>

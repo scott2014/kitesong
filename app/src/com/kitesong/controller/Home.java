@@ -13,6 +13,7 @@ import com.kitesong.fragment.ActivityFragment;
 import com.kitesong.fragment.GiftsFragment;
 import com.kitesong.fragment.MainFragment;
 import com.kitesong.fragment.ShopFragment;
+import com.kitesong.fragment.UserFragment;
 
 @Addons(AddonSlider.class)
 public class Home extends Activity {
@@ -36,8 +37,7 @@ public class Home extends Activity {
         myItem.setCustomLayout(R.layout.custom_menu_item);
         myItem.setIcon(R.drawable.ic_launcher);
         myItem.setLabel("Scott");
-        myItem.setFragmentClass(ShopFragment.class);
-        
+        myItem.setFragmentClass(UserFragment.class);
         
         sliderMenu.add(R.string.home, MainFragment.class,SliderMenu.BLUE);
         sliderMenu.add(R.string.activity, ActivityFragment.class,SliderMenu.BLUE);

@@ -30,4 +30,8 @@
 	<string name="my_order">我的订单</string>
 	<string name="invite_friends">邀请朋友</string>
 	<string name="settings">设置</string>
+	
+	<string name="profile">Profile</string>
+	<string name="fancy">Fancy</string>
+	<string name="lists">Lists</string>
 </resources>

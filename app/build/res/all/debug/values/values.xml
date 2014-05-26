@@ -1227,6 +1227,7 @@
     <eat-comment />
 
     <string name="facebook">FaceBook</string>
+    <string name="fancy">Fancy</string>
     <string name="gift">礼物</string>
     <string name="gplus">Google+</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
@@ -1244,6 +1245,13 @@
     <eat-comment />
 
     <string name="item_is_selected"><ns1:g id="item" example="2013">%1$s</ns1:g> selected</string>
+    <!-- From: file:/home/scott/git/kitesong/app/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="lists">Lists</string>
+    <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->
+    <eat-comment />
+
     <string name="loading">Loading\u2026</string>
     <!-- From: file:/home/scott/git/kitesong/app/res/values/strings.xml -->
     <eat-comment />
@@ -1275,6 +1283,7 @@
     <eat-comment />
 
     <string name="password_hint">密码</string>
+    <string name="profile">Profile</string>
     <string name="qzone">QQ空间</string>
     <string name="renren">人人网</string>
     <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values/values.xml -->

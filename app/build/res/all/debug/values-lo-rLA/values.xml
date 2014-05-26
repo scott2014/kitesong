@@ -40,6 +40,6 @@
     <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-lo-rLA/values.xml -->
     <eat-comment />
 
-    <string name="whichApplication">"ເຮັດວຽກໃຫ້ສຳເລັດໂດຍໃຊ້"</string>
+    <string name="whichApplication">"ດຳເນີນການໂດຍໃຊ້"</string>
 
 </resources>
