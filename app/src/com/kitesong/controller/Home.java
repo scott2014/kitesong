@@ -32,7 +32,7 @@ public class Home extends Activity {
         sliderA.setOverlayActionBar(false);
         
         SliderItem myItem = new SliderItem();
-        sliderMenu.add(myItem);
+        sliderMenu.add(myItem).fillColors(SliderMenu.BLUE);
         myItem.setCustomLayout(R.layout.custom_menu_item);
         myItem.setIcon(R.drawable.ic_launcher);
         myItem.setLabel("Scott");
