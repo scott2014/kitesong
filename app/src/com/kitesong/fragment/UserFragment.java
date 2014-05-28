@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.holoeverywhere.app.Fragment;
+import org.holoeverywhere.widget.TextView;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -79,6 +80,16 @@ public class UserFragment extends Fragment {
         
         InitCursor();
         
+        this.mViewPager.setOnPageChangeListener(new TabPageChangeListener());
+        
+       /* TextView tv1 = (TextView)inflater.inflate(R.id.profile_textView);
+        TextView tv2 = (TextView)inflater.inflate(R.id.fancy_textView);
+        TextView tv3 = (TextView)inflater.inflate(R.id.lists_textView);
+        
+        tv1.setOnClickListener(new TabClickListener(0));
+        tv2.setOnClickListener(new TabClickListener(1));
+        tv3.setOnClickListener(new TabClickListener(2));*/
+        
         return view;
 	}
 	
@@ -118,8 +129,8 @@ public class UserFragment extends Fragment {
 	
 	//页面切换监听器，使游标随着切换移动
 	private class TabPageChangeListener implements OnPageChangeListener {
-		int one = mOffSetX * 2 + mCursorW;
-		int two = one * 2;
+		int one = mOffSetX * 3 + mCursorW;
+		int two = one * 2 - mOffSetX;
 		
 		@Override
 		public void onPageScrollStateChanged(int arg0) {
@@ -134,6 +145,7 @@ public class UserFragment extends Fragment {
 		@Override
 		public void onPageSelected(int index) {
 			Animation animation = new TranslateAnimation(one*currIndex, one*index,0,0);
+			currIndex = index;
 			animation.setFillAfter(true);
 			animation.setDuration(300);
 			mCursor.startAnimation(animation);
