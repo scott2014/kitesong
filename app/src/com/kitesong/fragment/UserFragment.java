@@ -73,7 +73,7 @@ public class UserFragment extends Fragment {
         mViewPager = (ViewPager)view.findViewById(R.id.viewpager);
         mViewPager.setAdapter(pagerAdapter);
         
-        this.mCursor = (ImageView) view.findViewById(R.drawable.cursor);
+        this.mCursor = (ImageView) view.findViewById(R.id.cursor);
         
         this.mContext = view.getContext();
         
