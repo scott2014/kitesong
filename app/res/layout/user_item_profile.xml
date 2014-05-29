@@ -3,7 +3,44 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" 
-    android:background="#ff0000">
+    android:background="#DFE0E0">
     
+    <RelativeLayout android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginLeft="15dp"
+	                android:layout_marginTop="15dp"
+	                android:layout_marginRight="15dp"
+	                android:background="#fff"
+                  >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="horizontal"
+                      android:layout_centerVertical="true"
+                      >
+            <ImageView android:layout_width="65dp"
+                       android:layout_height="65dp"
+                       android:padding="8dp"
+                       android:src="@drawable/cat"
+                       android:background="#eee"/>
+            
+            <LinearLayout android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:orientation="vertical"
+                          android:padding="15dp">
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="yhj"
+                          android:textColor="#000"
+                          android:typeface="monospace"
+                          android:textSize="14sp"/>
+                 <TextView android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:text="harry2020"
+                          android:textColor="#ccc"
+                          android:typeface="monospace"
+                          android:textSize="14sp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
 
 </LinearLayout>
