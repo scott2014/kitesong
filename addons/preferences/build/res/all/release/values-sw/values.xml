@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-sw/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"Kila mara"</string>
+    <string name="activity_resolver_use_once">"Mara moja tu"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-sw/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Nyuma"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-sw/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"wagombeaji"</string>
+    <string name="capital_off">"ZIMA"</string>
+    <string name="capital_on">"Washa"</string>
+    <string name="chooseActivity">"Chagua kitendo"</string>
+    <string name="loading">"Inapakia…"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-sw/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"Ifuatayo"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-sw/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"Hakuna programu zinazoweza kufanya tendo hili."</string>
+    <string name="number_picker_decrement_button">"Punguza"</string>
+    <string name="number_picker_increment_button">"Ongeza"</string>
+    <string name="number_picker_increment_scroll_action">"Sogeza juu ili uongeze na chini ili upunguze."</string>
+    <string name="number_picker_increment_scroll_mode">"</string>
+    <string name="ringtone_default">"Mlio chaguo-msingi"</string>
+    <string name="ringtone_picker_title">"Toni za mlio"</string>
+    <string name="ringtone_silent">"Hamna"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-sw/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"Ruka"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-sw/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"Kamilisha kitendo ukitumia"</string>
+
+</resources>

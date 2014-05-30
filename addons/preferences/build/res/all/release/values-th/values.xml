@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-th/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"ทุกครั้ง"</string>
+    <string name="activity_resolver_use_once">"เฉพาะครั้งนี้"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-th/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"ย้อนกลับ"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-th/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"ตัวเลือก"</string>
+    <string name="capital_off">"ปิด"</string>
+    <string name="capital_on">"เปิด"</string>
+    <string name="chooseActivity">"เลือกการทำงาน"</string>
+    <string name="loading">"กำลังโหลด..."</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-th/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"ถัดไป"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-th/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"ไม่มีแอปพลิเคชันใดทำงานนี้ได้"</string>
+    <string name="number_picker_decrement_button">"ลด"</string>
+    <string name="number_picker_increment_button">"เพิ่ม"</string>
+    <string name="number_picker_increment_scroll_action">"เลื่อนขึ้นเพื่อเพิ่มและเลื่อนลงเพื่อลด"</string>
+    <string name="number_picker_increment_scroll_mode">"แตะ</string>
+    <string name="ringtone_default">"เสียงเรียกเข้าเริ่มต้น"</string>
+    <string name="ringtone_picker_title">"เสียงเรียกเข้า"</string>
+    <string name="ringtone_silent">"ไม่มี"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-th/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"ข้าม"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-th/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"ทำงานให้เสร็จโดยใช้"</string>
+
+</resources>

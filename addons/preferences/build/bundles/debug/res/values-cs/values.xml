@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-cs/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Zpět"</string>
+    <string name="next_button_label">"Další"</string>
+    <string name="skip_button_label">"Přeskočit"</string>
+
+</resources>

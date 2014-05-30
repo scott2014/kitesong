@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-iw/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"תמיד"</string>
+    <string name="activity_resolver_use_once">"רק פעם אחת"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-iw/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"הקודם"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-iw/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"מועמדים"</string>
+    <string name="capital_off">"כבוי"</string>
+    <string name="capital_on">"מופעל"</string>
+    <string name="chooseActivity">"בחירת פעולה"</string>
+    <string name="loading">"טוען..."</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-iw/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"הבא"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-iw/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"אין אפליקציות שיכולות לבצע פעולה זו."</string>
+    <string name="number_picker_decrement_button">"הפחת"</string>
+    <string name="number_picker_increment_button">"הוסף"</string>
+    <string name="number_picker_increment_scroll_action">"הסט למעלה כדי להוסיף ולמטה כדי להפחית."</string>
+    <string name="number_picker_increment_scroll_mode">"</string>
+    <string name="ringtone_default">"רינגטון ברירת מחדל"</string>
+    <string name="ringtone_picker_title">"רינגטונים"</string>
+    <string name="ringtone_silent">"ללא"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-iw/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"דלג"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-iw/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"השלמת פעולה באמצעות"</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/scott/git/kitesong/addons/slider/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/scott/git/kitesong/addons/slider/src/release/assets" />
+    </dataSet>
+
+</merger>

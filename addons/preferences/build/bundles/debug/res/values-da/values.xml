@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-da/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Tilbage"</string>
+    <string name="next_button_label">"Næste"</string>
+    <string name="skip_button_label">"Spring over"</string>
+
+</resources>

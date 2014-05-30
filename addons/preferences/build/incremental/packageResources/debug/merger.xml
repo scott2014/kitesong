@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/scott/git/kitesong/addons/preferences/res" >
+            <file
+                name="preference_list_content_single"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout-w600dp/preference_list_content_single.xml"
+                qualifiers="w600dp"
+                type="layout" />
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-fr-rCA/rb_strings.xml"
+                qualifiers="fr-rCA" >
+                <string name="next_button_label" >"Suivante"
+                </string>
+                <string name="back_button_label" >"Précédent"
+                </string>
+                <string name="skip_button_label" >"Passer"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-in/rb_strings.xml"
+                qualifiers="in" >
+                <string name="next_button_label" >"Selanjutnya"
+                </string>
+                <string name="back_button_label" >"Kembali"
+                </string>
+                <string name="skip_button_label" >"Lewati"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-th/rb_strings.xml"
+                qualifiers="th" >
+                <string name="next_button_label" >"ถัดไป"
+                </string>
+                <string name="back_button_label" >"ย้อนกลับ"
+                </string>
+                <string name="skip_button_label" >"ข้าม"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sl/rb_strings.xml"
+                qualifiers="sl" >
+                <string name="back_button_label" >"Nazaj"
+                </string>
+                <string name="next_button_label" >"Naprej"
+                </string>
+                <string name="skip_button_label" >"Preskoči"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-km/rb_strings.xml"
+                qualifiers="km" >
+                <string name="skip_button_label" >"រំលង"
+                </string>
+                <string name="next_button_label" >"បន្ទាប់"
+                </string>
+                <string name="back_button_label" >"ថយក្រោយ"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-hi/rb_strings.xml"
+                qualifiers="hi" >
+                <string name="back_button_label" >"वापस जाएं"
+                </string>
+                <string name="next_button_label" >"अगला"
+                </string>
+                <string name="skip_button_label" >"छोड़ें"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-vi/rb_strings.xml"
+                qualifiers="vi" >
+                <string name="next_button_label" >"Tiếp theo"
+                </string>
+                <string name="back_button_label" >"Quay lại"
+                </string>
+                <string name="skip_button_label" >"Bỏ qua"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values/rb_strings.xml"
+                qualifiers="" >
+                <string name="back_button_label" >Back
+                </string>
+                <string name="skip_button_label" >Skip
+                </string>
+                <string name="next_button_label" >Next
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values/rb_attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="ListPreference" >
+                    <attr name="android:entries" />
+                    <attr name="android:entryValues" />
+                </declare-styleable>
+                <declare-styleable name="TwoStatePreference" >
+                    <attr name="android:disableDependentsState" />
+                    <attr name="android:summaryOff" />
+                    <attr name="android:summaryOn" />
+                </declare-styleable>
+
+                <attr
+                    name="preferenceLayoutChild"
+                    format="reference" />
+                <attr
+                    name="datePreferenceStyle"
+                    format="reference" />
+                <attr
+                    name="editTextPreferenceStyle"
+                    format="reference" />
+                <attr
+                    name="seekBarDialogPreferenceStyle"
+                    format="reference" />
+                <attr
+                    name="seekBarPreferenceStyle"
+                    format="reference" />
+
+                <declare-styleable name="PreferenceHeader" >
+                    <attr name="android:breadCrumbShortTitle" />
+                    <attr name="android:breadCrumbTitle" />
+                    <attr name="android:fragment" />
+                    <attr name="android:icon" />
+                    <attr name="android:id" />
+                    <attr name="android:summary" />
+                    <attr name="android:title" />
+                </declare-styleable>
+                <declare-styleable name="SeekBarPreference" >
+                    <attr name="android:max" />
+                </declare-styleable>
+
+                <attr
+                    name="preferenceFragmentStyle"
+                    format="reference" />
+                <attr
+                    name="dialogPreferenceStyle"
+                    format="reference" />
+                <attr
+                    name="min"
+                    format="integer" />
+                <attr
+                    name="timePreferenceStyle"
+                    format="reference" />
+
+                <declare-styleable name="NumberPickerPreference" >
+                    <attr name="max" />
+                    <attr name="min" />
+                    <attr name="wrapSelectorWheel" />
+                </declare-styleable>
+                <declare-styleable name="PreferenceFrameLayout" >
+                    <attr name="android:paddingBottom" />
+                    <attr name="android:paddingLeft" />
+                    <attr name="android:paddingRight" />
+                    <attr name="android:paddingTop" />
+                </declare-styleable>
+
+                <attr
+                    name="preferenceCategoryStyle"
+                    format="reference" />
+                <attr
+                    name="preferenceInformationStyle"
+                    format="reference" />
+                <attr
+                    name="switchScreenPreferenceStyle"
+                    format="reference" />
+
+                <declare-styleable name="Intent" >
+                    <attr name="android:action" />
+                    <attr name="android:data" />
+                    <attr name="android:mimeType" />
+                    <attr name="android:targetClass" />
+                    <attr name="android:targetPackage" />
+                </declare-styleable>
+                <declare-styleable name="SwitchPreference" >
+                    <attr name="android:switchTextOff" />
+                    <attr name="android:switchTextOn" />
+                </declare-styleable>
+                <declare-styleable name="Preference" >
+                    <attr name="android:defaultValue" />
+                    <attr name="android:dependency" />
+                    <attr name="android:enabled" />
+                    <attr name="android:fragment" />
+                    <attr name="android:icon" />
+                    <attr name="android:id" />
+                    <attr name="android:key" />
+                    <attr name="android:layout" />
+                    <attr name="android:order" />
+                    <attr name="android:persistent" />
+                    <attr name="android:selectable" />
+                    <attr name="android:shouldDisableView" />
+                    <attr name="android:summary" />
+                    <attr name="android:title" />
+                    <attr name="android:widgetLayout" />
+                    <attr name="dependency" />
+                </declare-styleable>
+                <declare-styleable name="RingtonePreference" >
+                    <attr name="android:ringtoneType" />
+                    <attr name="android:showDefault" />
+                    <attr name="android:showSilent" />
+                </declare-styleable>
+
+                <attr
+                    name="checkBoxPreferenceStyle"
+                    format="reference" />
+
+                <declare-styleable name="Extra" >
+                    <attr name="android:name" />
+                    <attr name="android:value" />
+                </declare-styleable>
+
+                <attr
+                    name="numberPickerPreferenceStyle"
+                    format="reference" />
+                <attr
+                    name="dependency"
+                    format="reference|string" />
+                <attr
+                    name="wrapSelectorWheel"
+                    format="boolean" />
+                <attr
+                    name="yesNoPreferenceStyle"
+                    format="reference" />
+
+                <declare-styleable name="TimePreference" >
+                    <attr name="is24HourView" />
+                </declare-styleable>
+
+                <attr
+                    name="preferenceStyle"
+                    format="reference" />
+
+                <declare-styleable name="DialogPreference" >
+                    <attr name="android:dialogIcon" />
+                    <attr name="android:dialogLayout" />
+                    <attr name="android:dialogMessage" />
+                    <attr name="android:dialogTitle" />
+                    <attr name="android:negativeButtonText" />
+                    <attr name="android:positiveButtonText" />
+                </declare-styleable>
+                <declare-styleable name="PreferenceFrameLayout_Layout" >
+                    <attr name="android:layout_removeBorders" />
+                </declare-styleable>
+
+                <attr
+                    name="preferencePanelStyle"
+                    format="reference" />
+                <attr
+                    name="preferenceScreenStyle"
+                    format="reference" />
+                <attr
+                    name="ringtonePreferenceStyle"
+                    format="reference" />
+                <attr
+                    name="preferenceFrameLayoutStyle"
+                    format="reference" />
+                <attr
+                    name="max"
+                    format="integer" />
+                <attr
+                    name="switchPreferenceStyle"
+                    format="reference" />
+
+                <declare-styleable name="PreferenceGroup" >
+                    <attr name="android:orderingFromXml" />
+                </declare-styleable>
+                <declare-styleable name="IntentCategory" >
+                    <attr name="android:name" />
+                </declare-styleable>
+
+                <attr
+                    name="is24HourView"
+                    format="enum" >
+                    <enum
+                        name="no"
+                        value="-1" />
+                    <enum
+                        name="auto"
+                        value="0" />
+                    <enum
+                        name="yes"
+                        value="1" />
+                </attr>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values/rb_styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="Holo.PreferenceTime"
+                    parent="Holo" >
+                    <item name="is24HourView">
+auto
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceDialog.NumberPickerPreference"
+                    parent="Holo.PreferenceDialog" >
+                    <item name="android:dialogLayout">
+@layout/preference_dialog_numberpicker
+                    </item>
+                    <item name="max">
+10
+                    </item>
+                    <item name="min">
+0
+                    </item>
+                    <item name="wrapSelectorWheel">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceTwoState"
+                    parent="Holo" />
+
+                <style
+                    name="Holo.PreferenceInformation"
+                    parent="Holo" >
+                    <item name="android:enabled">
+false
+                    </item>
+                    <item name="android:layout">
+@layout/preference_information_holo
+                    </item>
+                    <item name="android:shouldDisableView">
+false
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceSeekBar"
+                    parent="Holo" >
+                    <item name="android:layout">
+@layout/preference_widget_seekbar
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceDialog"
+                    parent="Holo" >
+                    <item name="android:negativeButtonText">
+@android:string/cancel
+                    </item>
+                    <item name="android:positiveButtonText">
+@android:string/ok
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceSwitchScreen"
+                    parent="Holo.PreferenceSwitch" >
+                    <item name="android:widgetLayout">
+@layout/preference_widget_switch_screen
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.Internal.Preference.Light"
+                    parent="Holo.Theme.Light" >
+                    <item name="checkBoxPreferenceStyle">
+@style/Holo.PreferenceCheckBox
+                    </item>
+                    <item name="dialogPreferenceStyle">
+@style/Holo.PreferenceDialog
+                    </item>
+                    <item name="editTextPreferenceStyle">
+@style/Holo.PreferenceDialog.EditTextPreference
+                    </item>
+                    <item name="holoTheme">
+preference
+                    </item>
+                    <item name="numberPickerPreferenceStyle">
+@style/Holo.PreferenceDialog.NumberPickerPreference
+                    </item>
+                    <item name="preferenceCategoryStyle">
+@style/Holo.PreferenceCategory
+                    </item>
+                    <item name="preferenceFragmentStyle">
+@style/Holo.PreferenceFragment
+                    </item>
+                    <item name="preferenceFrameLayoutStyle">
+@style/Holo.PreferenceFrameLayout
+                    </item>
+                    <item name="preferenceInformationStyle">
+@style/Holo.PreferenceInformation
+                    </item>
+                    <item name="preferenceLayoutChild">
+@layout/preference_child_holo
+                    </item>
+                    <item name="preferencePanelStyle">
+@style/Holo.PreferencePanel
+                    </item>
+                    <item name="preferenceScreenStyle">
+@style/Holo.PreferenceScreen
+                    </item>
+                    <item name="preferenceStyle">
+@style/Holo.Preference
+                    </item>
+                    <item name="ringtonePreferenceStyle">
+@style/Holo.PreferenceRingtone
+                    </item>
+                    <item name="seekBarDialogPreferenceStyle">
+@style/Holo.PreferenceDialog.SeekBarDialogPreference
+                    </item>
+                    <item name="seekBarPreferenceStyle">
+@style/Holo.PreferenceSeekBar
+                    </item>
+                    <item name="switchPreferenceStyle">
+@style/Holo.PreferenceSwitch
+                    </item>
+                    <item name="switchScreenPreferenceStyle">
+@style/Holo.PreferenceSwitchScreen
+                    </item>
+                    <item name="yesNoPreferenceStyle">
+@style/Holo.PreferenceDialog.YesNoPreference
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceCategory"
+                    parent="Holo" >
+                    <item name="android:layout">
+@layout/preference_category_holo
+                    </item>
+                    <item name="android:selectable">
+false
+                    </item>
+                    <item name="android:shouldDisableView">
+false
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceCheckBox"
+                    parent="Holo.PreferenceTwoState" >
+                    <item name="android:widgetLayout">
+@layout/preference_widget_checkbox
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceFragment"
+                    parent="Holo" >
+                    <item name="android:paddingLeft">
+@dimen/preference_fragment_padding_side
+                    </item>
+                    <item name="android:paddingRight">
+@dimen/preference_fragment_padding_side
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceRingtone"
+                    parent="Holo" >
+                    <item name="android:ringtoneType">
+ringtone
+                    </item>
+                    <item name="android:showDefault">
+true
+                    </item>
+                    <item name="android:showSilent">
+true
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.Internal.Preference"
+                    parent="Holo.Theme" >
+                    <item name="checkBoxPreferenceStyle">
+@style/Holo.PreferenceCheckBox
+                    </item>
+                    <item name="dialogPreferenceStyle">
+@style/Holo.PreferenceDialog
+                    </item>
+                    <item name="editTextPreferenceStyle">
+@style/Holo.PreferenceDialog.EditTextPreference
+                    </item>
+                    <item name="holoTheme">
+preference
+                    </item>
+                    <item name="numberPickerPreferenceStyle">
+@style/Holo.PreferenceDialog.NumberPickerPreference
+                    </item>
+                    <item name="preferenceCategoryStyle">
+@style/Holo.PreferenceCategory
+                    </item>
+                    <item name="preferenceFragmentStyle">
+@style/Holo.PreferenceFragment
+                    </item>
+                    <item name="preferenceFrameLayoutStyle">
+@style/Holo.PreferenceFrameLayout
+                    </item>
+                    <item name="preferenceInformationStyle">
+@style/Holo.PreferenceInformation
+                    </item>
+                    <item name="preferenceLayoutChild">
+@layout/preference_child_holo
+                    </item>
+                    <item name="preferencePanelStyle">
+@style/Holo.PreferencePanel
+                    </item>
+                    <item name="preferenceScreenStyle">
+@style/Holo.PreferenceScreen
+                    </item>
+                    <item name="preferenceStyle">
+@style/Holo.Preference
+                    </item>
+                    <item name="ringtonePreferenceStyle">
+@style/Holo.PreferenceRingtone
+                    </item>
+                    <item name="seekBarDialogPreferenceStyle">
+@style/Holo.PreferenceDialog.SeekBarDialogPreference
+                    </item>
+                    <item name="seekBarPreferenceStyle">
+@style/Holo.PreferenceSeekBar
+                    </item>
+                    <item name="switchPreferenceStyle">
+@style/Holo.PreferenceSwitch
+                    </item>
+                    <item name="switchScreenPreferenceStyle">
+@style/Holo.PreferenceSwitchScreen
+                    </item>
+                    <item name="yesNoPreferenceStyle">
+@style/Holo.PreferenceDialog.YesNoPreference
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceSwitch"
+                    parent="Holo.PreferenceTwoState" >
+                    <item name="android:switchTextOff">
+@string/capital_off
+                    </item>
+                    <item name="android:switchTextOn">
+@string/capital_on
+                    </item>
+                    <item name="android:widgetLayout">
+@layout/preference_widget_switch
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceDialog.SeekBarDialogPreference"
+                    parent="Holo.PreferenceDialog" >
+                    <item name="android:dialogLayout">
+@layout/preference_dialog_seekbar
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceDialog.YesNoPreference"
+                    parent="Holo.PreferenceDialog" >
+                    <item name="android:negativeButtonText">
+@android:string/no
+                    </item>
+                    <item name="android:positiveButtonText">
+@android:string/yes
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceScreen"
+                    parent="Holo" />
+
+                <style
+                    name="Holo.PreferenceDialog.EditTextPreference"
+                    parent="Holo.PreferenceDialog" >
+                    <item name="android:dialogLayout">
+@layout/preference_dialog_edittext
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.PreferenceDate"
+                    parent="Holo" />
+
+                <style
+                    name="Holo.PreferencePanel"
+                    parent="Holo" />
+
+                <style
+                    name="Holo.PreferenceFrameLayout"
+                    parent="Holo" >
+                    <item name="android:paddingBottom">
+@dimen/preference_fragment_padding_bottom
+                    </item>
+                    <item name="android:paddingLeft">
+@dimen/preference_fragment_padding_side
+                    </item>
+                    <item name="android:paddingRight">
+@dimen/preference_fragment_padding_side
+                    </item>
+                    <item name="android:paddingTop">
+0dip
+                    </item>
+                </style>
+
+                <style
+                    name="Holo.Preference"
+                    parent="Holo" >
+                    <item name="android:layout">
+@layout/preference_holo
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values/bools.xml"
+                qualifiers="" >
+                <bool name="preferences_prefer_dual_pane" >
+false
+                </bool>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="preference_screen_side_margin" >0dp
+                </dimen>
+                <dimen name="preference_fragment_padding_bottom" >0dp
+                </dimen>
+
+                <integer name="preference_screen_header_scrollbarStyle" >
+0x02000000
+                </integer>
+
+                <dimen name="preference_item_padding_inner" >8dip
+                </dimen>
+
+                <integer name="preferences_left_pane_weight" >
+4
+                </integer>
+                <integer name="preferences_right_pane_weight" >
+6
+                </integer>
+
+                <dimen name="preference_screen_top_margin" >0dp
+                </dimen>
+                <dimen name="preference_screen_side_margin_negative" >0dp
+                </dimen>
+                <dimen name="preference_breadcrumb_paddingRight" >0dp
+                </dimen>
+                <dimen name="preference_widget_width" >48dp
+                </dimen>
+
+                <integer name="preference_fragment_scrollbarStyle" >
+0x02000000
+                </integer>
+
+                <dimen name="preference_item_padding_side" >8dip
+                </dimen>
+                <dimen name="preference_fragment_padding_side" >16dp
+                </dimen>
+                <dimen name="preference_screen_bottom_margin" >0dp
+                </dimen>
+                <dimen name="preference_screen_header_padding_side" >16dip
+                </dimen>
+                <dimen name="preference_child_padding_side" >16dip
+                </dimen>
+                <dimen name="preference_icon_minWidth" >0dp
+                </dimen>
+                <dimen name="preference_breadcrumb_paddingLeft" >0dp
+                </dimen>
+                <dimen name="preference_screen_header_vertical_padding" >0dp
+                </dimen>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ka-rGE/rb_strings.xml"
+                qualifiers="ka-rGE" >
+                <string name="next_button_label" >"მომდევნო"
+                </string>
+                <string name="back_button_label" >"უკან"
+                </string>
+                <string name="skip_button_label" >"გამოტოვება"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-si-rLK/rb_strings.xml"
+                qualifiers="si-rLK" >
+                <string name="skip_button_label" >"මඟ හරින්න"
+                </string>
+                <string name="back_button_label" >"ආපසු"
+                </string>
+                <string name="next_button_label" >"මීලඟ"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-rm/rb_strings.xml"
+                qualifiers="rm" >
+                <string name="next_button_label" >"Vinavant"
+                </string>
+                <string name="back_button_label" >"Enavos"
+                </string>
+                <string name="skip_button_label" >"Sursiglir"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ms/rb_strings.xml"
+                qualifiers="ms" >
+                <string name="skip_button_label" >"Langkau"
+                </string>
+                <string name="next_button_label" >"Seterusnya"
+                </string>
+                <string name="back_button_label" >"Kembali"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-lv/rb_strings.xml"
+                qualifiers="lv" >
+                <string name="next_button_label" >"Tālāk"
+                </string>
+                <string name="back_button_label" >"Atpakaļ"
+                </string>
+                <string name="skip_button_label" >"Izlaist"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-az/rb_strings.xml"
+                qualifiers="az" >
+                <string name="next_button_label" >"Növbəti"
+                </string>
+                <string name="skip_button_label" >"Keç"
+                </string>
+                <string name="back_button_label" >"Geri"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-am/rb_strings.xml"
+                qualifiers="am" >
+                <string name="next_button_label" >"ቀጥሎ"
+                </string>
+                <string name="skip_button_label" >"ዝለል"
+                </string>
+                <string name="back_button_label" >"ተመለስ"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sw/rb_strings.xml"
+                qualifiers="sw" >
+                <string name="skip_button_label" >"Ruka"
+                </string>
+                <string name="next_button_label" >"Ifuatayo"
+                </string>
+                <string name="back_button_label" >"Nyuma"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-hy-rAM/rb_strings.xml"
+                qualifiers="hy-rAM" >
+                <string name="skip_button_label" >"Բաց թողնել"
+                </string>
+                <string name="back_button_label" >"Հետ"
+                </string>
+                <string name="next_button_label" >"Հաջորդը"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sw720dp/rb_styles.xml"
+                qualifiers="sw720dp" >
+
+                <style
+                    name="Holo.PreferencePanel"
+                    parent="Holo" >
+                    <item name="android:background">
+?detailsElementBackground
+                    </item>
+                    <item name="android:layout_marginBottom">
+@dimen/preference_screen_bottom_margin
+                    </item>
+                    <item name="android:layout_marginLeft">
+@dimen/preference_screen_side_margin
+                    </item>
+                    <item name="android:layout_marginRight">
+@dimen/preference_screen_side_margin
+                    </item>
+                    <item name="android:layout_marginTop">
+@dimen/preference_screen_top_margin
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sw720dp/bools.xml"
+                qualifiers="sw720dp" >
+                <bool name="preferences_prefer_dual_pane" >
+true
+                </bool>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sw720dp/dimens.xml"
+                qualifiers="sw720dp" >
+                <dimen name="preference_breadcrumb_paddingRight" >32dp
+                </dimen>
+                <dimen name="preference_screen_header_padding_side" >0dip
+                </dimen>
+
+                <integer name="preference_screen_header_scrollbarStyle" >
+0x0
+                </integer>
+
+                <dimen name="preference_breadcrumb_paddingLeft" >32dp
+                </dimen>
+                <dimen name="preference_fragment_padding_side" >32dp
+                </dimen>
+                <dimen name="preference_screen_side_margin_negative" >-4dp
+                </dimen>
+                <dimen name="preference_icon_minWidth" >56dp
+                </dimen>
+
+                <integer name="preferences_right_pane_weight" >
+2
+                </integer>
+
+                <dimen name="preference_fragment_padding_bottom" >16dp
+                </dimen>
+                <dimen name="preference_screen_header_vertical_padding" >32dp
+                </dimen>
+
+                <integer name="preferences_left_pane_weight" >
+1
+                </integer>
+
+                <dimen name="preference_screen_side_margin" >0dp
+                </dimen>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sw720dp-w1280dp/dimens.xml"
+                qualifiers="sw720dp-w1280dp" >
+                <dimen name="preference_widget_width" >64dp
+                </dimen>
+                <dimen name="preference_fragment_padding_side" >48dp
+                </dimen>
+                <dimen name="preference_screen_side_margin" >96dp
+                </dimen>
+                <dimen name="preference_breadcrumb_paddingRight" >48dp
+                </dimen>
+                <dimen name="preference_breadcrumb_paddingLeft" >48dp
+                </dimen>
+                <dimen name="preference_screen_side_margin_negative" >-100dp
+                </dimen>
+                <dimen name="preference_fragment_padding_bottom" >48dp
+                </dimen>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sr/rb_strings.xml"
+                qualifiers="sr" >
+                <string name="back_button_label" >"Назад"
+                </string>
+                <string name="skip_button_label" >"Прескочи"
+                </string>
+                <string name="next_button_label" >"Next"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-af/rb_strings.xml"
+                qualifiers="af" >
+                <string name="next_button_label" >"Volgende"
+                </string>
+                <string name="skip_button_label" >"Slaan oor"
+                </string>
+                <string name="back_button_label" >"Terug"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-si/rb_strings.xml"
+                qualifiers="si" >
+                <string name="back_button_label" >"ආපසු"
+                </string>
+                <string name="skip_button_label" >"මඟ හරින්න"
+                </string>
+                <string name="next_button_label" >"මීලඟ"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-nl/rb_strings.xml"
+                qualifiers="nl" >
+                <string name="skip_button_label" >"Overslaan"
+                </string>
+                <string name="next_button_label" >"Volgende"
+                </string>
+                <string name="back_button_label" >"Vorige"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-az-rAZ/rb_strings.xml"
+                qualifiers="az-rAZ" >
+                <string name="skip_button_label" >"Keç"
+                </string>
+                <string name="next_button_label" >"Növbəti"
+                </string>
+                <string name="back_button_label" >"Geri"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sk/rb_strings.xml"
+                qualifiers="sk" >
+                <string name="back_button_label" >"Späť"
+                </string>
+                <string name="skip_button_label" >"Preskočiť"
+                </string>
+                <string name="next_button_label" >"Ďalej"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-iw/rb_strings.xml"
+                qualifiers="iw" >
+                <string name="skip_button_label" >"דלג"
+                </string>
+                <string name="next_button_label" >"הבא"
+                </string>
+                <string name="back_button_label" >"הקודם"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ru/rb_strings.xml"
+                qualifiers="ru" >
+                <string name="next_button_label" >"Далее"
+                </string>
+                <string name="back_button_label" >"Назад"
+                </string>
+                <string name="skip_button_label" >"Пропустить"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-et-rEE/rb_strings.xml"
+                qualifiers="et-rEE" >
+                <string name="skip_button_label" >"Jäta vahele"
+                </string>
+                <string name="next_button_label" >"Järgmine"
+                </string>
+                <string name="back_button_label" >"Tagasi"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-it/rb_strings.xml"
+                qualifiers="it" >
+                <string name="back_button_label" >"Indietro"
+                </string>
+                <string name="next_button_label" >"Avanti"
+                </string>
+                <string name="skip_button_label" >"Ignora"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ne-rNP/rb_strings.xml"
+                qualifiers="ne-rNP" >
+                <string name="next_button_label" >"अर्को"
+                </string>
+                <string name="back_button_label" >"पछाडि"
+                </string>
+                <string name="skip_button_label" >"छोड्नुहोस्"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-lt/rb_strings.xml"
+                qualifiers="lt" >
+                <string name="skip_button_label" >"Praleisti"
+                </string>
+                <string name="back_button_label" >"Atgal"
+                </string>
+                <string name="next_button_label" >"Kitas"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-es/rb_strings.xml"
+                qualifiers="es" >
+                <string name="skip_button_label" >"Saltar"
+                </string>
+                <string name="next_button_label" >"Siguiente"
+                </string>
+                <string name="back_button_label" >"Atrás"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-de/rb_strings.xml"
+                qualifiers="de" >
+                <string name="next_button_label" >"Weiter"
+                </string>
+                <string name="skip_button_label" >"Überspringen"
+                </string>
+                <string name="back_button_label" >"Zurück"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-pl/rb_strings.xml"
+                qualifiers="pl" >
+                <string name="skip_button_label" >"Pomiń"
+                </string>
+                <string name="back_button_label" >"Wróć"
+                </string>
+                <string name="next_button_label" >"Dalej"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-zh-rHK/rb_strings.xml"
+                qualifiers="zh-rHK" >
+                <string name="skip_button_label" >"略過"
+                </string>
+                <string name="next_button_label" >"繼續"
+                </string>
+                <string name="back_button_label" >"返回"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ka/rb_strings.xml"
+                qualifiers="ka" >
+                <string name="skip_button_label" >"გამოტოვება"
+                </string>
+                <string name="next_button_label" >"მომდევნო"
+                </string>
+                <string name="back_button_label" >"უკან"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-hu/rb_strings.xml"
+                qualifiers="hu" >
+                <string name="next_button_label" >"Tovább"
+                </string>
+                <string name="back_button_label" >"Vissza"
+                </string>
+                <string name="skip_button_label" >"Kihagyás"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-fi/rb_strings.xml"
+                qualifiers="fi" >
+                <string name="next_button_label" >"Seuraava"
+                </string>
+                <string name="back_button_label" >"Takaisin"
+                </string>
+                <string name="skip_button_label" >"Ohita"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-fr/rb_strings.xml"
+                qualifiers="fr" >
+                <string name="skip_button_label" >"Ignorer"
+                </string>
+                <string name="back_button_label" >"Retour"
+                </string>
+                <string name="next_button_label" >"Suivant"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-tl/rb_strings.xml"
+                qualifiers="tl" >
+                <string name="next_button_label" >"Susunod"
+                </string>
+                <string name="back_button_label" >"Bumalik"
+                </string>
+                <string name="skip_button_label" >"Laktawan"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ar/rb_strings.xml"
+                qualifiers="ar" >
+                <string name="back_button_label" >"رجوع"
+                </string>
+                <string name="skip_button_label" >"تخطٍ"
+                </string>
+                <string name="next_button_label" >"التالي"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-nb/rb_strings.xml"
+                qualifiers="nb" >
+                <string name="next_button_label" >"Neste"
+                </string>
+                <string name="back_button_label" >"Tilbake"
+                </string>
+                <string name="skip_button_label" >"Hopp over"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-uk/rb_strings.xml"
+                qualifiers="uk" >
+                <string name="next_button_label" >"Далі"
+                </string>
+                <string name="back_button_label" >"Назад"
+                </string>
+                <string name="skip_button_label" >"Пропустити"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-zh-rCN/rb_strings.xml"
+                qualifiers="zh-rCN" >
+                <string name="next_button_label" >"下一步"
+                </string>
+                <string name="skip_button_label" >"跳过"
+                </string>
+                <string name="back_button_label" >"上一步"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-km-rKH/rb_strings.xml"
+                qualifiers="km-rKH" >
+                <string name="skip_button_label" >"រំលង"
+                </string>
+                <string name="next_button_label" >"បន្ទាប់"
+                </string>
+                <string name="back_button_label" >"ថយក្រោយ"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-cs/rb_strings.xml"
+                qualifiers="cs" >
+                <string name="back_button_label" >"Zpět"
+                </string>
+                <string name="next_button_label" >"Další"
+                </string>
+                <string name="skip_button_label" >"Přeskočit"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-zh-rTW/rb_strings.xml"
+                qualifiers="zh-rTW" >
+                <string name="skip_button_label" >"略過"
+                </string>
+                <string name="next_button_label" >"繼續"
+                </string>
+                <string name="back_button_label" >"返回"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-be/rb_strings.xml"
+                qualifiers="be" >
+                <string name="skip_button_label" >"Прапусціць"
+                </string>
+                <string name="next_button_label" >"Далей"
+                </string>
+                <string name="back_button_label" >"Назад"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-lo-rLA/rb_strings.xml"
+                qualifiers="lo-rLA" >
+                <string name="back_button_label" >"ກັບຄືນ"
+                </string>
+                <string name="next_button_label" >"ຕໍ່ໄປ"
+                </string>
+                <string name="skip_button_label" >"ຂ້າມ"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-mn-rMN/rb_strings.xml"
+                qualifiers="mn-rMN" >
+                <string name="next_button_label" >"Дараах"
+                </string>
+                <string name="skip_button_label" >"Алгасах"
+                </string>
+                <string name="back_button_label" >"Буцах"
+                </string>
+            </file>
+            <file
+                name="breadcrumbs_in_fragment"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout-xlarge/breadcrumbs_in_fragment.xml"
+                qualifiers="xlarge"
+                type="layout" />
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-en-rIN/rb_strings.xml"
+                qualifiers="en-rIN" >
+                <string name="skip_button_label" >"Skip"
+                </string>
+                <string name="next_button_label" >"Next"
+                </string>
+                <string name="back_button_label" >"Back"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ko/rb_strings.xml"
+                qualifiers="ko" >
+                <string name="skip_button_label" >"건너뛰기"
+                </string>
+                <string name="next_button_label" >"다음"
+                </string>
+                <string name="back_button_label" >"뒤로"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ro/rb_strings.xml"
+                qualifiers="ro" >
+                <string name="next_button_label" >"Înainte"
+                </string>
+                <string name="back_button_label" >"Înapoi"
+                </string>
+                <string name="skip_button_label" >"Omiteţi"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-en-rGB/rb_strings.xml"
+                qualifiers="en-rGB" >
+                <string name="skip_button_label" >"Skip"
+                </string>
+                <string name="back_button_label" >"Back"
+                </string>
+                <string name="next_button_label" >"Next"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ne/rb_strings.xml"
+                qualifiers="ne" >
+                <string name="next_button_label" >"अर्को"
+                </string>
+                <string name="back_button_label" >"पछाडि"
+                </string>
+                <string name="skip_button_label" >"छोड्नुहोस्"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-lo/rb_strings.xml"
+                qualifiers="lo" >
+                <string name="next_button_label" >"ຕໍ່ໄປ"
+                </string>
+                <string name="skip_button_label" >"ຂ້າມ"
+                </string>
+                <string name="back_button_label" >"ກັບຄືນ"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ja/rb_strings.xml"
+                qualifiers="ja" >
+                <string name="next_button_label" >"次へ"
+                </string>
+                <string name="back_button_label" >"戻る"
+                </string>
+                <string name="skip_button_label" >"スキップ"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-et/rb_strings.xml"
+                qualifiers="et" >
+                <string name="next_button_label" >"Järgmine"
+                </string>
+                <string name="skip_button_label" >"Jäta vahele"
+                </string>
+                <string name="back_button_label" >"Tagasi"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-pt-rPT/rb_strings.xml"
+                qualifiers="pt-rPT" >
+                <string name="skip_button_label" >"Ignorar"
+                </string>
+                <string name="back_button_label" >"Anterior"
+                </string>
+                <string name="next_button_label" >"Seguinte"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-pt/rb_strings.xml"
+                qualifiers="pt" >
+                <string name="skip_button_label" >"Ignorar"
+                </string>
+                <string name="back_button_label" >"Voltar"
+                </string>
+                <string name="next_button_label" >"Avançar"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-tr/rb_strings.xml"
+                qualifiers="tr" >
+                <string name="next_button_label" >"İleri"
+                </string>
+                <string name="back_button_label" >"Geri"
+                </string>
+                <string name="skip_button_label" >"Atla"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ms-rMY/rb_strings.xml"
+                qualifiers="ms-rMY" >
+                <string name="skip_button_label" >"Langkau"
+                </string>
+                <string name="next_button_label" >"Seterusnya"
+                </string>
+                <string name="back_button_label" >"Kembali"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-fa/rb_strings.xml"
+                qualifiers="fa" >
+                <string name="back_button_label" >"برگشت"
+                </string>
+                <string name="skip_button_label" >"پرش"
+                </string>
+                <string name="next_button_label" >"بعدی"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-mn/rb_strings.xml"
+                qualifiers="mn" >
+                <string name="back_button_label" >"Буцах"
+                </string>
+                <string name="skip_button_label" >"Алгасах"
+                </string>
+                <string name="next_button_label" >"Дараах"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sv/rb_strings.xml"
+                qualifiers="sv" >
+                <string name="back_button_label" >"Tillbaka"
+                </string>
+                <string name="next_button_label" >"Nästa"
+                </string>
+                <string name="skip_button_label" >"Hoppa över"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-hr/rb_strings.xml"
+                qualifiers="hr" >
+                <string name="skip_button_label" >"Preskoči"
+                </string>
+                <string name="next_button_label" >"Dalje"
+                </string>
+                <string name="back_button_label" >"Natrag"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" >
+                <dimen name="preference_screen_header_padding_side" >24dip
+                </dimen>
+                <dimen name="preference_fragment_padding_side" >24dp
+                </dimen>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-sw600dp-w960dp/dimens.xml"
+                qualifiers="sw600dp-w960dp" >
+                <dimen name="preference_screen_header_padding_side" >48dp
+                </dimen>
+                <dimen name="preference_fragment_padding_side" >48dp
+                </dimen>
+            </file>
+            <file
+                name="fragment_bread_crumb_item"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/fragment_bread_crumb_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_dialog_edittext"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_dialog_edittext.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_list_fragment"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_list_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_header_item"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_header_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_list_content_single"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_list_content_single.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_holo"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_holo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_child_holo"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_child_holo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_widget_checkbox"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_widget_checkbox.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_dialog_numberpicker"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_dialog_numberpicker.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_widget_switch_screen"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_widget_switch_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_widget_seekbar"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_widget_seekbar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_dialog_seekbar_widget"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_dialog_seekbar_widget.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_widget_switch"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_widget_switch.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="breadcrumbs_in_fragment"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/breadcrumbs_in_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_widget_switch_screen_bar"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_widget_switch_screen_bar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_dialog_seekbar"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_dialog_seekbar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_category_holo"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_category_holo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_list_content"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_list_content.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_information_holo"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/preference_information_holo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_bread_crumbs"
+                path="/home/scott/git/kitesong/addons/preferences/res/layout/fragment_bread_crumbs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-da/rb_strings.xml"
+                qualifiers="da" >
+                <string name="back_button_label" >"Tilbage"
+                </string>
+                <string name="skip_button_label" >"Spring over"
+                </string>
+                <string name="next_button_label" >"Næste"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-ca/rb_strings.xml"
+                qualifiers="ca" >
+                <string name="skip_button_label" >"Omet"
+                </string>
+                <string name="back_button_label" >"Enrere"
+                </string>
+                <string name="next_button_label" >"Següent"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-hy/rb_strings.xml"
+                qualifiers="hy" >
+                <string name="next_button_label" >"Հաջորդը"
+                </string>
+                <string name="back_button_label" >"Հետ"
+                </string>
+                <string name="skip_button_label" >"Բաց թողնել"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-zu/rb_strings.xml"
+                qualifiers="zu" >
+                <string name="next_button_label" >"Okulandelayo"
+                </string>
+                <string name="skip_button_label" >"Yeqa"
+                </string>
+                <string name="back_button_label" >"Emuva"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-es-rUS/rb_strings.xml"
+                qualifiers="es-rUS" >
+                <string name="back_button_label" >"Atrás"
+                </string>
+                <string name="next_button_label" >"Siguiente"
+                </string>
+                <string name="skip_button_label" >"Omitir"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-el/rb_strings.xml"
+                qualifiers="el" >
+                <string name="skip_button_label" >"Παράλειψη"
+                </string>
+                <string name="next_button_label" >"Επόμενο"
+                </string>
+                <string name="back_button_label" >"Πίσω"
+                </string>
+            </file>
+            <file
+                path="/home/scott/git/kitesong/addons/preferences/res/values-bg/rb_strings.xml"
+                qualifiers="bg" >
+                <string name="back_button_label" >"Назад"
+                </string>
+                <string name="next_button_label" >"Напред"
+                </string>
+                <string name="skip_button_label" >"Пропускане"
+                </string>
+            </file>
+        </source>
+        <source path="/home/scott/git/kitesong/addons/preferences/build/res/rs/debug" />
+        <source path="/home/scott/git/kitesong/addons/preferences/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/scott/git/kitesong/addons/preferences/src/debug/res" />
+    </dataSet>
+
+</merger>

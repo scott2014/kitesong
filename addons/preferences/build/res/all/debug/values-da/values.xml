@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"Altid"</string>
+    <string name="activity_resolver_use_once">"Kun én gang"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-da/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Tilbage"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"kandidater"</string>
+    <string name="capital_off">"FRA"</string>
+    <string name="capital_on">"TIL"</string>
+    <string name="chooseActivity">"Vælg en handling"</string>
+    <string name="loading">"Indlæser…"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-da/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"Næste"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"Der er ingen apps, der kan foretage denne handling."</string>
+    <string name="number_picker_decrement_button">"Lavere"</string>
+    <string name="number_picker_increment_button">"Højere"</string>
+    <string name="number_picker_increment_scroll_action">"Glid op for at øge og ned for at mindske."</string>
+    <string name="number_picker_increment_scroll_mode">"Tryk</string>
+    <string name="ringtone_default">"Standardringetone"</string>
+    <string name="ringtone_picker_title">"Ringetoner"</string>
+    <string name="ringtone_silent">"Ingen"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-da/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"Spring over"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-da/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"Fuldfør handling ved hjælp af"</string>
+
+</resources>

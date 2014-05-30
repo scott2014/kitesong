@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <eat-comment />
+
+    <string name="activity_resolver_use_always">"Aina"</string>
+    <string name="activity_resolver_use_once">"Vain kerran"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-fi/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="back_button_label">"Takaisin"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <eat-comment />
+
+    <string name="candidates_style">"kandidaatit"</string>
+    <string name="capital_off">"POIS"</string>
+    <string name="capital_on">"PÄÄLLÄ"</string>
+    <string name="chooseActivity">"Valitse toiminto"</string>
+    <string name="loading">"Ladataan…"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-fi/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="next_button_label">"Seuraava"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <eat-comment />
+
+    <string name="noApplications">"Yksikään sovellus ei voi suorittaa tätä toimintoa."</string>
+    <string name="number_picker_decrement_button">"Vähennä"</string>
+    <string name="number_picker_increment_button">"Lisää"</string>
+    <string name="number_picker_increment_scroll_action">"Lisää tai vähennä arvoa liu\'uttamalla ylös tai alas."</string>
+    <string name="number_picker_increment_scroll_mode">"</string>
+    <string name="ringtone_default">"Oletussoittoääni"</string>
+    <string name="ringtone_picker_title">"Soittoäänet"</string>
+    <string name="ringtone_silent">"Ei mitään"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/res/values-fi/rb_strings.xml -->
+    <eat-comment />
+
+    <string name="skip_button_label">"Ohita"</string>
+    <!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/values-fi/values.xml -->
+    <eat-comment />
+
+    <string name="whichApplication">"Tee toiminto käyttäen sovellusta"</string>
+
+</resources>

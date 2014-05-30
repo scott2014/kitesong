@@ -1,5 +1,5 @@
 #org.springsource.ide.eclipse.gradle.core.preferences.GradleImportPreferences
-#Fri May 23 10:39:51 CST 2014
+#Fri May 30 14:20:50 CST 2014
 addResourceFilters=true
 afterTasks=afterEclipseImport;
 beforeTasks=cleanEclipse;eclipse;
@@ -7,4 +7,4 @@ enableAfterTasks=true
 enableBeforeTasks=true
 enableDSLD=false
 enableDependendencyManagement=true
-projects=;addons;addons/preferences;addons/slider;app;library;
+projects=;addons;addons/preferences;addons/slider;app;sliderlibrary;

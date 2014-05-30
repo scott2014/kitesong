@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/scrubber_track_holo_light" android:id="@android:id/background"></item>
+    <item android:id="@android:id/secondaryProgress">
+        <scale android:drawable="@drawable/scrubber_secondary_holo" android:scaleWidth="100%"></scale>
+    </item>
+    <item android:id="@android:id/progress">
+        <scale android:drawable="@drawable/scrubber_primary_holo" android:scaleWidth="100%"></scale>
+    </item>
+
+</layer-list><!-- From: file:/home/scott/git/kitesong/sliderlibrary/res/drawable/scrubber_progress_horizontal_holo_light.xml --><!-- From: file:/home/scott/git/kitesong/addons/preferences/build/exploded-aar/org.holoeverywhere/sliderlibrary/2.1.1-SNAPSHOT/res/drawable/scrubber_progress_horizontal_holo_light.xml -->
