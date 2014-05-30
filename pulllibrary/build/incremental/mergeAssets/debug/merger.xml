@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/scott/git/kitesong/pulllibrary/src/main/assets" />
+        <source path="/home/scott/git/kitesong/pulllibrary/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/scott/git/kitesong/pulllibrary/src/debug/assets" />
+    </dataSet>
+
+</merger>

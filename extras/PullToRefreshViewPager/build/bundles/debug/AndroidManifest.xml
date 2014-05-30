@@ -1,0 +1,7 @@
+<!-- From: file:/home/scott/git/kitesong/extras/PullToRefreshViewPager/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2110" android:versionName="2.1.1" package="com.handmark.pulltorefresh.extras.viewpager">
+
+    <uses-sdk android:minSdkVersion="4"/>
+
+    <application/>
+
+</manifest>

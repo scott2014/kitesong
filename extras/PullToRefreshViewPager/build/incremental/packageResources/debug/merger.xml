@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshViewPager/src/main/res" />
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshViewPager/res" >
+            <file
+                path="/home/scott/git/kitesong/extras/PullToRefreshViewPager/res/values/ids.xml"
+                qualifiers="" >
+                <item
+                    name="viewpager"
+                    type="id"/>
+            </file>
+            <file
+                name="need_this_for_maven"
+                path="/home/scott/git/kitesong/extras/PullToRefreshViewPager/res/layout/need_this_for_maven.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshViewPager/build/res/rs/debug" />
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshViewPager/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshViewPager/src/debug/res" />
+    </dataSet>
+
+</merger>
