@@ -40,6 +40,6 @@
     <!-- From: file:/home/scott/git/kitesong/app/build/exploded-aar/org.holoeverywhere/library/2.1.1-SNAPSHOT/res/values-da/values.xml -->
     <eat-comment />
 
-    <string name="whichApplication">"Brug"</string>
+    <string name="whichApplication">"Fuldfør handling ved hjælp af"</string>
 
 </resources>

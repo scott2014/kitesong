@@ -1,13 +1,20 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.kitesong.fragment.MainFragment">
+    tools:context="com.kitesong.fragment.MainFragment"
+    android:background="#DADBDB">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/home" />
-
-</FrameLayout>
+    <RelativeLayout android:layout_width="match_parent"
+                                      android:layout_height="wrap_content"
+                                      android:layout_marginLeft="10dp"
+                                      android:layout_marginTop="5dp"
+                                      android:layout_marginRight="0dp"
+                                      android:layout_marginBottom="2.5dp">
+        <ImageView android:layout_width="360dp"
+                                 android:layout_height="360dp"
+                                 android:background="@drawable/t1"
+                                 android:layout_alignParentTop="true"
+                                 />
+    </RelativeLayout>
+</ScrollView>

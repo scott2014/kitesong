@@ -19,6 +19,6 @@
     <string name="ringtone_default">"ຣິງໂທນເລີ່ມຕົ້ນ"</string>
     <string name="ringtone_picker_title">"ຣິງໂທນ"</string>
     <string name="ringtone_silent">"ບໍ່ມີ"</string>
-    <string name="whichApplication">"ດຳເນີນການໂດຍໃຊ້"</string>
+    <string name="whichApplication">"ເຮັດວຽກໃຫ້ສຳເລັດໂດຍໃຊ້"</string>
 
 </resources>

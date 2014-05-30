@@ -19,6 +19,6 @@
     <string name="ringtone_default">"Standardringetone"</string>
     <string name="ringtone_picker_title">"Ringetoner"</string>
     <string name="ringtone_silent">"Ingen"</string>
-    <string name="whichApplication">"Brug"</string>
+    <string name="whichApplication">"Fuldfør handling ved hjælp af"</string>
 
 </resources>
