@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- From: file:/home/scott/git/kitesong/addons/slider/res/values-w720dp/dimens.xml -->
-    <eat-comment />
-
-    <dimen name="menu_width">300dp</dimen>
-
-</resources>

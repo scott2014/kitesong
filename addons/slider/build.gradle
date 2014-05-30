@@ -6,7 +6,7 @@ holoeverywhere {
 }
 
 dependencies {
-    compile project(':library')
+    compile project(':sliderlibrary')
 }
 
 /*apply plugin: 'holoeverywhere-publish'*/

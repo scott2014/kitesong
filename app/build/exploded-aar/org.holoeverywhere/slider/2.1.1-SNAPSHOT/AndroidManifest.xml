@@ -1,4 +1,0 @@
-<!-- From: file:/home/scott/git/kitesong/addons/slider/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2001001" android:versionName="2.1.1-SNAPSHOT" package="org.holoeverywhere.slider">
-    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="19"/>
-    <application/>
-</manifest>

@@ -14,7 +14,7 @@ android {
 	buildToolsVersion "19.0.3"
 	
 	dependencies {
-	    compile project(':library')
+	    compile project(':sliderlibrary')
 	    compile project(':addons:preferences')
 	    compile project(':addons:slider')
 	}
