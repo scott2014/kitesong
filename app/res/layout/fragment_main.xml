@@ -1,20 +1,24 @@
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.kitesong.fragment.MainFragment"
-    android:background="#DADBDB">
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="#DADBDB"
+    android:paddingTop="6dp">
 
-    <RelativeLayout android:layout_width="match_parent"
-                                      android:layout_height="wrap_content"
-                                      android:layout_marginLeft="10dp"
-                                      android:layout_marginTop="5dp"
-                                      android:layout_marginRight="0dp"
-                                      android:layout_marginBottom="2.5dp">
-        <ImageView android:layout_width="360dp"
-                                 android:layout_height="360dp"
-                                 android:background="@drawable/t1"
-                                 android:layout_alignParentTop="true"
-                                 />
-    </RelativeLayout>
-</ScrollView>
+<!--     The PullToRefreshListView replaces a standard ListView widget. -->
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/pull_refresh_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="#DADBDB"
+        android:dividerHeight="6dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true" />
+
+</LinearLayout>

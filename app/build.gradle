@@ -17,6 +17,7 @@ android {
 	    compile project(':sliderlibrary')
 	    compile project(':addons:preferences')
 	    compile project(':addons:slider')
+	    compile project(':pulllibrary')
 	}
 	
 	sourceSets {
