@@ -1,9 +1,12 @@
 package com.kitesong.model;
 
 import android.content.Context;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+
+import com.kitesong.R;
 
 public class ActivityAdapter extends BaseAdapter {
 	
@@ -34,10 +37,12 @@ public class ActivityAdapter extends BaseAdapter {
 	public View getView(int pos, View convertView, ViewGroup viewGroup) {
 		
 		if (convertView == null) {
+			LayoutInflater inflater = LayoutInflater.from(this.mContext);
 			
+			convertView = inflater.inflate(R.layout.activity_list_item,null);
 		}
 		
-		return null;
+		return convertView;
 	}
 
 }

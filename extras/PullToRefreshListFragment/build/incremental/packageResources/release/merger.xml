@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/src/main/res" />
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/res" >
+            <file
+                name="need_this_for_maven"
+                path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/res/layout/need_this_for_maven.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/build/res/rs/release" />
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/build/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/src/release/res" />
+    </dataSet>
+
+</merger>

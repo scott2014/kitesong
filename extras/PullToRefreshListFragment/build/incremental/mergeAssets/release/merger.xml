@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/src/main/assets" />
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/scott/git/kitesong/extras/PullToRefreshListFragment/src/release/assets" />
+    </dataSet>
+
+</merger>
