@@ -8,6 +8,8 @@
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="19" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
@@ -34,6 +36,11 @@
         <activity
             android:name="com.kitesong.controller.Home"
             android:label="@string/title_activity_home" >
+        </activity>
+         <activity
+            android:name="com.kitesong.controller.Waiting"
+            android:label="@string/title_activity_home"
+            android:theme="@style/More_Entrance_Dialog_Style">
         </activity>
     </application>
 
