@@ -3,6 +3,7 @@ package com.kitesong;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.Menu;
@@ -13,10 +14,9 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.kitesong.controller.Home;
 import com.kitesong.controller.MoreEntrance;
-import com.kitesong.controller.Waiting;
-import com.kitesong.model.constant.LoginStatus;
+import com.kitesong.model.broadcast.LoginBroadcastReceiver;
+import com.kitesong.model.service.LoginService;
 
 public class Kitesong extends Activity {
 	
@@ -37,6 +37,11 @@ public class Kitesong extends Activity {
     private Resources rs = null;
     
     public static final int LOGIN_REQUEST_CODE = 0x1;
+    
+    //BroadcastReceiver 
+    public static final String LOGIN_ACTION = Kitesong.class.getName() + ".Login";
+    
+    private LoginBroadcastReceiver mLoginReceiver = null;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -90,7 +95,7 @@ public class Kitesong extends Activity {
             	
             	mTipTextView.setText("");
             	
-            	Intent intent = new Intent(Kitesong.this,Waiting.class);
+            	Intent intent = new Intent(Kitesong.this,LoginService.class);
             	
             	Bundle data = new Bundle();
             	data.putString("username", username);
@@ -98,9 +103,12 @@ public class Kitesong extends Activity {
             	
             	intent.putExtra("data", data);
             	
-            	startActivityForResult(intent,LOGIN_REQUEST_CODE);
+            	startService(intent);
             }
         });
+        
+      
+        
 	}
 
 	@Override
@@ -110,28 +118,22 @@ public class Kitesong extends Activity {
 	}
 
 	@Override
-	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-		if (requestCode == LOGIN_REQUEST_CODE) {
-			if (resultCode == LoginStatus.CONNECT_FAIL) {
-				this.mTipTextView.setText(rs.getString(R.string.connect_fail));
-			}
-			
-			if (resultCode == LoginStatus.USER_NOT_EXIST) {
-				this.mTipTextView.setText(rs.getString(R.string.user_not_exist));
-			}
-			
-			if (resultCode == LoginStatus.PASSWORD_NOT_CORRECT) {
-				this.mTipTextView.setText(rs.getString(R.string.password_not_correct));
-			}
-			
-			if (resultCode == LoginStatus.LOGIN_OK) {
-				Intent intent = getIntent();
-				intent.setClass(this, Home.class);
-				startActivity(intent);
-			}
-		}
+	protected void onStart() {
+		  //register broadcast receiver
+        IntentFilter filter = new IntentFilter();
+        filter.addAction(LOGIN_ACTION);
+        
+        mLoginReceiver = new LoginBroadcastReceiver(mTipTextView,this);
+        this.registerReceiver(mLoginReceiver, filter);
+		super.onStart();
+	}
+
+	@Override
+	protected void onStop() {
+        this.unregisterReceiver(mLoginReceiver);
+		super.onStop();
 	}
 	
 	
-
+	
 }

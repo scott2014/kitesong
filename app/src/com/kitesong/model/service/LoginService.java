@@ -2,7 +2,6 @@ package com.kitesong.model.service;
 
 import android.app.Service;
 import android.content.Intent;
-import android.os.Binder;
 import android.os.Bundle;
 import android.os.IBinder;
 
@@ -13,8 +12,6 @@ public class LoginService extends Service {
 	String mUsername = null;
 	String mPassword = null;
 	
-	private LoginBinder mBinder = new LoginBinder();
-
 	@Override
 	public IBinder onBind(Intent intent) {
 		return null;
@@ -38,8 +35,11 @@ public class LoginService extends Service {
 		Bundle data = intent.getBundleExtra("data");
         this.mUsername = data.getString("username");
         this.mPassword = data.getString("password");
+        
+        LoginTask task = new LoginTask(LoginService.this);
+		task.execute(mUsername,mPassword);
 		
-		return 0;
+		return super.onStartCommand(intent, flags, startId);
 	}
 
 	@Override
@@ -48,12 +48,4 @@ public class LoginService extends Service {
 		return super.onUnbind(intent);
 	}
 	
-	
-	public class LoginBinder extends Binder {
-		
-		public void login() {
-			LoginTask task = new LoginTask();
-			task.execute(mUsername,mPassword);
-		}
-	}
 }

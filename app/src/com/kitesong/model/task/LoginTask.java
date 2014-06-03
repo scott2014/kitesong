@@ -18,20 +18,26 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
-import org.json.JSONException;
-import org.json.JSONObject;
 
-import com.kitesong.controller.Waiting;
-import com.kitesong.model.constant.UrlConst;
-
+import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.util.Log;
 
-public class LoginTask extends AsyncTask<String, Object, Object> {
+import com.kitesong.Kitesong;
+import com.kitesong.controller.Waiting;
+import com.kitesong.model.constant.UrlConst;
+
+public class LoginTask extends AsyncTask<String, Object, String> {
+	
+	private Context mContext = null;
+	
+	public LoginTask(Context context) {
+		this.mContext = context;
+	}
 
 	@Override
-	protected Object doInBackground(String... args) {
+	protected String doInBackground(String... args) {
 
 		String username = args[0];
 		String password = args[1];
@@ -51,7 +57,9 @@ public class LoginTask extends AsyncTask<String, Object, Object> {
 		HttpResponse response = null;
 
 		HttpClient client = new DefaultHttpClient();
-
+		
+		StringBuilder result = new StringBuilder("");
+		
 		try {
 			entity = new UrlEncodedFormEntity(params, "utf8");
 
@@ -61,8 +69,6 @@ public class LoginTask extends AsyncTask<String, Object, Object> {
 
 			if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
 				InputStream is = response.getEntity().getContent();
-
-				StringBuilder result = new StringBuilder("");
 
 				String str = null;
 
@@ -76,38 +82,40 @@ public class LoginTask extends AsyncTask<String, Object, Object> {
 				is.close();
 				br.close();
 
-				JSONObject json = new JSONObject(result.toString());
-
-				int code = json.getInt("code");
-
-				Intent intent = new Intent();
-
 			}
 
 		} catch (UnsupportedEncodingException e) {
-			Log.e(Waiting.class.getName() + "-UnsupportedEncodingException",
-					e.getMessage());
+			Log.e(LoginTask.class.getName() + "-UnsupportedEncodingException",e.getMessage());
 		} catch (ClientProtocolException e) {
-			Log.e(Waiting.class.getName() + "-ClientProtocolException",
-					e.getMessage());
+			Log.e(LoginTask.class.getName() + "-ClientProtocolException",e.getMessage());
 		} catch (IOException e) {
-			Log.e(Waiting.class.getName() + "-IOException", e.getMessage());
-		} catch (JSONException e) {
-			Log.e(Waiting.class.getName() + "-JSONException", e.getMessage());
+			Log.e(LoginTask.class.getName() + "-IOException", e.getMessage());
 		}
-		return null;
+		return result.toString();
 	}
 	
 	
 	@Override
-	protected void onPostExecute(Object result) {
+	protected void onPostExecute(String result) {
+		
+		Waiting.instance.finish();
+		
+		Intent intent = new Intent();
+		
+		intent.putExtra("result",result);
+		intent.setAction(Kitesong.LOGIN_ACTION);
+		this.mContext.sendBroadcast(intent);
 		
 		super.onPostExecute(result);
 	}
 
 	@Override
 	protected void onPreExecute() {
-		// TODO Auto-generated method stub
+		Intent intent = new Intent(mContext,Waiting.class);
+		
+		intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+		
+		this.mContext.startActivity(intent);
 		super.onPreExecute();
 	}
 
