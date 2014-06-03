@@ -3,6 +3,7 @@ package com.kitesong.fragment;
 import org.holoeverywhere.app.Fragment;
 import org.holoeverywhere.widget.Toast;
 
+import android.content.res.Resources;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
@@ -22,6 +23,8 @@ public class MainFragment extends Fragment {
 	
 	//Adapter
 	private MainAdapter mMainAdapter = null;
+	
+	private Resources rs = null;
 
     @Override
     public View onCreateView(org.holoeverywhere.LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -52,6 +55,8 @@ public class MainFragment extends Fragment {
     	
     	this.mListView.setAdapter(mMainAdapter);
     	
+    	this.rs = this.getResources();
+    	
         return rootView;
     }
     
@@ -67,4 +72,15 @@ public class MainFragment extends Fragment {
 			super.onPostExecute(result);
 		}
 	}
+
+	@Override
+	public void onResume() {
+		// TODO Auto-generated method stub
+		super.onResume();
+		this.getSupportActionBar().setTitle(rs.getString(R.string.home));
+		this.getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+		this.getSupportActionBar().setDisplayShowHomeEnabled(true);
+	}
+    
+    
 }

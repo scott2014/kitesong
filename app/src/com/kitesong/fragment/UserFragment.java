@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.holoeverywhere.app.Fragment;
-import org.holoeverywhere.widget.TextView;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -40,6 +39,8 @@ public class UserFragment extends Fragment {
 	private int currIndex = 0;
 	//视图分页类 
 	private ViewPager mViewPager = null;
+	
+	private Resources mRs = null;
 	
 	
 	@Override
@@ -89,6 +90,8 @@ public class UserFragment extends Fragment {
         tv1.setOnClickListener(new TabClickListener(0));
         tv2.setOnClickListener(new TabClickListener(1));
         tv3.setOnClickListener(new TabClickListener(2));*/
+        
+        this.mRs = getResources();
         
         return view;
 	}
@@ -153,4 +156,11 @@ public class UserFragment extends Fragment {
 		
 		
 	}
+	
+	
+	 public void onResume() {
+			// TODO Auto-generated method stub
+			super.onResume();
+			this.getSupportActionBar().setTitle(mRs.getString(R.string.activity));
+		}
 }

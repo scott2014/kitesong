@@ -2,6 +2,7 @@ package com.kitesong.fragment;
 
 import org.holoeverywhere.app.Fragment;
 
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,6 +15,8 @@ public class ActivityFragment  extends Fragment {
 	
 	private PullToRefreshListView mListView = null;
 	
+	private Resources mRs = null;
+	
 	 @Override
 	    public View onCreateView(org.holoeverywhere.LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 	       View rootView = inflater.inflate(R.layout.fragment_activity);
@@ -24,6 +27,15 @@ public class ActivityFragment  extends Fragment {
 	       
 	       this.mListView.setAdapter(adapter);
 	       
+	       this.mRs = getResources();
+	       
 	       return rootView;
 	    }
+	 
+	 
+	 public void onResume() {
+			// TODO Auto-generated method stub
+			super.onResume();
+			this.getSupportActionBar().setTitle(mRs.getString(R.string.activity));
+		}
 }

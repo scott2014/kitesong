@@ -44,5 +44,7 @@ public class Home extends Activity {
 /*        sliderMenu.add(R.string.gift, GiftsFragment.class,SliderMenu.BLUE);
 */        sliderMenu.add(R.string.shop, ShopFragment.class,SliderMenu.BLUE);
         
+        sliderMenu.setCurrentPage(1);
+        
     }
 }
