@@ -43,10 +43,7 @@
             android:theme="@style/More_Entrance_Dialog_Style">
         </activity>
         
-         <service android:name="com.kitesong.model.service.LoginService"
-                  >
-             
-         </service>
+         <service android:name="com.kitesong.model.service.LoginService"></service>
     </application>
 
 </manifest>

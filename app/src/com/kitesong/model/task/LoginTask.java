@@ -90,6 +90,7 @@ public class LoginTask extends AsyncTask<String, Object, String> {
 			Log.e(LoginTask.class.getName() + "-ClientProtocolException",e.getMessage());
 		} catch (IOException e) {
 			Log.e(LoginTask.class.getName() + "-IOException", e.getMessage());
+			
 		}
 		return result.toString();
 	}

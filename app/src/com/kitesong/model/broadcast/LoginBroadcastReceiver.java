@@ -70,6 +70,7 @@ public class LoginBroadcastReceiver extends BroadcastReceiver {
 				}
 			} catch (JSONException e) {
 				Log.e(LoginBroadcastReceiver.class.getName() + "-JSONException",e.getMessage());
+				mTipText.setText(rs.getString(R.string.connect_fail));
 			}
 		}
 	}
